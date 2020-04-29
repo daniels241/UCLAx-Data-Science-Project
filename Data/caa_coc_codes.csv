@@ -1,0 +1,4624 @@
+year,coc_number,coc_name
+2017,AK-500,Anchorage
+2017,AK-501,Alaska Balance of State
+2017,AL-500,"Birmingham/Jefferson, Saint Clair, Shelby Counties"
+2017,AL-501,Mobile City & County/Baldwin County
+2017,AL-507,Alabama Balance of State
+2017,AL-502,Florence/Northwest Alabama
+2017,AL-504,Montgomery City & County
+2017,AL-503,Huntsville/North Alabama
+2017,AL-506,Tuscaloosa City & County
+2017,AR-503,Arkansas Balance of State
+2017,AR-500,Little Rock/Central Arkansas
+2017,AR-505,Southeast Arkansas
+2017,AR-501,Fayetteville/Northwest Arkansas
+2017,AR-512,"Boone, Baxter, Marion, Newton Counties"
+2017,AZ-502,"Phoenix, Mesa/Maricopa County"
+2017,AZ-500,Arizona Balance of State
+2017,AZ-501,Tucson/Pima County
+2017,CA-600,Los Angeles City & County
+2017,CA-602,"Santa Ana, Anaheim/Orange County"
+2017,CA-500,"San Jose, Santa Clara City & County"
+2017,CA-502,"Oakland, Berkeley/Alameda County"
+2017,CA-515,"Roseville, Rocklin/Placer, Nevada Counties"
+2017,CA-604,Bakersfield/Kern County
+2017,CA-601,San Diego City & County
+2017,CA-526,"Tuolumne, Amador, Calaveras, Mariposa Counties"
+2017,CA-518,Vallejo/Solano County
+2017,CA-522,Humboldt County
+2017,CA-504,"Santa Rosa, Petaluma/Sonoma County"
+2017,CA-507,Marin County
+2017,CA-517,Napa City & County
+2017,CA-519,"Chico, Paradise/Butte County"
+2017,CA-613,Imperial County
+2017,CA-501,San Francisco
+2017,CA-516,"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties"
+2017,CA-510,"Turlock, Modesto/Stanislaus County"
+2017,CA-525,El Dorado County
+2017,CA-513,"Visalia/Kings, Tulare Counties"
+2017,CA-506,"Salinas/Monterey, San Benito Counties"
+2017,CA-508,Watsonville/Santa Cruz City & County
+2017,CA-505,Richmond/Contra Costa County
+2017,CA-512,Daly City/San Mateo County
+2017,CA-521,"Davis, Woodland/Yolo County"
+2017,CA-527,Tehama County
+2017,CA-514,Fresno City & County/Madera County
+2017,CA-612,Glendale
+2017,CA-523,"Colusa, Glenn, Trinity Counties"
+2017,CA-609,San Bernardino City & County
+2017,CA-603,Santa Maria/Santa Barbara County
+2017,CA-530,"Alpine, Inyo, Mono Counties"
+2017,CA-606,Long Beach
+2017,CA-611,"Oxnard, San Buenaventura/Ventura County"
+2017,CA-509,Mendocino County
+2017,CA-520,Merced City & County
+2017,CA-503,Sacramento City & County
+2017,CA-607,Pasadena
+2017,CA-608,Riverside City & County
+2017,CA-511,Stockton/San Joaquin County
+2017,CA-614,San Luis Obispo County
+2017,CA-524,Yuba City & County/Sutter County
+2017,CO-504,Colorado Springs/El Paso County
+2017,CO-503,Metropolitan Denver
+2017,CO-500,Colorado Balance of State
+2017,CT-505,Connecticut Balance of State
+2017,CT-503,"Bridgeport, Stamford, Norwalk/Fairfield County"
+2017,DC-500,District of Columbia
+2017,DE-500,Delaware Statewide
+2017,FL-513,"Palm Bay, Melbourne/Brevard County"
+2017,FL-502,"Saint Petersburg, Clearwater, Largo/Pinellas County"
+2017,FL-510,"Jacksonville-Duval, Clay Counties"
+2017,FL-506,Tallahassee/Leon County
+2017,FL-519,Pasco County
+2017,FL-605,West Palm Beach/Palm Beach County
+2017,FL-501,Tampa/Hillsborough County
+2017,FL-503,"Lakeland, Winterhaven/Polk County"
+2017,FL-604,Monroe County
+2017,FL-508,"Gainesville/Alachua, Putnam Counties"
+2017,FL-601,Ft Lauderdale/Broward County
+2017,FL-600,Miami-Dade County
+2017,FL-505,"Fort Walton Beach/Okaloosa, Walton Counties"
+2017,FL-500,"Sarasota, Bradenton/Manatee, Sarasota Counties"
+2017,FL-520,"Citrus, Hernando, Lake, Sumter Counties"
+2017,FL-606,Naples/Collier County
+2017,FL-515,"Panama City/Bay, Jackson Counties"
+2017,FL-511,"Pensacola/Escambia, Santa Rosa Counties"
+2017,FL-512,Saint Johns County
+2017,FL-602,Punta Gorda/Charlotte County
+2017,FL-504,"Daytona Beach, Daytona/Volusia, Flagler Counties"
+2017,FL-517,"Hendry, Hardee, Highlands Counties"
+2017,FL-507,"Orlando/Orange, Osceola, Seminole Counties"
+2017,FL-509,"Fort Pierce/Saint Lucie, Indian River, Martin Counties"
+2017,FL-603,"Ft Myers, Cape Coral/Lee County"
+2017,FL-514,Ocala/Marion County
+2017,FL-518,"Columbia, Hamilton, Lafayette, Suwannee Counties"
+2017,GA-500,Atlanta
+2017,GA-501,Georgia Balance of State
+2017,GA-504,Augusta-Richmond County
+2017,GA-508,DeKalb County
+2017,GA-503,Athens-Clarke County
+2017,GA-502,Fulton County
+2017,GA-506,Marietta/Cobb County
+2017,GA-507,Savannah/Chatham County
+2017,GA-505,Columbus-Muscogee/Russell County
+2017,GU-500,Guam
+2017,HI-501,Honolulu City & County
+2017,HI-500,Hawaii Balance of State
+2017,IA-501,Iowa Balance of State
+2017,IA-500,"Sioux City/Dakota, Woodbury Counties"
+2017,IA-502,Des Moines/Polk County
+2017,ID-500,Boise/Ada County
+2017,ID-501,Idaho Balance of State
+2017,IL-514,Dupage County
+2017,IL-510,Chicago
+2017,IL-502,"Waukegan, North Chicago/Lake County"
+2017,IL-511,Cook County
+2017,IL-520,Southern Illinois
+2017,IL-518,"Rock Island, Moline/Northwestern Illinois"
+2017,IL-508,"East Saint Louis, Belleville/Saint Clair County"
+2017,IL-512,Bloomington/Central Illinois
+2017,IL-501,"Rockford/Winnebago, Boone Counties"
+2017,IL-506,"Joliet, Bolingbrook/Will County"
+2017,IL-515,South Central Illinois
+2017,IL-507,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties"
+2017,IL-504,Madison County
+2017,IL-503,"Champaign, Urbana, Rantoul/Champaign County"
+2017,IL-516,Decatur/Macon County
+2017,IL-509,DeKalb City & County
+2017,IL-517,"Aurora, Elgin/Kane County"
+2017,IL-513,Springfield/Sangamon County
+2017,IL-500,McHenry County
+2017,IL-519,West Central Illinois
+2017,IN-502,Indiana Balance of State
+2017,IN-503,Indianapolis
+2017,KS-505,"Overland Park, Shawnee/Johnson County"
+2017,KS-507,Kansas Balance of State
+2017,KS-502,Wichita/Sedgwick County
+2017,KS-503,Topeka/Shawnee County
+2017,KY-502,Lexington-Fayette County
+2017,KY-501,Louisville-Jefferson County
+2017,KY-500,Kentucky Balance of State
+2017,LA-500,Lafayette/Acadiana Regional
+2017,LA-502,Shreveport/Bossier/Northwest Louisiana
+2017,LA-509,Louisiana Balance of State
+2017,LA-503,New Orleans/Jefferson Parish
+2017,LA-507,Alexandria/Central Louisiana
+2017,LA-505,Monroe/Northeast Louisiana
+2017,LA-508,"Houma-Terrebonne, Thibodaux"
+2017,LA-506,Slidell/Southeast Louisiana
+2017,MA-510,"Gloucester, Haverhill, Salem/Essex County"
+2017,MA-516,Massachusetts Balance of State
+2017,MA-503,Cape Cod Islands
+2017,MA-500,Boston
+2017,MA-509,Cambridge
+2017,MA-519,"Attleboro, Taunton/Bristol County"
+2017,MA-506,Worcester City & County
+2017,MA-515,Fall River
+2017,MA-511,"Quincy, Brockton, Weymouth, Plymouth City & County"
+2017,MA-517,Somerville
+2017,MA-507,"Pittsfield/Berkshire, Franklin, Hampshire Counties"
+2017,MA-508,Lowell
+2017,MA-502,Lynn
+2017,MA-505,New Bedford
+2017,MA-504,Springfield/Hampden County
+2017,MD-509,Frederick City & County
+2017,MD-501,Baltimore
+2017,MD-505,Baltimore County
+2017,MD-500,Cumberland/Allegany County
+2017,MD-503,Annapolis/Anne Arundel County
+2017,MD-506,Carroll County
+2017,MD-508,"Charles, Calvert, Saint Mary's Counties"
+2017,MD-601,Montgomery County
+2017,MD-507,Cecil County
+2017,MD-600,Prince George's County
+2017,MD-510,Garrett County
+2017,MD-502,Harford County
+2017,MD-504,Howard County
+2017,MD-511,Mid-Shore Regional
+2017,MD-512,Hagerstown/Washington County
+2017,MD-513,"Wicomico, Somerset, Worcester Counties"
+2017,ME-500,Maine Balance of State
+2017,MI-500,Michigan Balance of State
+2017,MI-513,"Marquette, Alger Counties"
+2017,MI-504,"Pontiac, Royal Oak/Oakland County"
+2017,MI-501,Detroit
+2017,MI-509,Washtenaw County
+2017,MI-507,"Portage, Kalamazoo City & County"
+2017,MI-519,Holland/Ottawa County
+2017,MI-516,"Norton Shores, Muskegon City & County"
+2017,MI-503,"Saint Clair Shores, Warren/Macomb County"
+2017,MI-502,"Dearborn, Dearborn Heights, Westland/Wayne County"
+2017,MI-506,Grand Rapids/Wyoming/Kent County
+2017,MI-505,Flint/Genesee County
+2017,MI-512,"Grand Traverse, Antrim, Leelanau Counties"
+2017,MI-514,Battle Creek/Calhoun County
+2017,MI-523,Eaton County
+2017,MI-508,"Lansing, East Lansing/Ingham County"
+2017,MI-511,Lenawee County
+2017,MI-518,Livingston County
+2017,MI-515,Monroe City & County
+2017,MI-517,Jackson City & County
+2017,MI-510,Saginaw City & County
+2017,MN-500,Minneapolis/Hennepin County
+2017,MN-501,Saint Paul/Ramsey County
+2017,MN-504,Northeast Minnesota
+2017,MN-509,Duluth/Saint Louis County
+2017,MN-506,Northwest Minnesota
+2017,MN-505,Saint Cloud/Central Minnesota
+2017,MN-502,Rochester/Southeast Minnesota
+2017,MN-503,"Dakota, Anoka, Washington, Scott, Carver Counties"
+2017,MN-508,Moorhead/West Central Minnesota
+2017,MN-511,Southwest Minnesota
+2017,MO-603,"Saint Joseph/Andrew, Buchanan, DeKalb Counties"
+2017,MO-606,Missouri Balance of State
+2017,MO-600,"Springfield/Greene, Christian, Webster Counties"
+2017,MO-602,"Joplin/Jasper, Newton Counties"
+2017,MO-503,"Saint Charles City & County, Lincoln, Warren Counties"
+2017,MO-604,"Kansas City, Independence, Lee's Summit/Jackson, Wyandotte Counties"
+2017,MO-500,Saint Louis County
+2017,MO-501,Saint Louis
+2017,MS-501,Mississippi Balance of State
+2017,MS-503,Gulf Port/Gulf Coast Regional
+2017,MS-500,"Jackson/Rankin, Madison Counties"
+2017,MT-500,Montana Statewide
+2017,NC-502,Durham City & County
+2017,NC-501,Asheville/Buncombe County
+2017,NC-503,North Carolina Balance of State
+2017,NC-506,"Wilmington/Brunswick, New Hanover, Pender Counties"
+2017,NC-513,Chapel Hill/Orange County
+2017,NC-507,Raleigh/Wake County
+2017,NC-505,Charlotte/Mecklenburg County
+2017,NC-511,Fayetteville/Cumberland County
+2017,NC-509,"Gastonia/Cleveland, Gaston, Lincoln Counties"
+2017,NC-504,"Greensboro, High Point"
+2017,NC-516,Northwest North Carolina
+2017,NC-500,Winston-Salem/Forsyth County
+2017,ND-500,North Dakota Statewide
+2017,NE-500,Nebraska Balance of State
+2017,NE-502,Lincoln
+2017,NE-501,"Omaha, Council Bluffs"
+2017,NH-501,Manchester
+2017,NH-502,Nashua/Hillsborough County
+2017,NH-500,New Hampshire Balance of State
+2017,NJ-515,Elizabeth/Union County
+2017,NJ-508,Monmouth County
+2017,NJ-501,Bergen County
+2017,NJ-516,"Warren, Sussex, Hunterdon Counties"
+2017,NJ-513,Somerset County
+2017,NJ-500,Atlantic City & County
+2017,NJ-503,"Camden City & County/Gloucester, Cape May, Cumberland Counties"
+2017,NJ-506,"Jersey City, Bayonne/Hudson County"
+2017,NJ-507,New Brunswick/Middlesex County
+2017,NJ-504,Newark/Essex County
+2017,NJ-510,Lakewood Township/Ocean County
+2017,NJ-511,Paterson/Passaic County
+2017,NJ-509,Morris County
+2017,NJ-502,Burlington County
+2017,NJ-514,Trenton/Mercer County
+2017,NJ-512,Salem County
+2017,NM-501,New Mexico Balance of State
+2017,NM-500,Albuquerque
+2017,NV-502,Nevada Balance of State
+2017,NV-500,Las Vegas/Clark County
+2017,NV-501,"Reno, Sparks/Washoe County"
+2017,NY-523,"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties"
+2017,NY-505,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties"
+2017,NY-503,Albany City & County
+2017,NY-600,New York City
+2017,NY-501,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties"
+2017,NY-603,"Nassau, Suffolk Counties"
+2017,NY-508,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties"
+2017,NY-507,Schenectady City & County
+2017,NY-607,Sullivan County
+2017,NY-500,"Rochester, Irondequoit, Greece/Monroe County"
+2017,NY-511,"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties"
+2017,NY-512,Troy/Rensselaer County
+2017,NY-504,Cattaraugus County
+2017,NY-606,Rockland County
+2017,NY-518,"Utica, Rome/Oneida, Madison Counties"
+2017,NY-514,"Jamestown, Dunkirk/Chautauqua County"
+2017,NY-516,Clinton County
+2017,NY-519,"Columbia, Greene Counties"
+2017,NY-520,"Franklin, Essex Counties"
+2017,NY-522,"Jefferson, Lewis, Saint Lawrence Counties"
+2017,NY-601,Poughkeepsie/Dutchess County
+2017,NY-602,"Newburgh, Middletown/Orange County"
+2017,NY-608,Kingston/Ulster County
+2017,NY-513,"Wayne, Ontario, Seneca, Yates Counties"
+2017,NY-604,"Yonkers, Mount Vernon/Westchester County"
+2017,NY-510,Ithaca/Tompkins County
+2017,OH-506,Akron/Summit County
+2017,OH-507,Ohio Balance of State
+2017,OH-508,"Canton, Massillon, Alliance/Stark County"
+2017,OH-501,Toledo/Lucas County
+2017,OH-504,Youngstown/Mahoning County
+2017,OH-502,Cleveland/Cuyahoga County
+2017,OH-503,Columbus/Franklin County
+2017,OH-505,"Dayton, Kettering/Montgomery County"
+2017,OH-500,Cincinnati/Hamilton County
+2017,OK-505,Northeast Oklahoma
+2017,OK-500,North Central Oklahoma
+2017,OK-501,Tulsa City & County
+2017,OK-504,Norman/Cleveland County
+2017,OK-507,Southeastern Oklahoma Regional
+2017,OK-506,Southwest Oklahoma Regional
+2017,OK-503,Oklahoma Balance of State
+2017,OK-502,Oklahoma City
+2017,OR-502,"Medford, Ashland/Jackson County"
+2017,OR-501,"Portland, Gresham/Multnomah County"
+2017,OR-507,Clackamas County
+2017,OR-503,Central Oregon
+2017,OR-505,Oregon Balance of State
+2017,OR-500,"Eugene, Springfield/Lane County"
+2017,OR-506,"Hillsboro, Beaverton/Washington County"
+2017,PA-500,Philadelphia
+2017,PA-600,"Pittsburgh, McKeesport, Penn Hills/Allegheny County"
+2017,PA-601,Western Pennsylvania
+2017,PA-603,Beaver County
+2017,PA-512,York City & County
+2017,PA-506,Reading/Berks County
+2017,PA-509,Eastern Pennsylvania
+2017,PA-501,Harrisburg/Dauphin County
+2017,PA-511,"Bristol, Bensalem/Bucks County"
+2017,PA-508,Scranton/Lackawanna County
+2017,PA-502,"Upper Darby, Chester, Haverford/Delaware County"
+2017,PA-503,"Wilkes-Barre, Hazleton, Luzerne County"
+2017,PA-505,Chester County
+2017,PA-510,Lancaster City & County
+2017,PA-605,Erie City & County
+2017,PA-504,"Lower Merion, Norristown, Abington/Montgomery County"
+2017,PR-503,South-Southeast Puerto Rico
+2017,PR-502,Puerto Rico Balance of Commonwealth
+2017,RI-500,Rhode Island Statewide
+2017,SC-501,"Greenville, Anderson, Spartanburg/Upstate"
+2017,SC-502,Columbia/Midlands
+2017,SC-503,"Myrtle Beach, Sumter City & County"
+2017,SC-500,Charleston/Low Country
+2017,SD-500,South Dakota Statewide
+2017,TN-501,Memphis/Shelby County
+2017,TN-500,Chattanooga/Southeast Tennessee
+2017,TN-509,Appalachian Regional
+2017,TN-507,Jackson/West Tennessee
+2017,TN-503,Central Tennessee
+2017,TN-504,Nashville-Davidson County
+2017,TN-512,"Morristown/Blount, Sevier, Campbell, Cocke Counties"
+2017,TN-506,Upper Cumberland
+2017,TN-510,Murfreesboro/Rutherford County
+2017,TN-502,Knoxville/Knox County
+2017,TX-607,Texas Balance of State
+2017,TX-700,"Houston, Pasadena, Conroe/Harris, Fort Bend, Montgomery Counties"
+2017,TX-500,San Antonio/Bexar County
+2017,TX-600,"Dallas City & County, Irving"
+2017,TX-611,Amarillo
+2017,TX-601,"Fort Worth, Arlington/Tarrant County"
+2017,TX-503,Austin/Travis County
+2017,TX-603,El Paso City & County
+2017,TX-604,Waco/McLennan County
+2017,TX-624,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties"
+2017,TX-701,"Bryan, College Station/Brazos Valley"
+2017,UT-503,Utah Balance of State
+2017,UT-504,Provo/Mountainland
+2017,UT-500,Salt Lake City & County
+2017,VA-603,Alexandria
+2017,VA-600,Arlington County
+2017,VA-601,Fairfax County
+2017,VA-521,Virginia Balance of State
+2017,VA-503,Virginia Beach
+2017,VA-502,"Roanoke City & County, Salem"
+2017,VA-501,"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties"
+2017,VA-514,"Fredericksburg/Spotsylvania, Stafford Counties"
+2017,VA-505,"Newport News, Hampton/Virginia Peninsula"
+2017,VA-513,"Harrisonburg, Winchester/Western Virginia"
+2017,VA-500,"Richmond/Henrico, Chesterfield, Hanover Counties"
+2017,VA-602,Loudoun County
+2017,VA-508,Lynchburg
+2017,VA-507,Portsmouth
+2017,VA-604,Prince William County
+2017,VA-504,Charlottesville
+2017,VI-500,Virgin Islands
+2017,VT-500,Vermont Balance of State
+2017,VT-501,Burlington/Chittenden County
+2017,WA-501,Washington Balance of State
+2017,WA-500,Seattle/King County
+2017,WA-508,Vancouver/Clark County
+2017,WA-507,Yakima City & County
+2017,WA-503,"Tacoma, Lakewood/Pierce County"
+2017,WA-504,Everett/Snohomish County
+2017,WA-502,Spokane City & County
+2017,WI-500,Wisconsin Balance of State
+2017,WI-501,Milwaukee City & County
+2017,WI-502,Racine City & County
+2017,WI-503,Madison/Dane County
+2017,WV-508,West Virginia Balance of State
+2017,WV-501,"Huntington/Cabell, Wayne Counties"
+2017,WV-503,"Charleston/Kanawha, Putnam, Boone, Clay Counties"
+2017,WV-500,"Wheeling, Weirton Area"
+2017,WY-500,Wyoming Statewide
+2016,AK-501,Alaska Balance of State
+2016,AK-500,Anchorage
+2016,AL-502,Florence/Northwest Alabama
+2016,AL-500,"Birmingham/Jefferson, Saint Clair, Shelby Counties"
+2016,AL-501,Mobile City & County/Baldwin County
+2016,AL-507,Alabama Balance of State
+2016,AL-504,Montgomery City & County
+2016,AL-503,Huntsville/North Alabama
+2016,AL-506,Tuscaloosa City & County
+2016,AR-503,Arkansas Balance of State
+2016,AR-500,Little Rock/Central Arkansas
+2016,AR-505,Southeast Arkansas
+2016,AR-501,Fayetteville/Northwest Arkansas
+2016,AZ-500,Arizona Balance of State
+2016,AZ-501,Tucson/Pima County
+2016,AZ-502,"Phoenix, Mesa/Maricopa County"
+2016,CA-600,Los Angeles City & County
+2016,CA-602,"Santa Ana, Anaheim/Orange County"
+2016,CA-500,"San Jose, Santa Clara City & County"
+2016,CA-502,"Oakland, Berkeley/Alameda County"
+2016,CA-515,"Roseville, Rocklin/Placer, Nevada Counties"
+2016,CA-604,Bakersfield/Kern County
+2016,CA-601,San Diego City & County
+2016,CA-526,"Tuolumne, Amador, Calaveras, Mariposa Counties"
+2016,CA-518,Vallejo/Solano County
+2016,CA-522,Humboldt County
+2016,CA-507,Marin County
+2016,CA-517,Napa City & County
+2016,CA-504,"Santa Rosa, Petaluma/Sonoma County"
+2016,CA-519,"Chico, Paradise/Butte County"
+2016,CA-613,Imperial County
+2016,CA-501,San Francisco
+2016,CA-516,"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties"
+2016,CA-527,Tehama County
+2016,CA-510,"Turlock, Modesto/Stanislaus County"
+2016,CA-525,El Dorado County
+2016,CA-513,"Visalia/Kings, Tulare Counties"
+2016,CA-506,"Salinas/Monterey, San Benito Counties"
+2016,CA-508,Watsonville/Santa Cruz City & County
+2016,CA-505,Richmond/Contra Costa County
+2016,CA-512,Daly City/San Mateo County
+2016,CA-521,"Davis, Woodland/Yolo County"
+2016,CA-603,Santa Maria/Santa Barbara County
+2016,CA-514,Fresno City & County/Madera County
+2016,CA-612,Glendale
+2016,CA-609,San Bernardino City & County
+2016,CA-530,"Alpine, Inyo, Mono Counties"
+2016,CA-606,Long Beach
+2016,CA-611,"Oxnard, San Buenaventura/Ventura County"
+2016,CA-509,Mendocino County
+2016,CA-520,Merced City & County
+2016,CA-503,Sacramento City & County
+2016,CA-607,Pasadena
+2016,CA-608,Riverside City & County
+2016,CA-511,Stockton/San Joaquin County
+2016,CA-614,San Luis Obispo County
+2016,CA-524,Yuba City & County/Sutter County
+2016,CO-504,Colorado Springs/El Paso County
+2016,CO-503,Metropolitan Denver
+2016,CO-500,Colorado Balance of State
+2016,CT-505,Connecticut Balance of State
+2016,CT-503,"Bridgeport, Stamford, Norwalk/Fairfield County"
+2016,DC-500,District of Columbia
+2016,DE-500,Delaware Statewide
+2016,FL-513,"Palm Bay, Melbourne/Brevard County"
+2016,FL-502,"Saint Petersburg, Clearwater, Largo/Pinellas County"
+2016,FL-510,"Jacksonville-Duval, Clay Counties"
+2016,FL-506,Tallahassee/Leon County
+2016,FL-519,Pasco County
+2016,FL-605,West Palm Beach/Palm Beach County
+2016,FL-503,"Lakeland, Winterhaven/Polk County"
+2016,FL-501,Tampa/Hillsborough County
+2016,FL-604,Monroe County
+2016,FL-508,"Gainesville/Alachua, Putnam Counties"
+2016,FL-505,"Fort Walton Beach/Okaloosa, Walton Counties"
+2016,FL-601,Ft Lauderdale/Broward County
+2016,FL-600,Miami-Dade County
+2016,FL-520,"Citrus, Hernando, Lake, Sumter Counties"
+2016,FL-500,"Sarasota, Bradenton/Manatee, Sarasota Counties"
+2016,FL-602,Punta Gorda/Charlotte County
+2016,FL-606,Naples/Collier County
+2016,FL-515,"Panama City/Bay, Jackson Counties"
+2016,FL-511,"Pensacola/Escambia, Santa Rosa Counties"
+2016,FL-504,"Daytona Beach, Daytona/Volusia, Flagler Counties"
+2016,FL-517,"Hendry, Hardee, Highlands Counties"
+2016,FL-512,Saint Johns County
+2016,FL-507,"Orlando/Orange, Osceola, Seminole Counties"
+2016,FL-509,"Fort Pierce/Saint Lucie, Indian River, Martin Counties"
+2016,FL-603,"Ft Myers, Cape Coral/Lee County"
+2016,FL-514,Ocala/Marion County
+2016,FL-518,"Columbia, Hamilton, Lafayette, Suwannee Counties"
+2016,GA-500,Atlanta
+2016,GA-501,Georgia Balance of State
+2016,GA-504,Augusta-Richmond County
+2016,GA-508,DeKalb County
+2016,GA-503,Athens-Clarke County
+2016,GA-502,Fulton County
+2016,GA-506,Marietta/Cobb County
+2016,GA-507,Savannah/Chatham County
+2016,GA-505,Columbus-Muscogee/Russell County
+2016,GU-500,Guam
+2016,HI-501,Honolulu City & County
+2016,HI-500,Hawaii Balance of State
+2016,IA-501,Iowa Balance of State
+2016,IA-500,"Sioux City/Dakota, Woodbury Counties"
+2016,IA-502,Des Moines/Polk County
+2016,ID-500,Boise/Ada County
+2016,ID-501,Idaho Balance of State
+2016,IL-514,Dupage County
+2016,IL-510,Chicago
+2016,IL-502,"Waukegan, North Chicago/Lake County"
+2016,IL-511,Cook County
+2016,IL-520,Southern Illinois
+2016,IL-518,"Rock Island, Moline/Northwestern Illinois"
+2016,IL-508,"East Saint Louis, Belleville/Saint Clair County"
+2016,IL-512,Bloomington/Central Illinois
+2016,IL-506,"Joliet, Bolingbrook/Will County"
+2016,IL-515,South Central Illinois
+2016,IL-507,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties"
+2016,IL-504,Madison County
+2016,IL-503,"Champaign, Urbana, Rantoul/Champaign County"
+2016,IL-516,Decatur/Macon County
+2016,IL-509,DeKalb City & County
+2016,IL-517,"Aurora, Elgin/Kane County"
+2016,IL-513,Springfield/Sangamon County
+2016,IL-500,McHenry County
+2016,IL-519,West Central Illinois
+2016,IL-501,"Rockford/Winnebago, Boone Counties"
+2016,IN-502,Indiana Balance of State
+2016,IN-500,"South Bend, Mishawaka/Saint Joseph County"
+2016,IN-503,Indianapolis
+2016,KS-505,"Overland Park, Shawnee/Johnson County"
+2016,KS-507,Kansas Balance of State
+2016,KS-502,Wichita/Sedgwick County
+2016,KS-503,Topeka/Shawnee County
+2016,KY-502,Lexington-Fayette County
+2016,KY-501,Louisville-Jefferson County
+2016,KY-500,Kentucky Balance of State
+2016,LA-500,Lafayette/Acadiana Regional
+2016,LA-504,Baton Rouge
+2016,LA-502,Shreveport/Bossier/Northwest Louisiana
+2016,LA-509,Louisiana Balance of State
+2016,LA-503,New Orleans/Jefferson Parish
+2016,LA-507,Alexandria/Central Louisiana
+2016,LA-505,Monroe/Northeast Louisiana
+2016,LA-508,"Houma-Terrebonne, Thibodaux"
+2016,LA-506,Slidell/Southeast Louisiana
+2016,MA-510,"Gloucester, Haverhill, Salem/Essex County"
+2016,MA-518,"Brookline, Newton"
+2016,MA-503,Cape Cod Islands
+2016,MA-500,Boston
+2016,MA-509,Cambridge
+2016,MA-519,"Attleboro, Taunton/Bristol County"
+2016,MA-506,Worcester City & County
+2016,MA-516,Massachusetts Balance of State
+2016,MA-515,Fall River
+2016,MA-511,"Quincy, Brockton, Weymouth, Plymouth City & County"
+2016,MA-517,Somerville
+2016,MA-507,"Pittsfield/Berkshire, Franklin, Hampshire Counties"
+2016,MA-508,Lowell
+2016,MA-502,Lynn
+2016,MA-505,New Bedford
+2016,MA-504,Springfield/Hampden County
+2016,MD-509,Frederick City & County
+2016,MD-501,Baltimore
+2016,MD-505,Baltimore County
+2016,MD-500,Cumberland/Allegany County
+2016,MD-503,Annapolis/Anne Arundel County
+2016,MD-506,Carroll County
+2016,MD-508,"Charles, Calvert, Saint Mary's Counties"
+2016,MD-600,Prince George's County
+2016,MD-510,Garrett County
+2016,MD-502,Harford County
+2016,MD-601,Montgomery County
+2016,MD-504,Howard County
+2016,MD-507,Cecil County
+2016,MD-511,Mid-Shore Regional
+2016,MD-512,Hagerstown/Washington County
+2016,MD-513,"Wicomico, Somerset, Worcester Counties"
+2016,ME-502,Portland
+2016,ME-500,Maine Balance of State
+2016,MI-513,"Marquette, Alger Counties"
+2016,MI-500,Michigan Balance of State
+2016,MI-504,"Pontiac, Royal Oak/Oakland County"
+2016,MI-509,Washtenaw County
+2016,MI-523,Eaton County
+2016,MI-501,Detroit
+2016,MI-507,"Portage, Kalamazoo City & County"
+2016,MI-519,Holland/Ottawa County
+2016,MI-516,"Norton Shores, Muskegon City & County"
+2016,MI-503,"Saint Clair Shores, Warren/Macomb County"
+2016,MI-502,"Dearborn, Dearborn Heights, Westland/Wayne County"
+2016,MI-506,Grand Rapids/Wyoming/Kent County
+2016,MI-505,Flint/Genesee County
+2016,MI-512,"Grand Traverse, Antrim, Leelanau Counties"
+2016,MI-514,Battle Creek/Calhoun County
+2016,MI-508,"Lansing, East Lansing/Ingham County"
+2016,MI-511,Lenawee County
+2016,MI-518,Livingston County
+2016,MI-515,Monroe City & County
+2016,MI-517,Jackson City & County
+2016,MI-510,Saginaw City & County
+2016,MN-504,Northeast Minnesota
+2016,MN-500,Minneapolis/Hennepin County
+2016,MN-501,Saint Paul/Ramsey County
+2016,MN-509,Duluth/Saint Louis County
+2016,MN-505,Saint Cloud/Central Minnesota
+2016,MN-506,Northwest Minnesota
+2016,MN-502,Rochester/Southeast Minnesota
+2016,MN-503,"Dakota, Anoka, Washington, Scott, Carver Counties"
+2016,MN-508,Moorhead/West Central Minnesota
+2016,MN-511,Southwest Minnesota
+2016,MO-604,"Kansas City, Independence, Lee's Summit/Jackson, Wyandotte Counties"
+2016,MO-603,"Saint Joseph/Andrew, Buchanan, DeKalb Counties"
+2016,MO-606,Missouri Balance of State
+2016,MO-600,"Springfield/Greene, Christian, Webster Counties"
+2016,MO-602,"Joplin/Jasper, Newton Counties"
+2016,MO-503,"Saint Charles City & County, Lincoln, Warren Counties"
+2016,MO-500,Saint Louis County
+2016,MO-501,Saint Louis
+2016,MS-501,Mississippi Balance of State
+2016,MS-503,Gulf Port/Gulf Coast Regional
+2016,MS-500,"Jackson/Rankin, Madison Counties"
+2016,MT-500,Montana Statewide
+2016,NC-502,Durham City & County
+2016,NC-506,"Wilmington/Brunswick, New Hanover, Pender Counties"
+2016,NC-503,North Carolina Balance of State
+2016,NC-501,Asheville/Buncombe County
+2016,NC-513,Chapel Hill/Orange County
+2016,NC-507,Raleigh/Wake County
+2016,NC-505,Charlotte/Mecklenburg County
+2016,NC-511,Fayetteville/Cumberland County
+2016,NC-509,"Gastonia/Cleveland, Gaston, Lincoln Counties"
+2016,NC-504,"Greensboro, High Point"
+2016,NC-516,Northwest North Carolina
+2016,NC-500,Winston-Salem/Forsyth County
+2016,ND-500,North Dakota Statewide
+2016,NE-500,Nebraska Balance of State
+2016,NE-502,Lincoln
+2016,NE-501,"Omaha, Council Bluffs"
+2016,NH-501,Manchester
+2016,NH-502,Nashua/Hillsborough County
+2016,NH-500,New Hampshire Balance of State
+2016,NJ-515,Elizabeth/Union County
+2016,NJ-508,Monmouth County
+2016,NJ-516,"Warren, Sussex, Hunterdon Counties"
+2016,NJ-501,Bergen County
+2016,NJ-513,Somerset County
+2016,NJ-500,Atlantic City & County
+2016,NJ-503,"Camden City & County/Gloucester, Cape May, Cumberland Counties"
+2016,NJ-506,"Jersey City, Bayonne/Hudson County"
+2016,NJ-507,New Brunswick/Middlesex County
+2016,NJ-510,Lakewood Township/Ocean County
+2016,NJ-504,Newark/Essex County
+2016,NJ-511,Paterson/Passaic County
+2016,NJ-509,Morris County
+2016,NJ-502,Burlington County
+2016,NJ-514,Trenton/Mercer County
+2016,NJ-512,Salem County
+2016,NM-501,New Mexico Balance of State
+2016,NM-500,Albuquerque
+2016,NV-502,Nevada Balance of State
+2016,NV-500,Las Vegas/Clark County
+2016,NV-501,"Reno, Sparks/Washoe County"
+2016,NY-606,Rockland County
+2016,NY-523,"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties"
+2016,NY-505,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties"
+2016,NY-503,Albany City & County
+2016,NY-600,New York City
+2016,NY-501,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties"
+2016,NY-603,"Nassau, Suffolk Counties"
+2016,NY-508,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties"
+2016,NY-507,Schenectady City & County
+2016,NY-511,"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties"
+2016,NY-607,Sullivan County
+2016,NY-500,"Rochester, Irondequoit, Greece/Monroe County"
+2016,NY-512,Troy/Rensselaer County
+2016,NY-504,Cattaraugus County
+2016,NY-518,"Utica, Rome/Oneida, Madison Counties"
+2016,NY-514,"Jamestown, Dunkirk/Chautauqua County"
+2016,NY-516,Clinton County
+2016,NY-519,"Columbia, Greene Counties"
+2016,NY-608,Kingston/Ulster County
+2016,NY-601,Poughkeepsie/Dutchess County
+2016,NY-602,"Newburgh, Middletown/Orange County"
+2016,NY-522,"Jefferson, Lewis, Saint Lawrence Counties"
+2016,NY-513,"Wayne, Ontario, Seneca, Yates Counties"
+2016,NY-520,"Franklin, Essex Counties"
+2016,NY-604,"Yonkers, Mount Vernon/Westchester County"
+2016,NY-510,Ithaca/Tompkins County
+2016,OH-506,Akron/Summit County
+2016,OH-507,Ohio Balance of State
+2016,OH-508,"Canton, Massillon, Alliance/Stark County"
+2016,OH-501,Toledo/Lucas County
+2016,OH-504,Youngstown/Mahoning County
+2016,OH-502,Cleveland/Cuyahoga County
+2016,OH-503,Columbus/Franklin County
+2016,OH-505,"Dayton, Kettering/Montgomery County"
+2016,OH-500,Cincinnati/Hamilton County
+2016,OK-505,Northeast Oklahoma
+2016,OK-501,Tulsa City & County
+2016,OK-500,North Central Oklahoma
+2016,OK-504,Norman/Cleveland County
+2016,OK-507,Southeastern Oklahoma Regional
+2016,OK-506,Southwest Oklahoma Regional
+2016,OK-503,Oklahoma Balance of State
+2016,OK-502,Oklahoma City
+2016,OR-502,"Medford, Ashland/Jackson County"
+2016,OR-505,Oregon Balance of State
+2016,OR-501,"Portland, Gresham/Multnomah County"
+2016,OR-507,Clackamas County
+2016,OR-503,Central Oregon
+2016,OR-500,"Eugene, Springfield/Lane County"
+2016,OR-506,"Hillsboro, Beaverton/Washington County"
+2016,PA-500,Philadelphia
+2016,PA-600,"Pittsburgh, McKeesport, Penn Hills/Allegheny County"
+2016,PA-601,Western Pennsylvania
+2016,PA-603,Beaver County
+2016,PA-512,York City & County
+2016,PA-506,Reading/Berks County
+2016,PA-509,Eastern Pennsylvania
+2016,PA-501,Harrisburg/Dauphin County
+2016,PA-511,"Bristol, Bensalem/Bucks County"
+2016,PA-508,Scranton/Lackawanna County
+2016,PA-502,"Upper Darby, Chester, Haverford/Delaware County"
+2016,PA-503,"Wilkes-Barre, Hazleton, Luzerne County"
+2016,PA-505,Chester County
+2016,PA-510,Lancaster City & County
+2016,PA-605,Erie City & County
+2016,PA-504,"Lower Merion, Norristown, Abington/Montgomery County"
+2016,PR-503,South-Southeast Puerto Rico
+2016,PR-502,Puerto Rico Balance of Commonwealth
+2016,RI-500,Rhode Island Statewide
+2016,SC-501,"Greenville, Anderson, Spartanburg/Upstate"
+2016,SC-500,Charleston/Low Country
+2016,SC-503,"Myrtle Beach, Sumter City & County"
+2016,SC-502,Columbia/Midlands
+2016,SD-500,South Dakota Statewide
+2016,TN-501,Memphis/Shelby County
+2016,TN-500,Chattanooga/Southeast Tennessee
+2016,TN-504,Nashville-Davidson County
+2016,TN-509,Appalachian Regional
+2016,TN-507,Jackson/West Tennessee
+2016,TN-503,Central Tennessee
+2016,TN-512,"Morristown/Blount, Sevier, Campbell, Cocke Counties"
+2016,TN-506,Upper Cumberland
+2016,TN-510,Murfreesboro/Rutherford County
+2016,TN-502,Knoxville/Knox County
+2016,TX-607,Texas Balance of State
+2016,TX-700,"Houston, Pasadena, Conroe/Harris, Fort Bend, Montgomery Counties"
+2016,TX-500,San Antonio/Bexar County
+2016,TX-600,"Dallas City & County, Irving"
+2016,TX-611,Amarillo
+2016,TX-601,"Fort Worth, Arlington/Tarrant County"
+2016,TX-503,Austin/Travis County
+2016,TX-603,El Paso City & County
+2016,TX-604,Waco/McLennan County
+2016,TX-624,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties"
+2016,TX-701,"Bryan, College Station/Brazos Valley"
+2016,UT-503,Utah Balance of State
+2016,UT-504,Provo/Mountainland
+2016,UT-500,Salt Lake City & County
+2016,VA-603,Alexandria
+2016,VA-600,Arlington County
+2016,VA-601,Fairfax County
+2016,VA-521,Virginia Balance of State
+2016,VA-503,Virginia Beach
+2016,VA-502,"Roanoke City & County, Salem"
+2016,VA-501,"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties"
+2016,VA-514,"Fredericksburg/Spotsylvania, Stafford Counties"
+2016,VA-505,"Newport News, Hampton/Virginia Peninsula"
+2016,VA-513,"Harrisonburg, Winchester/Western Virginia"
+2016,VA-500,"Richmond/Henrico, Chesterfield, Hanover Counties"
+2016,VA-602,Loudoun County
+2016,VA-508,Lynchburg
+2016,VA-507,Portsmouth
+2016,VA-604,Prince William County
+2016,VA-504,Charlottesville
+2016,VI-500,Virgin Islands
+2016,VT-500,Vermont Balance of State
+2016,VT-501,Burlington/Chittenden County
+2016,WA-501,Washington Balance of State
+2016,WA-500,Seattle/King County
+2016,WA-508,Vancouver/Clark County
+2016,WA-507,Yakima City & County
+2016,WA-503,"Tacoma, Lakewood/Pierce County"
+2016,WA-504,Everett/Snohomish County
+2016,WA-502,Spokane City & County
+2016,WI-500,Wisconsin Balance of State
+2016,WI-502,Racine City & County
+2016,WI-501,Milwaukee City & County
+2016,WI-503,Madison/Dane County
+2016,WV-508,West Virginia Balance of State
+2016,WV-501,"Huntington/Cabell, Wayne Counties"
+2016,WV-503,"Charleston/Kanawha, Putnam, Boone, Clay Counties"
+2016,WV-500,"Wheeling, Weirton Area"
+2016,WY-500,Wyoming Statewide
+2015,AK-501,Alaska Balance of State
+2015,AK-500,Anchorage
+2015,AL-502,Florence/Northwest Alabama
+2015,AL-500,"Birmingham/Jefferson, Saint Clair, Shelby Counties"
+2015,AL-501,Mobile City & County/Baldwin County
+2015,AL-507,Alabama Balance of State
+2015,AL-504,Montgomery City & County
+2015,AL-503,Huntsville/North Alabama
+2015,AL-506,Tuscaloosa City & County
+2015,AR-500,Little Rock/Central Arkansas
+2015,AR-503,Arkansas Balance of State
+2015,AR-505,Southeast Arkansas
+2015,AR-501,Fayetteville/Northwest Arkansas
+2015,AR-504,Delta Hills
+2015,AZ-502,"Phoenix, Mesa/Maricopa County"
+2015,AZ-500,Arizona Balance of State
+2015,AZ-501,Tucson/Pima County
+2015,CA-600,Los Angeles City & County
+2015,CA-602,"Santa Ana, Anaheim/Orange County"
+2015,CA-500,"San Jose, Santa Clara City & County"
+2015,CA-502,"Oakland, Berkeley/Alameda County"
+2015,CA-515,"Roseville, Rocklin/Placer, Nevada Counties"
+2015,CA-604,Bakersfield/Kern County
+2015,CA-601,San Diego City & County
+2015,CA-526,"Tuolumne, Amador, Calaveras, Mariposa Counties"
+2015,CA-518,Vallejo/Solano County
+2015,CA-522,Humboldt County
+2015,CA-504,"Santa Rosa, Petaluma/Sonoma County"
+2015,CA-507,Marin County
+2015,CA-517,Napa City & County
+2015,CA-519,"Chico, Paradise/Butte County"
+2015,CA-613,Imperial County
+2015,CA-501,San Francisco
+2015,CA-516,Redding/Shasta County
+2015,CA-527,Tehama County
+2015,CA-510,"Turlock, Modesto/Stanislaus County"
+2015,CA-525,El Dorado County
+2015,CA-513,"Visalia/Kings, Tulare Counties"
+2015,CA-506,"Salinas/Monterey, San Benito Counties"
+2015,CA-520,Merced City & County
+2015,CA-508,Watsonville/Santa Cruz City & County
+2015,CA-505,Richmond/Contra Costa County
+2015,CA-512,Daly City/San Mateo County
+2015,CA-521,"Davis, Woodland/Yolo County"
+2015,CA-603,Santa Maria/Santa Barbara County
+2015,CA-514,Fresno City & County/Madera County
+2015,CA-612,Glendale
+2015,CA-609,San Bernardino City & County
+2015,CA-615,"Alpine, Inyo, Mono Counties"
+2015,CA-606,Long Beach
+2015,CA-611,"Oxnard, San Buenaventura/Ventura County"
+2015,CA-509,Mendocino County
+2015,CA-607,Pasadena
+2015,CA-503,Sacramento City & County
+2015,CA-608,Riverside City & County
+2015,CA-511,Stockton/San Joaquin County
+2015,CA-614,San Luis Obispo County
+2015,CA-524,Yuba City/Sutter County
+2015,CO-504,Colorado Springs/El Paso County
+2015,CO-503,Metropolitan Denver
+2015,CO-500,Colorado Balance of State
+2015,CT-505,Connecticut Balance of State
+2015,CT-503,"Bridgeport, Stamford, Norwalk/Fairfield County"
+2015,CT-502,Hartford
+2015,DC-500,District of Columbia
+2015,DE-500,Delaware Statewide
+2015,FL-513,"Palm Bay, Melbourne/Brevard County"
+2015,FL-502,"Saint Petersburg, Clearwater, Largo/Pinellas County"
+2015,FL-510,"Jacksonville-Duval, Clay Counties"
+2015,FL-506,Tallahassee/Leon County
+2015,FL-519,Pasco County
+2015,FL-605,West Palm Beach/Palm Beach County
+2015,FL-501,Tampa/Hillsborough County
+2015,FL-503,"Lakeland, Winterhaven/Polk County"
+2015,FL-517,"Hendry, Hardee, Highlands Counties"
+2015,FL-604,Monroe County
+2015,FL-508,"Gainesville/Alachua, Putnam Counties"
+2015,FL-518,"Columbia, Hamilton, Lafayette, Suwannee Counties"
+2015,FL-505,"Fort Walton Beach/Okaloosa, Walton Counties"
+2015,FL-601,Ft Lauderdale/Broward County
+2015,FL-600,Miami-Dade County
+2015,FL-500,"Sarasota, Bradenton/Manatee, Sarasota Counties"
+2015,FL-602,Punta Gorda/Charlotte County
+2015,FL-520,"Citrus, Hernando, Lake, Sumter Counties"
+2015,FL-606,Naples/Collier County
+2015,FL-515,"Panama City/Bay, Jackson Counties"
+2015,FL-512,Saint Johns County
+2015,FL-511,"Pensacola/Escambia, Santa Rosa Counties"
+2015,FL-504,"Daytona Beach, Daytona/Volusia, Flagler Counties"
+2015,FL-507,"Orlando/Orange, Osceola, Seminole Counties"
+2015,FL-509,"Fort Pierce/Saint Lucie, Indian River, Martin Counties"
+2015,FL-603,"Ft Myers, Cape Coral/Lee County"
+2015,FL-514,Ocala/Marion County
+2015,GA-501,Georgia Balance of State
+2015,GA-504,Augusta-Richmond County
+2015,GA-508,DeKalb County
+2015,GA-503,Athens-Clarke County
+2015,GA-500,Atlanta
+2015,GA-502,Fulton County
+2015,GA-506,Marietta/Cobb County
+2015,GA-507,Savannah/Chatham County
+2015,GA-505,Columbus-Muscogee/Russell County
+2015,GU-500,Guam
+2015,HI-501,Honolulu City & County
+2015,HI-500,Hawaii Balance of State
+2015,IA-501,Iowa Balance of State
+2015,IA-500,"Sioux City/Dakota, Woodbury Counties"
+2015,IA-502,Des Moines/Polk County
+2015,ID-500,Boise/Ada County
+2015,ID-501,Idaho Balance of State
+2015,IL-514,Dupage County
+2015,IL-510,Chicago
+2015,IL-502,"Waukegan, North Chicago/Lake County"
+2015,IL-511,Cook County
+2015,IL-520,Southern Illinois
+2015,IL-518,"Rock Island, Moline/Northwestern Illinois"
+2015,IL-508,"East Saint Louis, Belleville/Saint Clair County"
+2015,IL-512,Bloomington/Central Illinois
+2015,IL-506,"Joliet, Bolingbrook/Will County"
+2015,IL-515,South Central Illinois
+2015,IL-507,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties"
+2015,IL-504,Madison County
+2015,IL-503,"Champaign, Urbana, Rantoul/Champaign County"
+2015,IL-516,Decatur/Macon County
+2015,IL-509,DeKalb City & County
+2015,IL-517,"Aurora, Elgin/Kane County"
+2015,IL-513,Springfield/Sangamon County
+2015,IL-500,McHenry County
+2015,IL-519,West Central Illinois
+2015,IL-501,"Rockford/Winnebago, Boone Counties"
+2015,IN-502,Indiana Balance of State
+2015,IN-500,"South Bend, Mishawaka/Saint Joseph County"
+2015,IN-503,Indianapolis
+2015,KS-501,Kansas City/Wyandotte County
+2015,KS-505,"Overland Park, Shawnee/Johnson County"
+2015,KS-507,Kansas Balance of State
+2015,KS-502,Wichita/Sedgwick County
+2015,KS-503,Topeka/Shawnee County
+2015,KY-502,Lexington-Fayette County
+2015,KY-500,Kentucky Balance of State
+2015,KY-501,Louisville-Jefferson County
+2015,LA-500,Lafayette/Acadiana Regional
+2015,LA-504,Baton Rouge
+2015,LA-502,Shreveport/Bossier/Northwest Louisiana
+2015,LA-503,New Orleans/Jefferson Parish
+2015,LA-507,Alexandria/Central Louisiana
+2015,LA-505,Monroe/Northeast Louisiana
+2015,LA-508,"Houma-Terrebonne, Thibodaux"
+2015,LA-509,Louisiana Balance of State
+2015,LA-506,Slidell/Southeast Louisiana
+2015,MA-510,"Gloucester, Haverhill, Salem/Essex County"
+2015,MA-518,"Brookline, Newton"
+2015,MA-503,Cape Cod Islands
+2015,MA-500,Boston
+2015,MA-509,Cambridge
+2015,MA-517,Somerville
+2015,MA-519,"Attleboro, Taunton/Bristol County"
+2015,MA-506,Worcester City & County
+2015,MA-516,Massachusetts Balance of State
+2015,MA-515,Fall River
+2015,MA-511,"Quincy, Brockton, Weymouth, Plymouth City & County"
+2015,MA-507,"Pittsfield/Berkshire, Franklin, Hampshire Counties"
+2015,MA-508,Lowell
+2015,MA-502,Lynn
+2015,MA-505,New Bedford
+2015,MA-504,Springfield/Hampden County
+2015,MD-509,Frederick City & County
+2015,MD-501,Baltimore
+2015,MD-505,Baltimore County
+2015,MD-500,Cumberland/Allegany County
+2015,MD-503,Annapolis/Anne Arundel County
+2015,MD-506,Carroll County
+2015,MD-508,"Charles, Calvert, Saint Mary's Counties"
+2015,MD-601,Montgomery County
+2015,MD-510,Garrett County
+2015,MD-502,Harford County
+2015,MD-504,Howard County
+2015,MD-507,Cecil County
+2015,MD-600,Prince George's County
+2015,MD-511,Mid-Shore Regional
+2015,MD-512,Hagerstown/Washington County
+2015,MD-513,"Wicomico, Somerset, Worcester Counties"
+2015,ME-502,Portland
+2015,ME-500,Maine Balance of State
+2015,MI-513,"Marquette, Alger Counties"
+2015,MI-500,Michigan Balance of State
+2015,MI-504,"Pontiac, Royal Oak/Oakland County"
+2015,MI-509,Washtenaw County
+2015,MI-523,Eaton County
+2015,MI-501,Detroit
+2015,MI-507,"Portage, Kalamazoo City & County"
+2015,MI-519,Holland/Ottawa County
+2015,MI-516,"Norton Shores, Muskegon City & County"
+2015,MI-503,"Saint Clair Shores, Warren/Macomb County"
+2015,MI-506,Grand Rapids/Wyoming/Kent County
+2015,MI-502,"Dearborn, Dearborn Heights, Westland/Wayne County"
+2015,MI-505,Flint/Genesee County
+2015,MI-512,"Grand Traverse, Antrim, Leelanau Counties"
+2015,MI-514,Battle Creek/Calhoun County
+2015,MI-508,"Lansing, East Lansing/Ingham County"
+2015,MI-511,Lenawee County
+2015,MI-518,Livingston County
+2015,MI-515,Monroe City & County
+2015,MI-517,Jackson City & County
+2015,MI-510,Saginaw City & County
+2015,MN-504,Northeast Minnesota
+2015,MN-500,Minneapolis/Hennepin County
+2015,MN-509,Duluth/Saint Louis County
+2015,MN-501,Saint Paul/Ramsey County
+2015,MN-502,Rochester/Southeast Minnesota
+2015,MN-503,"Dakota, Anoka, Washington, Scott, Carver Counties"
+2015,MN-505,Saint Cloud/Central Minnesota
+2015,MN-506,Northwest Minnesota
+2015,MN-508,Moorhead/West Central Minnesota
+2015,MN-511,Southwest Minnesota
+2015,MO-604,"Kansas City, Independence, Lee's Summit/Jackson County"
+2015,MO-603,"Saint Joseph/Andrew, Buchanan, DeKalb Counties"
+2015,MO-606,Missouri Balance of State
+2015,MO-600,"Springfield/Greene, Christian, Webster Counties"
+2015,MO-602,"Joplin/Jasper, Newton Counties"
+2015,MO-503,"Saint Charles City & County, Lincoln, Warren Counties"
+2015,MO-500,Saint Louis County
+2015,MO-501,Saint Louis
+2015,MS-501,Mississippi Balance of State
+2015,MS-503,Gulf Port/Gulf Coast Regional
+2015,MS-500,"Jackson/Rankin, Madison Counties"
+2015,MT-500,Montana Statewide
+2015,NC-502,Durham City & County
+2015,NC-503,North Carolina Balance of State
+2015,NC-506,"Wilmington/Brunswick, New Hanover, Pender Counties"
+2015,NC-501,Asheville/Buncombe County
+2015,NC-513,Chapel Hill/Orange County
+2015,NC-507,Raleigh/Wake County
+2015,NC-500,Winston-Salem/Forsyth County
+2015,NC-505,Charlotte/Mecklenburg County
+2015,NC-511,Fayetteville/Cumberland County
+2015,NC-504,"Greensboro, High Point"
+2015,NC-516,Northwest North Carolina
+2015,ND-500,North Dakota Statewide
+2015,NE-500,Nebraska Balance of State
+2015,NE-502,Lincoln
+2015,NE-501,"Omaha, Council Bluffs"
+2015,NH-500,New Hampshire Balance of State
+2015,NH-501,Manchester
+2015,NH-502,Nashua/Hillsborough County
+2015,NJ-515,Elizabeth/Union County
+2015,NJ-508,Monmouth County
+2015,NJ-501,Bergen County
+2015,NJ-516,"Warren, Sussex, Hunterdon Counties"
+2015,NJ-513,Somerset County
+2015,NJ-500,Atlantic City & County
+2015,NJ-510,Lakewood Township/Ocean County
+2015,NJ-503,"Camden City & County/Gloucester, Cape May, Cumberland Counties"
+2015,NJ-506,"Jersey City, Bayonne/Hudson County"
+2015,NJ-507,New Brunswick/Middlesex County
+2015,NJ-509,Morris County
+2015,NJ-504,Newark/Essex County
+2015,NJ-511,Paterson/Passaic County
+2015,NJ-502,Burlington County
+2015,NJ-514,Trenton/Mercer County
+2015,NM-501,New Mexico Balance of State
+2015,NM-500,Albuquerque
+2015,NV-502,Nevada Balance of State
+2015,NV-500,Las Vegas/Clark County
+2015,NV-501,"Reno, Sparks/Washoe County"
+2015,NY-606,Rockland County
+2015,NY-523,"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties"
+2015,NY-505,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties"
+2015,NY-503,Albany City & County
+2015,NY-600,New York City
+2015,NY-502,Auburn/Cayuga County
+2015,NY-603,"Nassau, Suffolk Counties"
+2015,NY-508,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties"
+2015,NY-507,Schenectady City & County
+2015,NY-511,"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland Counties"
+2015,NY-607,Sullivan County
+2015,NY-500,"Rochester, Irondequoit, Greece/Monroe County"
+2015,NY-512,Troy/Rensselaer County
+2015,NY-504,Cattaraugus County
+2015,NY-518,"Utica, Rome/Oneida, Madison Counties"
+2015,NY-514,"Jamestown, Dunkirk/Chautauqua County"
+2015,NY-516,Clinton County
+2015,NY-519,"Columbia, Greene Counties"
+2015,NY-522,"Jefferson, Lewis, Saint Lawrence Counties"
+2015,NY-601,Poughkeepsie/Dutchess County
+2015,NY-602,"Newburgh, Middletown/Orange County"
+2015,NY-608,Kingston/Ulster County
+2015,NY-513,"Wayne, Ontario, Seneca, Yates Counties"
+2015,NY-520,Franklin County
+2015,NY-604,"Yonkers, Mount Vernon/Westchester County"
+2015,NY-510,Ithaca/Tompkins County
+2015,OH-506,Akron/Summit County
+2015,OH-507,Ohio Balance of State
+2015,OH-508,"Canton, Massillon, Alliance/Stark County"
+2015,OH-501,Toledo/Lucas County
+2015,OH-504,Youngstown/Mahoning County
+2015,OH-502,Cleveland/Cuyahoga County
+2015,OH-503,Columbus/Franklin County
+2015,OH-505,"Dayton, Kettering/Montgomery County"
+2015,OH-500,Cincinnati/Hamilton County
+2015,OK-505,Northeast Oklahoma
+2015,OK-500,North Central Oklahoma
+2015,OK-501,Tulsa City & County
+2015,OK-504,Norman/Cleveland County
+2015,OK-507,Southeastern Oklahoma Regional
+2015,OK-506,Southwest Oklahoma Regional
+2015,OK-503,Oklahoma Balance of State
+2015,OK-502,Oklahoma City
+2015,OR-502,"Medford, Ashland/Jackson County"
+2015,OR-505,Oregon Balance of State
+2015,OR-501,"Portland, Gresham/Multnomah County"
+2015,OR-507,Clackamas County
+2015,OR-503,Central Oregon
+2015,OR-500,"Eugene, Springfield/Lane County"
+2015,OR-506,"Hillsboro, Beaverton/Washington County"
+2015,PA-500,Philadelphia
+2015,PA-509,Eastern Pennsylvania
+2015,PA-600,"Pittsburgh, McKeesport, Penn Hills/Allegheny County"
+2015,PA-601,Western Pennsylvania
+2015,PA-603,Beaver County
+2015,PA-512,York City & County
+2015,PA-506,Reading/Berks County
+2015,PA-501,Harrisburg/Dauphin County
+2015,PA-511,"Bristol, Bensalem/Bucks County"
+2015,PA-508,Scranton/Lackawanna County
+2015,PA-502,"Upper Darby, Chester, Haverford/Delaware County"
+2015,PA-503,"Wilkes-Barre, Hazleton, Luzerne County"
+2015,PA-505,Chester County
+2015,PA-510,Lancaster City & County
+2015,PA-605,Erie City & County
+2015,PA-504,"Lower Merion, Norristown, Abington/Montgomery County"
+2015,PR-503,South-Southeast Puerto Rico
+2015,PR-502,Puerto Rico Balance of Commonwealth
+2015,RI-500,Rhode Island Statewide
+2015,SC-500,Charleston/Low Country
+2015,SC-503,"Myrtle Beach, Sumter City & County"
+2015,SC-501,"Greenville, Anderson, Spartanburg/Upstate"
+2015,SC-502,Columbia/Midlands
+2015,SD-500,South Dakota Statewide
+2015,TN-501,Memphis/Shelby County
+2015,TN-500,Chattanooga/Southeast Tennessee
+2015,TN-504,Nashville-Davidson County
+2015,TN-509,Appalachian Regional
+2015,TN-507,Jackson/West Tennessee
+2015,TN-503,Central Tennessee
+2015,TN-502,Knoxville/Knox County
+2015,TN-506,Upper Cumberland
+2015,TN-512,"Morristown/Blount, Sevier, Campbell, Cocke Counties"
+2015,TN-510,Murfreesboro/Rutherford County
+2015,TX-700,"Houston, Pasadena/Harris, Fort Bend Counties"
+2015,TX-600,"Dallas City & County, Irving"
+2015,TX-611,Amarillo
+2015,TX-500,San Antonio/Bexar County
+2015,TX-601,"Fort Worth, Arlington/Tarrant County"
+2015,TX-503,Austin/Travis County
+2015,TX-607,Texas Balance of State
+2015,TX-603,El Paso City & County
+2015,TX-604,Waco/McLennan County
+2015,TX-624,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties"
+2015,TX-701,"Bryan, College Station/Brazos Valley"
+2015,UT-503,Utah Balance of State
+2015,UT-504,Provo/Mountainland
+2015,UT-500,Salt Lake City & County
+2015,VA-603,Alexandria
+2015,VA-600,Arlington County
+2015,VA-601,Fairfax County
+2015,VA-503,Virginia Beach
+2015,VA-502,"Roanoke City & County, Salem"
+2015,VA-500,"Richmond/Henrico, Chesterfield, Hanover Counties"
+2015,VA-521,Virginia Balance of State
+2015,VA-501,"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties"
+2015,VA-514,"Fredericksburg/Spotsylvania, Stafford Counties"
+2015,VA-505,"Newport News, Hampton/Virginia Peninsula"
+2015,VA-513,"Harrisonburg, Winchester/Western Virginia"
+2015,VA-602,Loudoun County
+2015,VA-508,Lynchburg
+2015,VA-507,Portsmouth
+2015,VA-604,Prince William County
+2015,VA-504,Charlottesville
+2015,VI-500,Virgin Islands
+2015,VT-500,Vermont Balance of State
+2015,VT-501,Burlington/Chittenden County
+2015,WA-500,Seattle/King County
+2015,WA-501,Washington Balance of State
+2015,WA-508,Vancouver/Clark County
+2015,WA-507,Yakima City & County
+2015,WA-503,"Tacoma, Lakewood/Pierce County"
+2015,WA-504,Everett/Snohomish County
+2015,WA-502,Spokane City & County
+2015,WI-500,Wisconsin Balance of State
+2015,WI-501,Milwaukee City & County
+2015,WI-502,Racine City & County
+2015,WI-503,Madison/Dane County
+2015,WV-508,West Virginia Balance of State
+2015,WV-501,"Huntington/Cabell, Wayne Counties"
+2015,WV-503,"Charleston/Kanawha, Putnam, Boone, Clay Counties"
+2015,WV-500,"Wheeling, Weirton Area"
+2015,WY-500,Wyoming Statewide
+2014,AK-500,Anchorage
+2014,AK-501,Alaska Balance of State
+2014,AL-502,Florence/Northwest Alabama
+2014,AL-500,"Birmingham/Jefferson, Saint Clair, Shelby Counties"
+2014,AL-501,Mobile City & County/Baldwin County
+2014,AL-507,Alabama Balance of State
+2014,AL-503,Huntsville/North Alabama
+2014,AL-505,Gadsden/Northeast Alabama
+2014,AL-504,Montgomery City & County
+2014,AL-506,Tuscaloosa City & County
+2014,AR-500,Little Rock/Central Arkansas
+2014,AR-503,Arkansas Balance of State
+2014,AR-505,Southeast Arkansas
+2014,AR-501,Fayetteville/Northwest Arkansas
+2014,AZ-502,"Phoenix, Mesa/Maricopa County"
+2014,AZ-500,Arizona Balance of State
+2014,AZ-501,Tucson/Pima County
+2014,CA-600,Los Angeles City & County
+2014,CA-602,"Santa Ana, Anaheim/Orange County"
+2014,CA-500,"San Jose, Santa Clara City & County"
+2014,CA-502,"Oakland, Berkeley/Alameda County"
+2014,CA-515,"Roseville, Rocklin/Placer, Nevada Counties"
+2014,CA-604,Bakersfield/Kern County
+2014,CA-601,San Diego City & County
+2014,CA-526,"Tuolumne, Calaveras, Amador Counties"
+2014,CA-518,Vallejo/Solano County
+2014,CA-505,Richmond/Contra Costa County
+2014,CA-522,Humboldt County
+2014,CA-504,"Santa Rosa, Petaluma/Sonoma County"
+2014,CA-507,Marin County
+2014,CA-517,Napa City & County
+2014,CA-519,"Chico, Paradise/Butte County"
+2014,CA-613,Imperial County
+2014,CA-501,San Francisco
+2014,CA-516,Redding/Shasta County
+2014,CA-510,"Turlock, Modesto/Stanislaus County"
+2014,CA-525,El Dorado County
+2014,CA-513,"Visalia/Kings, Tulare Counties"
+2014,CA-506,"Salinas/Monterey, San Benito Counties"
+2014,CA-520,Merced City & County
+2014,CA-508,Watsonville/Santa Cruz City & County
+2014,CA-512,Daly City/San Mateo County
+2014,CA-521,"Davis, Woodland/Yolo County"
+2014,CA-603,Santa Maria/Santa Barbara County
+2014,CA-609,San Bernardino City & County
+2014,CA-509,Mendocino County
+2014,CA-514,Fresno City & County/Madera County
+2014,CA-612,Glendale
+2014,CA-606,Long Beach
+2014,CA-611,"Oxnard, San Buenaventura/Ventura County"
+2014,CA-607,Pasadena
+2014,CA-503,Sacramento City & County
+2014,CA-608,Riverside City & County
+2014,CA-511,Stockton/San Joaquin County
+2014,CA-614,San Luis Obispo County
+2014,CA-524,Yuba City/Sutter County
+2014,CO-504,Colorado Springs/El Paso County
+2014,CO-503,Metropolitan Denver Homeless Initiative
+2014,CO-500,Colorado Balance of State
+2014,CT-505,Connecticut Balance of State
+2014,CT-503,"Bridgeport, Stratford, Fairfield"
+2014,CT-502,Hartford
+2014,CT-506,Norwalk/Fairfield County
+2014,CT-508,"Stamford, Greenwich"
+2014,CT-512,Waterbury
+2014,DC-500,District of Columbia
+2014,DE-500,Delaware Statewide
+2014,FL-513,"Palm Bay, Melbourne/Brevard County"
+2014,FL-502,"Saint Petersburg, Clearwater, Largo/Pinellas County"
+2014,FL-510,"Jacksonville-Duval, Clay Counties"
+2014,FL-506,Tallahassee/Leon County
+2014,FL-519,Pasco County
+2014,FL-605,West Palm Beach/Palm Beach County
+2014,FL-516,Winterhaven/Polk County
+2014,FL-517,"Hendry, Hardee, Highlands Counties"
+2014,FL-501,Tampa/Hillsborough County
+2014,FL-503,Lakeland
+2014,FL-604,Monroe County
+2014,FL-508,"Gainesville/Alachua, Putnam Counties"
+2014,FL-518,"Columbia, Hamilton, Lafayette, Suwannee Counties"
+2014,FL-601,Ft Lauderdale/Broward County
+2014,FL-600,Miami-Dade County
+2014,FL-606,Naples/Collier County
+2014,FL-500,"Sarasota, Bradenton/Manatee, Sarasota Counties"
+2014,FL-602,Punta Gorda/Charlotte County
+2014,FL-520,"Citrus, Hernando, Lake, Sumter Counties"
+2014,FL-504,"Daytona Beach, Daytona/Volusia, Flagler Counties"
+2014,FL-515,"Panama City/Bay, Jackson Counties"
+2014,FL-512,Saint Johns County
+2014,FL-511,"Pensacola/Escambia, Santa Rosa Counties"
+2014,FL-507,"Orlando/Orange, Osceola, Seminole Counties"
+2014,FL-509,"Fort Pierce/Saint Lucie, Indian River, Martin Counties"
+2014,FL-603,"Ft Myers, Cape Coral/Lee County"
+2014,FL-514,Ocala/Marion County
+2014,FL-505,"Fort Walton Beach/Okaloosa, Walton Counties"
+2014,GA-500,Atlanta
+2014,GA-501,Georgia Balance of State
+2014,GA-504,Augusta-Richmond County
+2014,GA-508,DeKalb County
+2014,GA-503,Athens-Clarke County
+2014,GA-502,Fulton County
+2014,GA-506,Marietta/Cobb County
+2014,GA-507,Savannah/Chatham County
+2014,GA-505,Columbus-Muscogee/Russell County
+2014,GU-500,Guam
+2014,HI-501,Honolulu City & County
+2014,HI-500,Hawaii Balance of State
+2014,IA-501,Iowa Balance of State
+2014,IA-500,"Sioux City/Dakota, Woodbury Counties"
+2014,IA-502,Des Moines/Polk County
+2014,ID-500,Boise/Ada County
+2014,ID-501,Idaho Balance of State
+2014,IL-514,Dupage County
+2014,IL-510,Chicago
+2014,IL-513,Springfield/Sangamon County
+2014,IL-502,"Waukegan, North Chicago/Lake County"
+2014,IL-511,Cook County
+2014,IL-520,Southern Illinois
+2014,IL-518,"Rock Island, Moline/Northwestern Illinois"
+2014,IL-508,"East Saint Louis, Belleville/Saint Clair County"
+2014,IL-512,Bloomington/Central Illinois
+2014,IL-506,"Joliet, Bolingbrook/Will County"
+2014,IL-515,South Central Illinois
+2014,IL-507,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties"
+2014,IL-504,Madison County
+2014,IL-503,"Champaign, Urbana, Rantoul/Champaign County"
+2014,IL-516,Decatur/Macon County
+2014,IL-509,DeKalb City & County
+2014,IL-517,"Aurora, Elgin/Kane County"
+2014,IL-500,McHenry County
+2014,IL-519,West Central Illinois
+2014,IL-501,"Rockford/Winnebago, Boone Counties"
+2014,IN-502,Indiana Balance of State
+2014,IN-500,"South Bend, Mishawaka/Saint Joseph County"
+2014,IN-503,Indianapolis
+2014,KS-505,"Overland Park, Shawnee/Johnson County"
+2014,KS-507,Kansas Balance of State
+2014,KS-503,Topeka/Shawnee County
+2014,KS-501,Kansas City/Wyandotte County
+2014,KS-502,Wichita/Sedgwick County
+2014,KY-502,Lexington-Fayette County
+2014,KY-501,Louisville-Jefferson County
+2014,KY-500,Kentucky Balance of State
+2014,LA-500,Lafayette/Acadiana Regional
+2014,LA-504,Baton Rouge
+2014,LA-502,Shreveport/Bossier/Northwest Louisiana
+2014,LA-503,New Orleans/Jefferson Parish
+2014,LA-501,Lake Charles/Southwestern Louisiana
+2014,LA-507,Alexandria/Central Louisiana
+2014,LA-505,Monroe/Northeast Louisiana
+2014,LA-508,"Houma-Terrebonne, Thibodaux"
+2014,LA-506,Slidell/Southeast Louisiana
+2014,MA-510,"Gloucester, Haverhill, Salem/Essex County"
+2014,MA-518,"Brookline, Newton"
+2014,MA-503,Cape Cod Islands
+2014,MA-500,Boston
+2014,MA-509,Cambridge
+2014,MA-517,Somerville
+2014,MA-519,"Attleboro, Taunton/Bristol County"
+2014,MA-506,Worcester City & County
+2014,MA-516,Massachusetts Balance of State
+2014,MA-515,Fall River
+2014,MA-520,"Brockton, Plymouth City & County"
+2014,MA-513,"Malden, Medford"
+2014,MA-507,"Pittsfield/Berkshire, Franklin, Hampshire Counties"
+2014,MA-508,Lowell
+2014,MA-502,Lynn
+2014,MA-505,New Bedford
+2014,MA-511,"Quincy, Weymouth"
+2014,MA-504,Springfield/Hampden County
+2014,MD-509,Frederick City & County
+2014,MD-501,Baltimore
+2014,MD-505,Baltimore County
+2014,MD-500,Cumberland/Allegany County
+2014,MD-503,Annapolis/Anne Arundel County
+2014,MD-506,Carroll County
+2014,MD-508,"Charles, Calvert, Saint Mary's Counties"
+2014,MD-507,Cecil County
+2014,MD-601,Montgomery County
+2014,MD-510,Garrett County
+2014,MD-502,Harford County
+2014,MD-504,Howard County
+2014,MD-600,Prince George's County
+2014,MD-511,Mid-Shore Regional
+2014,MD-512,Hagerstown/Washington County
+2014,MD-513,"Wicomico, Somerset, Worcester Counties"
+2014,ME-502,Portland
+2014,ME-500,Maine Balance of State
+2014,MI-513,"Marquette, Alger Counties"
+2014,MI-500,Michigan Balance of State
+2014,MI-504,"Pontiac, Royal Oak/Oakland County"
+2014,MI-501,Detroit
+2014,MI-509,Washtenaw County
+2014,MI-523,Eaton County
+2014,MI-507,"Portage, Kalamazoo City & County"
+2014,MI-519,Holland/Ottawa County
+2014,MI-502,"Dearborn, Dearborn Heights, Westland/Wayne County"
+2014,MI-503,"Saint Clair Shores, Warren/Macomb County"
+2014,MI-516,"Norton Shores, Muskegon City & County"
+2014,MI-506,Grand Rapids/Wyoming/Kent County
+2014,MI-505,Flint/Genesee County
+2014,MI-512,"Grand Traverse, Antrim, Leelanau Counties"
+2014,MI-514,Battle Creek/Calhoun County
+2014,MI-508,"Lansing, East Lansing/Ingham County"
+2014,MI-511,Lenawee County
+2014,MI-518,Livingston County
+2014,MI-517,Jackson City & County
+2014,MI-510,Saginaw City & County
+2014,MN-504,Northeast Minnesota
+2014,MN-500,Minneapolis/Hennepin County
+2014,MN-509,Duluth/Saint Louis County
+2014,MN-503,"Dakota, Anoka, Washington, Scott, Carver Counties"
+2014,MN-505,Saint Cloud/Central Minnesota
+2014,MN-506,Northwest Minnesota
+2014,MN-508,Moorhead/West Central Minnesota
+2014,MN-511,Southwest Minnesota
+2014,MN-501,Saint Paul/Ramsey County
+2014,MN-502,Rochester/Southeast Minnesota
+2014,MO-604,"Kansas City, Independence, Lee's Summit/Jackson County"
+2014,MO-600,"Springfield/Greene, Christian, Webster Counties"
+2014,MO-603,"Saint Joseph/Andrew, Buchanan, DeKalb Counties"
+2014,MO-606,Missouri Balance of State
+2014,MO-503,"Saint Charles City & County, Lincoln, Warren Counties"
+2014,MO-602,"Joplin/Jasper, Newton Counties"
+2014,MO-500,Saint Louis County
+2014,MO-501,Saint Louis
+2014,MS-501,Mississippi Balance of State
+2014,MS-503,Gulf Port/Gulf Coast Regional
+2014,MS-500,"Jackson/Rankin, Madison Counties"
+2014,MT-500,Montana Statewide
+2014,NC-502,Durham City & County
+2014,NC-506,"Wilmington/Brunswick, New Hanover, Pender Counties"
+2014,NC-501,Asheville/Buncombe County
+2014,NC-503,North Carolina Balance of State
+2014,NC-513,Chapel Hill/Orange County
+2014,NC-507,Raleigh/Wake County
+2014,NC-500,Winston-Salem/Forsyth County
+2014,NC-505,Charlotte/Mecklenburg County
+2014,NC-509,"Gastonia/Cleveland, Gaston, Lincoln Counties"
+2014,NC-511,Fayetteville/Cumberland County
+2014,NC-504,"Greensboro, High Point"
+2014,NC-516,Northwest North Carolina
+2014,ND-500,North Dakota Statewide
+2014,NE-500,Nebraska Balance of State
+2014,NE-502,Lincoln
+2014,NE-501,"Omaha, Council Bluffs"
+2014,NH-500,New Hampshire Balance of State
+2014,NH-501,Manchester
+2014,NH-502,Nashua/Hillsborough County
+2014,NJ-515,Elizabeth/Union County
+2014,NJ-508,Monmouth County
+2014,NJ-516,"Warren, Sussex, Hunterdon Counties"
+2014,NJ-501,Bergen County
+2014,NJ-513,Somerset County
+2014,NJ-510,Lakewood Township/Ocean County
+2014,NJ-502,Burlington County
+2014,NJ-503,"Camden City & County/Gloucester, Cumberland Counties"
+2014,NJ-518,Ocean City/Cape May County
+2014,NJ-500,Atlantic City & County
+2014,NJ-506,"Jersey City, Bayonne/Hudson County"
+2014,NJ-507,New Brunswick/Middlesex County
+2014,NJ-509,Morris County
+2014,NJ-504,Newark/Essex County
+2014,NJ-511,Paterson/Passaic County
+2014,NJ-514,Trenton/Mercer County
+2014,NJ-512,Salem County
+2014,NM-501,New Mexico Balance of State
+2014,NM-500,Albuquerque
+2014,NV-502,Nevada Balance of State
+2014,NV-500,Las Vegas/Clark County
+2014,NV-501,"Reno, Sparks/Washoe County"
+2014,NY-606,Rockland County
+2014,NY-503,Albany City & County
+2014,NY-523,"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties"
+2014,NY-600,New York City
+2014,NY-501,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties"
+2014,NY-502,Auburn/Cayuga County
+2014,NY-603,"Nassau, Suffolk Counties"
+2014,NY-508,"Buffalo, Niagara Falls/Erie, Niagara Counties"
+2014,NY-507,Schenectady City & County
+2014,NY-511,"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland Counties"
+2014,NY-500,"Rochester, Irondequoit, Greece/Monroe County"
+2014,NY-505,Syracuse/Onondaga County
+2014,NY-512,Troy/Rensselaer County
+2014,NY-504,Cattaraugus County
+2014,NY-518,"Utica, Rome/Oneida, Madison Counties"
+2014,NY-514,"Jamestown, Dunkirk/Chautauqua County"
+2014,NY-516,Clinton County
+2014,NY-519,"Columbia, Greene Counties"
+2014,NY-601,Poughkeepsie/Dutchess County
+2014,NY-522,"Jefferson, Lewis, Saint Lawrence Counties"
+2014,NY-602,"Newburgh, Middletown/Orange County"
+2014,NY-608,Kingston/Ulster County
+2014,NY-607,Sullivan County
+2014,NY-513,"Wayne, Ontario, Seneca, Yates Counties"
+2014,NY-520,Franklin County
+2014,NY-604,"Yonkers, Mount Vernon/Westchester County"
+2014,NY-510,Ithaca/Tompkins County
+2014,NY-509,Oswego County
+2014,NY-517,Orleans County
+2014,OH-506,Akron/Summit County
+2014,OH-507,Ohio Balance of State
+2014,OH-508,"Canton, Massillon, Alliance/Stark County"
+2014,OH-501,Toledo/Lucas County
+2014,OH-504,Youngstown/Mahoning County
+2014,OH-500,Cincinnati/Hamilton County
+2014,OH-502,Cleveland/Cuyahoga County
+2014,OH-503,Columbus/Franklin County
+2014,OH-505,"Dayton, Kettering/Montgomery County"
+2014,OK-504,Norman/Cleveland County
+2014,OK-500,North Central Oklahoma
+2014,OK-505,Northeast Oklahoma
+2014,OK-501,Tulsa City & County
+2014,OK-503,Oklahoma Balance of State
+2014,OK-507,Southeastern Oklahoma Regional
+2014,OK-506,Southwest Oklahoma Regional
+2014,OK-502,Oklahoma City
+2014,OR-502,"Medford, Ashland/Jackson County"
+2014,OR-505,Oregon Balance of State
+2014,OR-501,"Portland, Gresham/Multnomah County"
+2014,OR-507,Clackamas County
+2014,OR-503,Central Oregon
+2014,OR-500,"Eugene, Springfield/Lane County"
+2014,OR-506,"Hillsboro, Beaverton/Washington County"
+2014,PA-500,Philadelphia
+2014,PA-507,Altoona/Central Pennsylvania
+2014,PA-600,"Pittsburgh, McKeesport, Penn Hills/Allegheny County"
+2014,PA-601,Southwest Pennsylvania
+2014,PA-603,Beaver County
+2014,PA-512,York City & County
+2014,PA-506,Reading/Berks County
+2014,PA-501,Harrisburg/Dauphin County
+2014,PA-511,"Bristol, Bensalem/Bucks County"
+2014,PA-602,Northwest Pennsylvania
+2014,PA-508,Scranton/Lackawanna County
+2014,PA-509,Allentown/Northeast Pennsylvania
+2014,PA-502,"Upper Darby, Chester, Haverford/Delaware County"
+2014,PA-503,"Wilkes-Barre, Hazleton, Luzerne County"
+2014,PA-505,Chester County
+2014,PA-510,Lancaster City & County
+2014,PA-605,Erie City & County
+2014,PA-504,"Lower Merion, Norristown, Abington/Montgomery County"
+2014,PR-503,South-Southeast Puerto Rico
+2014,PR-502,Puerto Rico Balance of Commonwealth
+2014,RI-500,Rhode Island Statewide
+2014,SC-500,Charleston/Low Country
+2014,SC-503,"Myrtle Beach, Sumter City & County"
+2014,SC-501,"Greenville, Anderson, Spartanburg/Upstate"
+2014,SC-502,Columbia/Midlands
+2014,SD-500,South Dakota Statewide
+2014,TN-501,Memphis/Shelby County
+2014,TN-500,Chattanooga/Southeast Tennessee
+2014,TN-504,Nashville-Davidson County
+2014,TN-509,Appalachian Regional
+2014,TN-507,Jackson/West Tennessee
+2014,TN-503,Central Tennessee
+2014,TN-506,Upper Cumberland
+2014,TN-502,Knoxville/Knox County
+2014,TN-512,"Morristown/Blount, Sevier, Campbell, Cocke Counties"
+2014,TN-510,Murfreesboro/Rutherford County
+2014,TX-607,Texas Balance of State
+2014,TX-700,"Houston, Pasadena/Harris, Fort Bend Counties"
+2014,TX-600,"Dallas City & County, Irving"
+2014,TX-601,"Fort Worth, Arlington/Tarrant County"
+2014,TX-611,Amarillo
+2014,TX-500,San Antonio/Bexar County
+2014,TX-503,Austin/Travis County
+2014,TX-703,"Beaumont, Port Arthur/South East Texas"
+2014,TX-603,El Paso City & County
+2014,TX-604,Waco/McLennan County
+2014,TX-624,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties"
+2014,TX-701,"Bryan, College Station/Brazos Valley"
+2014,UT-503,Utah Balance of State
+2014,UT-504,Provo/Mountainland
+2014,UT-500,Salt Lake City & County
+2014,VA-504,Charlottesville
+2014,VA-603,Alexandria
+2014,VA-600,Arlington County
+2014,VA-505,"Newport News, Hampton/Virginia Peninsula"
+2014,VA-501,"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties"
+2014,VA-601,Fairfax County
+2014,VA-503,Virginia Beach
+2014,VA-502,"Roanoke City & County, Salem"
+2014,VA-500,"Richmond/Henrico, Chesterfield, Hanover Counties"
+2014,VA-521,Virginia Balance of State
+2014,VA-514,"Fredericksburg/Spotsylvania, Stafford Counties"
+2014,VA-513,"Harrisonburg, Winchester/Western Virginia"
+2014,VA-602,Loudoun County
+2014,VA-508,Lynchburg
+2014,VA-507,Portsmouth
+2014,VA-604,Prince William County
+2014,VI-500,Virgin Islands
+2014,VT-500,Vermont Balance of State
+2014,VT-501,Burlington/Chittenden County
+2014,WA-500,Seattle/King County
+2014,WA-501,Washington Balance of State
+2014,WA-508,Vancouver/Clark County
+2014,WA-504,Everett/Snohomish County
+2014,WA-507,Yakima City & County
+2014,WA-503,"Tacoma, Lakewood/Pierce County"
+2014,WA-502,Spokane City & County
+2014,WI-500,Wisconsin Balance of State
+2014,WI-502,Racine City & County
+2014,WI-501,Milwaukee City & County
+2014,WI-503,Madison/Dane County
+2014,WV-508,West Virginia Balance of State
+2014,WV-501,"Huntington/Cabell, Wayne Counties"
+2014,WV-503,"Charleston/Kanawha, Putnam, Boone, Clay Counties"
+2014,WV-500,"Wheeling, Weirton Area"
+2014,WY-500,Wyoming Statewide
+2013,AK-500,Anchorage
+2013,AK-501,Alaska Balance of State
+2013,AL-500,"Birmingham/Jefferson, Saint Clair, Shelby Counties"
+2013,AL-501,Mobile City & County/Baldwin County
+2013,AL-507,Alabama Balance of State
+2013,AL-503,Huntsville/North Alabama
+2013,AL-502,Florence/Northwest Alabama
+2013,AL-505,Gadsden/Northeast Alabama
+2013,AL-504,Montgomery City & County
+2013,AL-506,Tuscaloosa City & County
+2013,AR-500,Little Rock/Central Arkansas
+2013,AR-503,"Mississippi, Phillips Counties"
+2013,AR-505,Southeast Arkansas
+2013,AR-501,Fayetteville/Northwest Arkansas
+2013,AZ-502,Phoenix/Mesa/Maricopa County Regional
+2013,AZ-500,Arizona Balance of State
+2013,AZ-501,Tucson/Pima County
+2013,CA-600,Los Angeles City & County
+2013,CA-602,"Santa Ana, Anaheim/Orange County"
+2013,CA-500,"San Jose, Santa Clara City & County"
+2013,CA-502,Oakland/Alameda County
+2013,CA-515,"Roseville, Rocklin/Placer, Nevada Counties"
+2013,CA-604,Bakersfield/Kern County
+2013,CA-601,San Diego City & County
+2013,CA-526,"Tuolumne, Calaveras, Amador Counties"
+2013,CA-505,Richmond/Contra Costa County
+2013,CA-518,Vallejo/Solano County
+2013,CA-522,Humboldt County
+2013,CA-514,Fresno/Madera County
+2013,CA-504,"Santa Rosa, Petaluma/Sonoma County"
+2013,CA-507,Marin County
+2013,CA-517,Napa City & County
+2013,CA-519,"Chico, Paradise/Butte County"
+2013,CA-613,Imperial County
+2013,CA-501,San Francisco
+2013,CA-516,Redding/Shasta County
+2013,CA-510,"Turlock, Modesto/Stanislaus County"
+2013,CA-525,El Dorado County
+2013,CA-513,"Visalia/Kings, Tulare Counties"
+2013,CA-506,"Salinas/Monterey, San Benito Counties"
+2013,CA-520,Merced City & County
+2013,CA-508,Watsonville/Santa Cruz City & County
+2013,CA-512,Daly City/San Mateo County
+2013,CA-521,"Davis, Woodland/Yolo County"
+2013,CA-603,Santa Maria/Santa Barbara County
+2013,CA-609,San Bernardino City & County
+2013,CA-509,Mendocino County
+2013,CA-612,Glendale
+2013,CA-606,Long Beach
+2013,CA-611,"Oxnard, San Buenaventura/Ventura County"
+2013,CA-503,Sacramento City & County
+2013,CA-607,Pasadena
+2013,CA-608,Riverside City & County
+2013,CA-511,Stockton/San Joaquin County
+2013,CA-614,San Luis Obispo County
+2013,CO-504,Colorado Springs/El Paso County
+2013,CO-503,Metropolitan Denver Homeless Initiative
+2013,CO-500,Colorado Balance of State
+2013,CT-505,Connecticut Balance of State
+2013,CT-503,"Bridgeport, Stratford, Fairfield"
+2013,CT-502,Hartford
+2013,CT-512,Waterbury
+2013,CT-506,Norwalk/Fairfield County
+2013,CT-508,"Stamford, Greenwich"
+2013,DC-500,District of Columbia
+2013,DE-500,Delaware Statewide
+2013,FL-604,Monroe County
+2013,FL-513,"Palm Bay, Melbourne/Brevard County"
+2013,FL-605,West Palm Beach/Palm Beach County
+2013,FL-502,"Saint Petersburg, Clearwater, Largo/Pinellas County"
+2013,FL-510,"Jacksonville-Duval, Clay Counties"
+2013,FL-506,Tallahassee/Leon County
+2013,FL-519,Pasco County
+2013,FL-516,Winterhaven/Polk County
+2013,FL-517,"Hendry, Hardee, Highlands Counties"
+2013,FL-501,Tampa/Hillsborough County
+2013,FL-503,Lakeland
+2013,FL-508,"Gainesville/Alachua, Putnam Counties"
+2013,FL-518,"Columbia, Hamilton, Lafayette, Suwannee Counties"
+2013,FL-601,Ft Lauderdale/Broward County
+2013,FL-600,Miami-Dade County
+2013,FL-500,"Sarasota, Bradenton/Manatee, Sarasota Counties"
+2013,FL-606,Naples/Collier County
+2013,FL-520,"Citrus, Hernando, Lake, Sumter Counties"
+2013,FL-504,"Daytona Beach, Daytona/Volusia, Flagler Counties"
+2013,FL-515,"Panama City/Bay, Jackson Counties"
+2013,FL-512,Saint Johns County
+2013,FL-511,"Pensacola/Escambia, Santa Rosa Counties"
+2013,FL-507,"Orlando/Orange, Osceola, Seminole Counties"
+2013,FL-509,"Fort Pierce/Saint Lucie, Indian River, Martin Counties"
+2013,FL-603,"Ft Myers, Cape Coral/Lee County"
+2013,FL-514,Ocala/Marion County
+2013,FL-505,"Fort Walton Beach/Okaloosa, Walton Counties"
+2013,GA-500,Atlanta
+2013,GA-501,Georgia Balance of State
+2013,GA-504,Augusta
+2013,GA-508,DeKalb County
+2013,GA-503,Athens-Clarke County
+2013,GA-502,Fulton County
+2013,GA-506,Marietta/Cobb County
+2013,GA-507,Savannah/Chatham County
+2013,GA-505,Columbus-Muscogee/Russell County
+2013,GU-500,Guam
+2013,HI-501,Honolulu
+2013,HI-500,Hawaii Balance of State
+2013,IA-501,Iowa Balance of State
+2013,IA-500,"Sioux City/Dakota, Woodbury Counties"
+2013,IA-502,Des Moines/Polk County
+2013,ID-500,Boise/Ada County
+2013,ID-501,Idaho Balance of State
+2013,IL-510,Chicago
+2013,IL-514,Dupage County
+2013,IL-513,Springfield/Sangamon County
+2013,IL-502,"Waukegan, North Chicago/Lake County"
+2013,IL-511,Cook County
+2013,IL-520,Southern Illinois
+2013,IL-508,"East Saint Louis, Belleville/Saint Clair County"
+2013,IL-512,Bloomington/Central Illinois
+2013,IL-518,"Rock Island, Moline/Northwestern Illinois"
+2013,IL-506,"Joliet, Bolingbrook/Will County"
+2013,IL-515,South Central Illinois
+2013,IL-507,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties"
+2013,IL-504,Madison County
+2013,IL-503,"Champaign, Urbana, Rantoul/Champaign County"
+2013,IL-517,"Aurora, Elgin/Kane County"
+2013,IL-516,Decatur/Macon County
+2013,IL-509,DeKalb City & County
+2013,IL-500,McHenry County
+2013,IL-519,West Central Illinois
+2013,IL-501,"Rockford/Winnebago, Boone Counties"
+2013,IN-502,Indiana Balance of State
+2013,IN-500,"South Bend, Mishawaka/Saint Joseph County"
+2013,IN-503,Indianapolis
+2013,KS-502,Wichita/Sedgwick County
+2013,KS-505,"Overland Park, Shawnee/Johnson County"
+2013,KS-507,Kansas Balance of State
+2013,KS-503,Topeka/Shawnee County
+2013,KS-501,Kansas City/Wyandotte County
+2013,KY-502,Lexington-Fayette County
+2013,KY-501,Louisville-Jefferson County
+2013,KY-500,Kentucky Balance of State
+2013,LA-500,Lafayette/Acadiana
+2013,LA-504,Baton Rouge
+2013,LA-502,Shreveport/Bossier/Northwest Louisiana
+2013,LA-503,New Orleans/Jefferson Parish
+2013,LA-501,Lake Charles/Southwestern Louisiana
+2013,LA-507,Alexandria/Central Louisiana
+2013,LA-505,Monroe/Northeast Louisiana
+2013,LA-508,"Houma-Terrebonne, Thibodaux"
+2013,LA-506,Slidell/Southeast Louisiana
+2013,MA-510,"Gloucester, Haverhill, Salem/Essex County"
+2013,MA-518,"Brookline, Newton"
+2013,MA-503,Cape Cod Islands
+2013,MA-500,Boston
+2013,MA-509,Cambridge
+2013,MA-517,Somerville
+2013,MA-519,"Attleboro, Taunton/Bristol County"
+2013,MA-506,Worcester City & County
+2013,MA-516,Massachusetts Balance of State
+2013,MA-515,Fall River
+2013,MA-520,"Brockton, Plymouth City & County"
+2013,MA-513,"Malden, Medford"
+2013,MA-507,"Pittsfield/Northampton/Berkshire, Franklin, Hampshire Counties"
+2013,MA-508,Lowell
+2013,MA-502,Lynn
+2013,MA-505,New Bedford
+2013,MA-511,"Quincy, Weymouth"
+2013,MA-504,Springfield/Holyoke/Chicopee/Westfield/Hampden County
+2013,MD-509,Frederick City & County
+2013,MD-501,Baltimore
+2013,MD-505,Baltimore County
+2013,MD-500,Cumberland/Allegany County
+2013,MD-503,Annapolis/Anne Arundel County
+2013,MD-508,"Charles, Calvert, Saint Mary's Counties"
+2013,MD-506,Carroll County
+2013,MD-507,Cecil County
+2013,MD-511,Mid-Shore Regional
+2013,MD-601,Montgomery County
+2013,MD-510,Garrett County
+2013,MD-502,Harford County
+2013,MD-504,Howard County
+2013,MD-600,Prince George's County
+2013,MD-512,Hagerstown/Washington County
+2013,MD-513,"Wicomico, Somerset, Worcester Counties"
+2013,ME-502,Portland
+2013,ME-500,Maine Balance of State
+2013,MI-513,"Marquette, Alger Counties"
+2013,MI-500,Michigan Balance of State
+2013,MI-504,"Pontiac, Royal Oak/Oakland County"
+2013,MI-501,Detroit
+2013,MI-509,Ann Arbor/Washtenaw County
+2013,MI-523,Eaton County
+2013,MI-507,"Portage, Kalamazoo City & County"
+2013,MI-519,Holland/Ottawa County
+2013,MI-502,"Dearborn, Dearborn Heights, Westland/Wayne County"
+2013,MI-503,"Saint Clair Shores, Warren/Macomb County"
+2013,MI-516,"Norton Shores, Muskegon City & County"
+2013,MI-506,Grand Rapids/Wyoming/Kent County
+2013,MI-505,Flint/Genesee County
+2013,MI-512,"Grand Traverse, Antrim, Leelanau Counties"
+2013,MI-514,Battle Creek/Calhoun County
+2013,MI-508,"Lansing, East Lansing/Ingham County"
+2013,MI-511,Lenawee County
+2013,MI-518,Livingston County
+2013,MI-515,Monroe City & County
+2013,MI-517,Jackson City & County
+2013,MI-510,Saginaw City & County
+2013,MN-504,Northeast Minnesota
+2013,MN-500,Minneapolis/Hennepin County
+2013,MN-509,Duluth/Saint Louis County
+2013,MN-503,"Dakota, Anoka, Washington, Scott, Carver Counties"
+2013,MN-505,Saint Cloud/Central Minnesota
+2013,MN-506,Northwest Minnesota
+2013,MN-511,Southwest Minnesota
+2013,MN-501,Saint Paul/Ramsey County
+2013,MN-502,Rochester/Southeast Minnesota
+2013,MN-508,Moorhead/West Central Minnesota
+2013,MO-604,"Kansas City, Independence, Lee's Summit/Jackson County"
+2013,MO-600,"Springfield/Greene, Christian, Webster Counties"
+2013,MO-603,"Saint Joseph/Andrew, Buchanan, DeKalb Counties"
+2013,MO-606,Missouri Balance of State
+2013,MO-503,"Saint Charles City & County, Lincoln, Warren Counties"
+2013,MO-602,"Joplin/Jasper, Newton Counties"
+2013,MO-500,Saint Louis County
+2013,MO-501,Saint Louis
+2013,MS-501,Mississippi Balance of State
+2013,MS-503,Gulf Port/Gulf Coast Regional
+2013,MS-500,"Jackson/Rankin, Madison Counties"
+2013,MT-500,Montana Statewide
+2013,NC-502,Durham City & County
+2013,NC-506,"Wilmington/Brunswick, New Hanover, Pender Counties"
+2013,NC-501,Asheville/Buncombe County
+2013,NC-503,North Carolina Balance of State
+2013,NC-513,Chapel Hill/Orange County
+2013,NC-507,Raleigh/Wake County
+2013,NC-500,Winston-Salem/Forsyth County
+2013,NC-505,Charlotte/Mecklenburg County
+2013,NC-509,"Gastonia/Cleveland, Gaston, Lincoln Counties"
+2013,NC-511,Fayetteville/Cumberland County
+2013,NC-504,"Greensboro, High Point"
+2013,NC-516,Northwest North Carolina
+2013,ND-500,North Dakota Statewide
+2013,NE-500,Nebraska Balance of State
+2013,NE-502,Lincoln
+2013,NE-501,"Omaha, Council Bluffs"
+2013,NH-500,New Hampshire Balance of State
+2013,NH-501,Manchester
+2013,NH-502,Nashua/Hillsborough County
+2013,NJ-508,Monmouth County
+2013,NJ-516,"Warren, Sussex, Hunterdon Counties"
+2013,NJ-501,Bergen County
+2013,NJ-513,Somerset County
+2013,NJ-510,Lakewood Township/Ocean County
+2013,NJ-502,Burlington County
+2013,NJ-503,Camden City & County
+2013,NJ-518,Ocean City/Cape May County
+2013,NJ-500,Atlantic City & County
+2013,NJ-506,"Jersey City, Bayonne/Hudson County"
+2013,NJ-507,New Brunswick/Middlesex County
+2013,NJ-504,Newark/Essex County
+2013,NJ-509,Morris County
+2013,NJ-511,Paterson/Passaic County
+2013,NJ-512,Salem County
+2013,NJ-514,Trenton/Mercer County
+2013,NJ-515,Elizabeth/Union County
+2013,NM-501,New Mexico Balance of State
+2013,NM-500,Albuquerque
+2013,NV-502,Nevada Balance of State
+2013,NV-500,Las Vegas/Clark County
+2013,NV-501,"Reno, Sparks/Washoe County"
+2013,NY-503,Albany City & County
+2013,NY-523,"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties"
+2013,NY-600,New York City
+2013,NY-501,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties"
+2013,NY-603,"Nassau, Suffolk Counties/Babylon/Islip/Huntington"
+2013,NY-502,Auburn/Cayuga County
+2013,NY-508,"Buffalo, Niagara Falls/Erie, Niagara Counties"
+2013,NY-507,Schenectady City & County
+2013,NY-511,"Binghamton/Union Town/Broome, Otsego, Chenango, Cortland Counties"
+2013,NY-500,"Rochester, Irondequoit, Greece/Monroe County"
+2013,NY-505,Syracuse/Onondaga County
+2013,NY-512,Troy/Rensselaer County
+2013,NY-504,Cattaraugus County
+2013,NY-518,"Utica, Rome/Oneida, Madison Counties"
+2013,NY-514,"Jamestown, Dunkirk/Chautauqua County"
+2013,NY-516,Clinton County
+2013,NY-519,"Columbia, Greene Counties"
+2013,NY-602,"Newburgh, Middletown/Orange County"
+2013,NY-608,Kingston/Ulster County
+2013,NY-522,"Jefferson, Lewis, Saint Lawrence Counties"
+2013,NY-607,Sullivan County
+2013,NY-601,Poughkeepsie/Dutchess County
+2013,NY-513,"Wayne, Ontario, Seneca, Yates Counties"
+2013,NY-520,Franklin County
+2013,NY-604,Yonkers/Mount Vernon/New Rochelle/Westchester County
+2013,NY-510,Ithaca/Tompkins County
+2013,NY-509,Oswego County
+2013,NY-517,Orleans County
+2013,NY-606,Rockland County
+2013,OH-506,Akron/Barberton/Summit County
+2013,OH-507,Ohio Balance of State
+2013,OH-508,"Canton, Massillon, Alliance/Stark County"
+2013,OH-501,Toledo/Lucas County
+2013,OH-504,Youngstown/Mahoning County
+2013,OH-500,Cincinnati/Hamilton County
+2013,OH-502,Cleveland/Cuyahoga County
+2013,OH-503,Columbus/Franklin County
+2013,OH-505,"Dayton, Kettering/Montgomery County"
+2013,OK-504,Norman/Cleveland County
+2013,OK-500,North Central Oklahoma
+2013,OK-505,Northeast Oklahoma
+2013,OK-501,Tulsa City & County/Broken Arrow
+2013,OK-507,Southeastern Oklahoma Regional
+2013,OK-506,Southwest Oklahoma Regional
+2013,OK-503,Oklahoma Balance of State
+2013,OK-502,Oklahoma City
+2013,OR-502,"Medford, Ashland/Jackson County"
+2013,OR-505,Oregon Balance of State
+2013,OR-501,"Portland, Gresham/Multnomah County"
+2013,OR-507,Clackamas County
+2013,OR-503,Central Oregon
+2013,OR-500,"Eugene, Springfield/Lane County"
+2013,OR-506,"Hillsboro, Beaverton/Washington County"
+2013,PA-500,Philadelphia
+2013,PA-507,Altoona/Central Pennsylvania
+2013,PA-502,"Upper Darby, Chester, Haverford/Delaware County"
+2013,PA-600,"Pittsburgh, McKeesport, Penn Hills/Allegheny County"
+2013,PA-601,Southwest Pennsylvania
+2013,PA-603,Beaver County
+2013,PA-512,York City & County
+2013,PA-506,Reading/Berks County
+2013,PA-509,Allentown/Northeast Pennsylvania
+2013,PA-501,Harrisburg/Dauphin County
+2013,PA-511,"Bristol, Bensalem/Bucks County"
+2013,PA-602,Northwest Pennsylvania
+2013,PA-508,Scranton/Lackawanna County
+2013,PA-503,"Wilkes-Barre, Hazleton, Luzerne County"
+2013,PA-505,Chester County
+2013,PA-510,Lancaster City & County
+2013,PA-605,Erie City & County
+2013,PA-504,"Lower Merion, Norristown, Abington/Montgomery County"
+2013,PR-503,South-Southeast Puerto Rico
+2013,PR-502,Puerto Rico Balance of Commonwealth
+2013,RI-500,Rhode Island Statewide
+2013,SC-500,Charleston/Low Country
+2013,SC-503,"Myrtle Beach, Sumter City & County"
+2013,SC-501,"Greenville, Anderson, Spartanburg/Upstate"
+2013,SC-502,Columbia/Midlands
+2013,SD-500,South Dakota Statewide
+2013,TN-501,Memphis/Shelby County
+2013,TN-500,Chattanooga/Southeast Tennessee
+2013,TN-504,Nashville-Davidson County
+2013,TN-509,Appalachian Regional
+2013,TN-507,Jackson/West Tennessee
+2013,TN-503,Central Tennessee
+2013,TN-502,Knoxville/Knox County
+2013,TN-506,Upper Cumberland
+2013,TN-510,Murfreesboro/Rutherford County
+2013,TN-512,"Morristown/Blount, Sevier, Campbell, Cocke Counties"
+2013,TX-607,Texas Balance of State
+2013,TX-700,Houston/Harris County
+2013,TX-600,"Dallas City & County, Irving"
+2013,TX-601,"Fort Worth, Arlington/Tarrant County"
+2013,TX-611,Amarillo
+2013,TX-500,San Antonio/Bexar County
+2013,TX-503,Austin/Travis County
+2013,TX-703,"Beaumont, Port Arthur/South East Texas"
+2013,TX-603,El Paso City & County
+2013,TX-604,Waco/McLennan County
+2013,TX-624,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties"
+2013,TX-701,"Bryan, College Station/Brazos Valley"
+2013,UT-503,Utah Balance of State
+2013,UT-504,Provo/Mountainland
+2013,UT-500,Salt Lake City & County
+2013,VA-504,Charlottesville
+2013,VA-603,Alexandria
+2013,VA-600,Arlington County
+2013,VA-505,"Newport News, Hampton/Virginia Peninsula"
+2013,VA-501,"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties"
+2013,VA-601,Fairfax County
+2013,VA-503,Virginia Beach
+2013,VA-502,"Roanoke City & County, Salem"
+2013,VA-500,"Richmond/Henrico, Chesterfield, Hanover Counties"
+2013,VA-514,"Fredericksburg/Spotsylvania, Stafford Counties"
+2013,VA-513,"Harrisonburg, Winchester/Western Virginia"
+2013,VA-521,Virginia Balance of State
+2013,VA-602,Loudoun County
+2013,VA-508,Lynchburg
+2013,VA-507,Portsmouth
+2013,VA-604,Prince William County
+2013,VI-500,Virgin Islands
+2013,VT-500,Vermont Balance of State
+2013,VT-501,Burlington/Chittenden County
+2013,WA-500,Seattle/King County
+2013,WA-501,Washington Balance of State
+2013,WA-508,Vancouver/Clark County
+2013,WA-504,Everett/Snohomish County
+2013,WA-507,Yakima City & County
+2013,WA-503,"Tacoma, Lakewood/Pierce County"
+2013,WA-502,Spokane City & County
+2013,WI-500,Wisconsin Balance of State
+2013,WI-501,Milwaukee City & County
+2013,WI-502,Racine City & County
+2013,WI-503,Madison/Dane County
+2013,WV-508,West Virginia Balance of State
+2013,WV-501,"Huntington/Cabell, Wayne Counties"
+2013,WV-503,"Charleston/Kanawha, Putnam, Boone, Clay Counties"
+2013,WV-500,"Wheeling, Weirton Area"
+2013,WY-500,Wyoming Statewide
+2012,AK-500,Anchorage
+2012,AK-501,Alaska Balance of State
+2012,AL-501,Mobile City & County/Baldwin County
+2012,AL-502,Florence/Northwest Alabama
+2012,AL-503,Huntsville/North Alabama
+2012,AL-500,"Birmingham/Jefferson, Saint Clair, Shelby Counties"
+2012,AL-504,Montgomery City & County
+2012,AL-505,Gadsden/Northeast Alabama
+2012,AL-506,Tuscaloosa City & County
+2012,AL-507,Alabama Balance of State
+2012,AR-500,Little Rock/Central Arkansas
+2012,AR-503,"Mississippi, Phillips Counties"
+2012,AR-504,Delta Hills
+2012,AR-505,Southeast Arkansas
+2012,AZ-501,Tucson/Pima County
+2012,AZ-500,Arizona Balance of State
+2012,AZ-502,Phoenix/Mesa/Maricopa County Regional
+2012,CA-600,Los Angeles City & County
+2012,CA-507,Marin County
+2012,CA-518,Vallejo/Solano County
+2012,CA-611,Oxnard
+2012,CA-511,Stockton/San Joaquin County
+2012,CA-607,Pasadena
+2012,CA-501,San Francisco
+2012,CA-505,Richmond/Contra Costa County
+2012,CA-603,Santa Maria/Santa Barbara County
+2012,CA-609,San Bernardino City & County
+2012,CA-519,"Chico, Paradise/Butte County"
+2012,CA-514,Fresno/Madera County
+2012,CA-508,Watsonville/Santa Cruz City & County
+2012,CA-520,Merced City & County
+2012,CA-612,Glendale
+2012,CA-504,"Santa Rosa, Petaluma/Sonoma County"
+2012,CA-515,"Roseville, Rocklin/Placer, Nevada Counties"
+2012,CA-521,"Davis, Woodland/Yolo County"
+2012,CA-601,San Diego City & County
+2012,CA-613,Imperial County
+2012,CA-509,Mendocino County
+2012,CA-604,Bakersfield/Kern County
+2012,CA-516,Redding/Shasta County
+2012,CA-506,"Salinas/Monterey, San Benito Counties"
+2012,CA-602,"Santa Ana, Anaheim/Orange County"
+2012,CA-614,San Luis Obispo County
+2012,CA-522,Humboldt County
+2012,CA-500,"San Jose, Santa Clara City & County"
+2012,CA-502,Oakland/Alameda County
+2012,CA-512,Daly City/San Mateo County
+2012,CA-606,Long Beach
+2012,CA-525,El Dorado County
+2012,CA-608,Riverside City & County
+2012,CA-517,Napa City & County
+2012,CA-503,Sacramento City & County
+2012,CA-526,"Tuolumne, Calaveras, Amador Counties"
+2012,CA-510,"Turlock, Modesto/Stanislaus County"
+2012,CA-605,San Buenaventura/Ventura County
+2012,CA-513,"Visalia/Kings, Tulare Counties"
+2012,CO-500,Colorado Balance of State
+2012,CO-503,Metropolitan Denver Homeless Initiative
+2012,CO-504,Colorado Springs/El Paso County
+2012,CT-502,Hartford
+2012,CT-512,Waterbury
+2012,CT-506,Norwalk/Fairfield County
+2012,CT-501,New Haven
+2012,CT-503,"Bridgeport, Stratford, Fairfield"
+2012,CT-505,Connecticut Balance of State
+2012,CT-508,"Stamford, Greenwich"
+2012,DC-500,District of Columbia
+2012,DE-500,Delaware Statewide
+2012,FL-507,"Orlando/Orange, Osceola, Seminole Counties"
+2012,FL-505,"Fort Walton Beach/Okaloosa, Walton Counties"
+2012,FL-510,"Jacksonville-Duval, Clay Counties"
+2012,FL-520,"Citrus, Hernando, Lake, Sumter Counties"
+2012,FL-601,Ft Lauderdale/Broward County
+2012,FL-502,"Saint Petersburg, Clearwater, Largo/Pinellas County"
+2012,FL-506,Tallahassee/Leon County
+2012,FL-605,West Palm Beach/Palm Beach County
+2012,FL-602,Punta Gorda/Charlotte County
+2012,FL-508,"Gainesville/Alachua, Putnam Counties"
+2012,FL-600,Miami-Dade County
+2012,FL-511,"Pensacola/Escambia, Santa Rosa Counties"
+2012,FL-606,Naples/Collier County
+2012,FL-512,Saint Johns County
+2012,FL-503,Lakeland
+2012,FL-501,Tampa/Hillsborough County
+2012,FL-603,"Ft Myers, Cape Coral/Lee County"
+2012,FL-509,"Fort Pierce/Saint Lucie, Indian River, Martin Counties"
+2012,FL-513,"Palm Bay, Melbourne/Brevard County"
+2012,FL-604,Monroe County
+2012,FL-514,Ocala/Marion County
+2012,FL-515,"Panama City/Bay, Jackson Counties"
+2012,FL-516,Winterhaven/Polk County
+2012,FL-517,"Hendry, Hardee, Highlands Counties"
+2012,FL-518,"Columbia, Hamilton, Lafayette, Suwannee Counties"
+2012,FL-504,"Daytona Beach, Daytona/Volusia, Flagler Counties"
+2012,FL-500,"Sarasota, Bradenton/Manatee, Sarasota Counties"
+2012,FL-519,Pasco County
+2012,GA-501,Georgia Balance of State
+2012,GA-506,Marietta/Cobb County
+2012,GA-500,"Atlanta/Roswell/DeKalb, Fulton Counties"
+2012,GA-507,Savannah/Chatham County
+2012,GA-503,Athens-Clarke County
+2012,GA-504,Augusta
+2012,GA-505,Columbus-Muscogee/Russell County
+2012,GU-500,Guam
+2012,HI-500,Hawaii Balance of State
+2012,HI-501,Honolulu
+2012,IA-500,"Sioux City/Dakota, Woodbury Counties"
+2012,IA-502,Des Moines/Polk County
+2012,IA-501,Iowa Balance of State
+2012,ID-501,Idaho Balance of State
+2012,ID-500,Boise/Ada County
+2012,IL-508,"East Saint Louis, Belleville/Saint Clair County"
+2012,IL-510,Chicago
+2012,IL-513,Springfield/Sangamon County
+2012,IL-520,Southern Illinois
+2012,IL-509,DeKalb City & County
+2012,IL-511,Cook County
+2012,IL-506,"Joliet, Bolingbrook/Will County"
+2012,IL-517,"Aurora, Elgin/Kane County"
+2012,IL-502,"Waukegan, North Chicago/Lake County"
+2012,IL-514,DuPage County
+2012,IL-518,"Rock Island, Moline/Northwestern Illinois"
+2012,IL-507,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties"
+2012,IL-503,"Champaign, Urbana, Rantoul/Champaign County"
+2012,IL-500,McHenry County
+2012,IL-512,Bloomington/Central Illinois
+2012,IL-519,West Central Illinois
+2012,IL-515,South Central Illinois
+2012,IL-504,Madison County
+2012,IL-501,"Rockford/Winnebago, Boone Counties"
+2012,IL-516,Decatur/Macon County
+2012,IN-503,Indianapolis
+2012,IN-502,Indiana Balance of State
+2012,IN-500,"South Bend, Mishawaka/Saint Joseph County"
+2012,KS-507,Kansas Balance of State
+2012,KS-501,Kansas City/Wyandotte County
+2012,KS-502,Wichita/Sedgwick County
+2012,KS-503,Topeka/Shawnee County
+2012,KS-505,"Overland Park, Shawnee/Johnson County"
+2012,KY-502,Lexington-Fayette County
+2012,KY-500,Kentucky Balance of State
+2012,KY-501,Louisville-Jefferson County
+2012,LA-506,Slidell/Southeast Louisiana
+2012,LA-502,Shreveport/Bossier/Northwest Louisiana
+2012,LA-504,Baton Rouge
+2012,LA-507,Alexandria/Central Louisiana
+2012,LA-500,Lafayette/Acadiana
+2012,LA-503,New Orleans/Jefferson Parish
+2012,LA-508,"Houma-Terrebonne, Thibodaux"
+2012,LA-505,Monroe/Northeast Louisiana
+2012,LA-501,Lake Charles/Southwestern Louisiana
+2012,MA-510,"Gloucester, Haverhill, Salem/Essex County"
+2012,MA-516,Massachusetts Balance of State
+2012,MA-515,Fall River
+2012,MA-519,"Attleboro, Taunton/Bristol County"
+2012,MA-506,Worcester City & County
+2012,MA-504,Springfield/Holyoke/Chicopee/Westfield/Hampden County
+2012,MA-511,"Quincy, Weymouth"
+2012,MA-520,"Brockton, Plymouth City & County"
+2012,MA-507,"Pittsfield/Northampton/Berkshire, Franklin, Hampshire Counties"
+2012,MA-502,Lynn
+2012,MA-517,Somerville
+2012,MA-505,New Bedford
+2012,MA-509,Cambridge
+2012,MA-500,Boston
+2012,MA-508,Lowell
+2012,MA-513,"Malden, Medford"
+2012,MA-503,Cape Cod Islands
+2012,MA-518,"Brookline, Newton"
+2012,MD-501,Baltimore
+2012,MD-504,Howard County
+2012,MD-601,Montgomery County
+2012,MD-513,"Wicomico, Somerset, Worcester Counties"
+2012,MD-508,"Charles, Calvert, Saint Mary's Counties"
+2012,MD-505,Baltimore County
+2012,MD-509,Frederick City & County
+2012,MD-502,Harford County
+2012,MD-510,Garrett County
+2012,MD-600,Prince George's County
+2012,MD-506,Carroll County
+2012,MD-500,Cumberland/Allegany County
+2012,MD-511,Mid-Shore Regional
+2012,MD-507,Cecil County
+2012,MD-503,Annapolis/Anne Arundel County
+2012,MD-512,Hagerstown/Washington County
+2012,ME-502,Portland
+2012,ME-500,Maine Balance of State
+2012,MI-501,Detroit
+2012,MI-507,"Portage, Kalamazoo City & County"
+2012,MI-505,Flint/Genesee County
+2012,MI-516,"Norton Shores, Muskegon City & County"
+2012,MI-510,Saginaw City & County
+2012,MI-517,Jackson City & County
+2012,MI-508,"Lansing, East Lansing/Ingham County"
+2012,MI-500,Michigan Balance of State
+2012,MI-518,Livingston County
+2012,MI-511,Lenawee County
+2012,MI-504,"Pontiac, Royal Oak/Oakland County"
+2012,MI-502,"Dearborn, Dearborn Heights, Westland/Wayne County"
+2012,MI-512,"Grand Traverse, Antrim, Leelanau Counties"
+2012,MI-506,Grand Rapids/Wyoming/Kent County
+2012,MI-519,Holland/Ottawa County
+2012,MI-513,"Marquette, Alger Counties"
+2012,MI-509,Ann Arbor/Washtenaw County
+2012,MI-523,Eaton County
+2012,MI-514,Battle Creek/Calhoun County
+2012,MI-503,"Saint Clair Shores, Warren/Macomb County"
+2012,MI-515,Monroe City & County
+2012,MN-502,Rochester/Southeast Minnesota
+2012,MN-505,Saint Cloud/Central Minnesota
+2012,MN-506,Northwest Minnesota
+2012,MN-503,"Dakota, Anoka, Washington, Scott, Carver Counties"
+2012,MN-509,Duluth/Saint Louis County
+2012,MN-501,Saint Paul/Ramsey County
+2012,MN-508,Moorhead/West Central Minnesota
+2012,MN-504,Northeast Minnesota
+2012,MN-500,Minneapolis/Hennepin County
+2012,MN-511,Southwest Minnesota
+2012,MO-606,Missouri Balance of State
+2012,MO-500,Saint Louis County
+2012,MO-602,"Joplin/Jasper, Newton Counties"
+2012,MO-604,"Kansas City, Independence, Lee's Summit/Jackson County"
+2012,MO-603,"Saint Joseph/Andrew, Buchanan, DeKalb Counties"
+2012,MO-501,Saint Louis
+2012,MO-503,"Saint Charles City & County, Lincoln, Warren Counties"
+2012,MO-600,"Springfield/Greene, Christian, Webster Counties"
+2012,MS-500,"Jackson/Rankin, Madison Counties"
+2012,MS-501,Mississippi Balance of State
+2012,MS-503,Gulf Port/Gulf Coast Regional
+2012,MT-500,Montana Statewide
+2012,NC-509,"Gastonia/Cleveland, Gaston, Lincoln Counties"
+2012,NC-500,Winston-Salem/Forsyth County
+2012,NC-505,Charlotte/Mecklenburg County
+2012,NC-503,North Carolina Balance of State
+2012,NC-511,Fayetteville/Cumberland County
+2012,NC-501,Asheville/Buncombe County
+2012,NC-513,Chapel Hill/Orange County
+2012,NC-506,"Wilmington/Brunswick, New Hanover, Pender Counties"
+2012,NC-502,Durham City & County
+2012,NC-516,Northwest North Carolina
+2012,NC-504,"Greensboro, High Point"
+2012,NC-507,Raleigh/Wake County
+2012,ND-500,North Dakota Statewide
+2012,NE-502,Lincoln
+2012,NE-500,Nebraska Balance of State
+2012,NE-501,"Omaha, Council Bluffs"
+2012,NH-501,Manchester
+2012,NH-502,Nashua/Hillsborough County
+2012,NH-500,New Hampshire Balance of State
+2012,NJ-508,Monmouth County
+2012,NJ-515,Elizabeth/Union County
+2012,NJ-513,Somerset County
+2012,NJ-503,Camden City & County
+2012,NJ-516,"Warren, Sussex, Hunterdon Counties"
+2012,NJ-509,Morris County
+2012,NJ-501,Bergen County
+2012,NJ-506,"Jersey City, Bayonne/Hudson County"
+2012,NJ-518,Ocean City/Cape May County
+2012,NJ-514,Trenton/Mercer County
+2012,NJ-520,Cumberland County
+2012,NJ-510,Lakewood Township/Ocean County
+2012,NJ-507,New Brunswick/Middlesex County
+2012,NJ-502,Burlington County
+2012,NJ-504,Newark/Essex County
+2012,NJ-500,Atlantic City & County
+2012,NJ-511,Paterson/Passaic County
+2012,NJ-512,Salem County
+2012,NJ-505,Gloucester County
+2012,NM-500,Albuquerque
+2012,NM-501,New Mexico Balance of State
+2012,NV-500,Las Vegas/Clark County
+2012,NV-501,"Reno, Sparks/Washoe County"
+2012,NV-502,Nevada Balance of State
+2012,NY-523,"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties"
+2012,NY-600,New York City
+2012,NY-602,"Newburgh, Middletown/Orange County"
+2012,NY-510,Ithaca/Tompkins County
+2012,NY-524,Niagara Falls/Niagara County
+2012,NY-604,Yonkers/Mount Vernon/New Rochelle/Westchester County
+2012,NY-500,"Rochester, Irondequoit, Greece/Monroe County"
+2012,NY-507,Schenectady City & County
+2012,NY-511,"Binghamton/Union Town/Broome, Otsego Counties"
+2012,NY-518,"Utica, Rome/Oneida, Madison Counties"
+2012,NY-606,Rockland County
+2012,NY-503,Albany City & County
+2012,NY-501,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties"
+2012,NY-607,Sullivan County
+2012,NY-519,"Columbia, Greene Counties"
+2012,NY-505,Syracuse/Onondaga County
+2012,NY-601,Poughkeepsie/Dutchess County
+2012,NY-520,Franklin County
+2012,NY-502,Auburn/Cayuga County
+2012,NY-522,"Jefferson, Lewis, Saint Lawrence Counties"
+2012,NY-512,Troy/Rensselaer County
+2012,NY-504,Cattaraugus County
+2012,NY-608,Kingston/Ulster County
+2012,NY-603,"Nassau, Suffolk Counties/Babylon/Islip/Huntington"
+2012,NY-513,"Wayne, Ontario, Seneca, Yates Counties"
+2012,NY-508,Buffalo/Erie County
+2012,NY-514,"Jamestown, Dunkirk/Chautauqua County"
+2012,NY-516,Clinton County
+2012,NY-517,Orleans County
+2012,OH-501,Toledo/Lucas County
+2012,OH-503,Columbus/Franklin County
+2012,OH-502,Cleveland/Cuyahoga County
+2012,OH-505,"Dayton, Kettering/Montgomery County"
+2012,OH-508,"Canton, Massillon, Alliance/Stark County"
+2012,OH-500,Cincinnati/Hamilton County
+2012,OH-507,Ohio Balance of State
+2012,OH-504,Youngstown/Mahoning County
+2012,OH-506,Akron/Barberton/Summit County
+2012,OK-502,Oklahoma City
+2012,OK-503,Oklahoma Balance of State
+2012,OK-500,North Central Oklahoma
+2012,OK-504,Norman/Cleveland County
+2012,OK-505,Northeast Oklahoma
+2012,OK-506,Southwest Oklahoma Regional
+2012,OK-507,Southeastern Oklahoma Regional
+2012,OK-501,Tulsa City & County/Broken Arrow
+2012,OR-507,Clackamas County
+2012,OR-501,"Portland, Gresham/Multnomah County"
+2012,OR-500,"Eugene, Springfield/Lane County"
+2012,OR-505,Oregon Balance of State
+2012,OR-502,"Medford, Ashland/Jackson County"
+2012,OR-503,Central Oregon
+2012,OR-506,"Hillsboro, Beaverton/Washington County"
+2012,PA-600,"Pittsburgh, McKeesport, Penn Hills/Allegheny County"
+2012,PA-603,Beaver County
+2012,PA-507,Altoona/Central Pennsylvania
+2012,PA-509,Allentown/Northeast Pennsylvania
+2012,PA-601,Southwest Pennsylvania
+2012,PA-500,Philadelphia
+2012,PA-605,Erie City & County
+2012,PA-506,Reading/Berks County
+2012,PA-502,"Upper Darby, Chester, Haverford/Delaware County"
+2012,PA-504,"Lower Merion, Norristown, Abington/Montgomery County"
+2012,PA-508,Scranton/Lackawanna County
+2012,PA-510,Lancaster City & County
+2012,PA-602,Northwest Pennsylvania
+2012,PA-505,Chester County
+2012,PA-511,"Bristol, Bensalem/Bucks County"
+2012,PA-501,Harrisburg/Dauphin County
+2012,PA-503,"Wilkes-Barre, Hazleton, Luzerne County"
+2012,PA-512,York City & County
+2012,PR-502,Puerto Rico Balance of Commonwealth
+2012,PR-503,South-Southeast Puerto Rico
+2012,RI-500,Rhode Island Statewide
+2012,SC-502,Columbia/Midlands
+2012,SC-500,Charleston/Low Country
+2012,SC-503,"Myrtle Beach, Sumter City & County"
+2012,SC-501,"Greenville, Anderson, Spartanburg/Upstate"
+2012,SD-500,South Dakota Statewide
+2012,TN-504,Nashville-Davidson County
+2012,TN-500,Chattanooga/Southeast Tennessee
+2012,TN-502,Knoxville/Knox County
+2012,TN-509,Appalachian Regional
+2012,TN-506,Upper Cumberland
+2012,TN-510,Murfreesboro/Rutherford County
+2012,TN-512,"Morristown/Blount, Sevier, Campbell, Cocke Counties"
+2012,TN-503,Central Tennessee
+2012,TN-501,Memphis/Shelby County
+2012,TN-507,Jackson/West Tennessee
+2012,TX-600,"Dallas City & County, Irving"
+2012,TX-500,San Antonio/Bexar County
+2012,TX-700,Houston/Harris County
+2012,TX-601,"Fort Worth, Arlington/Tarrant County"
+2012,TX-603,El Paso City & County
+2012,TX-501,Corpus Christi/Nueces County
+2012,TX-701,"Bryan, College Station/Brazos Valley"
+2012,TX-604,Waco/McLennan County
+2012,TX-703,"Beaumont, Port Arthur/South East Texas"
+2012,TX-607,Texas Balance of State
+2012,TX-503,Austin/Travis County
+2012,TX-611,Amarillo
+2012,TX-504,"Victoria/Dewitt, Lavaca, Gonzales Counties"
+2012,UT-504,Provo/Mountainland
+2012,UT-500,Salt Lake City & County
+2012,UT-503,Utah Balance of State
+2012,VA-501,"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties"
+2012,VA-602,Loudoun County
+2012,VA-600,Arlington County
+2012,VA-603,Alexandria
+2012,VA-502,"Roanoke City & County, Salem"
+2012,VA-507,Portsmouth
+2012,VA-508,Lynchburg
+2012,VA-604,Prince William County
+2012,VA-500,"Richmond/Henrico, Chesterfield, Hanover Counties"
+2012,VA-509,Petersburg
+2012,VA-510,"Staunton/Waynesboro/Augusta, Highland Counties"
+2012,VA-503,Virginia Beach
+2012,VA-513,"Harrisonburg, Winchester/Western Virginia"
+2012,VA-504,Charlottesville
+2012,VA-514,"Fredericksburg/Spotsylvania, Stafford Counties"
+2012,VA-517,Danville/Martinsville
+2012,VA-601,Fairfax County
+2012,VA-521,Virginia Balance of State
+2012,VA-505,"Newport News, Hampton/Virginia Peninsula"
+2012,VI-500,Virgin Islands
+2012,VT-501,Burlington/Chittenden County
+2012,VT-500,Vermont Balance of State
+2012,WA-500,Seattle/King County
+2012,WA-503,"Tacoma, Lakewood/Pierce County"
+2012,WA-507,Yakima City & County
+2012,WA-502,Spokane City & County
+2012,WA-508,Vancouver/Clark County
+2012,WA-501,Washington Balance of State
+2012,WA-504,Everett/Snohomish County
+2012,WI-503,Madison/Dane County
+2012,WI-501,Milwaukee City & County
+2012,WI-500,Wisconsin Balance of State
+2012,WI-502,Racine City & County
+2012,WV-508,West Virginia Balance of State
+2012,WV-500,"Wheeling, Weirton Area"
+2012,WV-501,"Huntington/Cabell, Wayne Counties"
+2012,WV-503,"Charleston/Kanawha, Putnam, Boone, Clay Counties"
+2012,WY-500,Wyoming Statewide
+2011,AK-500,Anchorage
+2011,AK-501,Alaska Balance of State
+2011,AL-502,Florence/Northwest Alabama
+2011,AL-503,Huntsville/North Alabama
+2011,AL-500,"Birmingham/Jefferson, Saint Clair, Shelby Counties"
+2011,AL-504,Montgomery City & County
+2011,AL-505,Gadsden/Northeast Alabama
+2011,AL-506,Tuscaloosa City & County
+2011,AL-507,Alabama Balance of State
+2011,AL-501,Mobile City & County/Baldwin County
+2011,AR-500,Little Rock/Central Arkansas
+2011,AR-501,Fayetteville/Northwest Arkansas
+2011,AR-503,"Mississippi, Phillips Counties"
+2011,AR-504,Delta Hills
+2011,AR-505,Southeast Arkansas
+2011,AR-507,Eastern Arkansas
+2011,AZ-500,Arizona Balance of State
+2011,AZ-502,Phoenix/Mesa/Maricopa County Regional
+2011,AZ-501,Tucson/Pima County
+2011,CA-507,Marin County
+2011,CA-501,San Francisco
+2011,CA-600,Los Angeles City & County
+2011,CA-518,Vallejo/Solano County
+2011,CA-611,Oxnard
+2011,CA-505,Richmond/Contra Costa County
+2011,CA-607,Pasadena
+2011,CA-511,Stockton/San Joaquin County
+2011,CA-609,San Bernardino City & County
+2011,CA-603,Santa Maria/Santa Barbara County
+2011,CA-519,"Chico, Paradise/Butte County"
+2011,CA-514,Fresno/Madera County
+2011,CA-601,San Diego City & County
+2011,CA-508,Watsonville/Santa Cruz City & County
+2011,CA-520,Merced City & County
+2011,CA-612,Glendale
+2011,CA-504,"Santa Rosa, Petaluma/Sonoma County"
+2011,CA-602,"Santa Ana, Anaheim/Orange County"
+2011,CA-604,Bakersfield/Kern County
+2011,CA-515,"Roseville, Rocklin/Placer, Nevada Counties"
+2011,CA-521,"Davis, Woodland/Yolo County"
+2011,CA-509,Mendocino County
+2011,CA-502,Oakland/Alameda County
+2011,CA-500,"San Jose, Santa Clara City & County"
+2011,CA-613,Imperial County
+2011,CA-506,"Salinas/Monterey, San Benito Counties"
+2011,CA-516,Redding/Shasta County
+2011,CA-606,Long Beach
+2011,CA-614,San Luis Obispo County
+2011,CA-522,Humboldt County
+2011,CA-512,Daly City/San Mateo County
+2011,CA-503,Sacramento City & County
+2011,CA-608,Riverside City & County
+2011,CA-523,"Colusa, Glenn, Lake, Tehama, Trinity Counties"
+2011,CA-510,"Turlock, Modesto/Stanislaus County"
+2011,CA-517,Napa City & County
+2011,CA-525,El Dorado County
+2011,CA-526,"Tuolumne, Calaveras, Amador Counties"
+2011,CA-605,San Buenaventura/Ventura County
+2011,CA-513,"Visalia/Kings, Tulare Counties"
+2011,CO-503,Metropolitan Denver Homeless Initiative
+2011,CO-500,Colorado Balance of State
+2011,CO-504,Colorado Springs/El Paso County
+2011,CT-512,Waterbury
+2011,CT-506,Norwalk/Fairfield County
+2011,CT-505,Connecticut Balance of State
+2011,CT-501,New Haven
+2011,CT-503,"Bridgeport, Stratford, Fairfield"
+2011,CT-508,"Stamford, Greenwich"
+2011,CT-502,Hartford
+2011,DC-500,District of Columbia
+2011,DE-500,Delaware Statewide
+2011,FL-502,"Saint Petersburg, Clearwater, Largo/Pinellas County"
+2011,FL-510,"Jacksonville-Duval, Clay Counties"
+2011,FL-600,Miami-Dade County
+2011,FL-601,Ft Lauderdale/Broward County
+2011,FL-505,"Fort Walton Beach/Okaloosa, Walton Counties"
+2011,FL-520,"Citrus, Hernando, Lake, Sumter Counties"
+2011,FL-605,West Palm Beach/Palm Beach County
+2011,FL-506,Tallahassee/Leon County
+2011,FL-508,"Gainesville/Alachua, Putnam Counties"
+2011,FL-602,Punta Gorda/Charlotte County
+2011,FL-511,"Pensacola/Escambia, Santa Rosa Counties"
+2011,FL-606,Naples/Collier County
+2011,FL-501,Tampa/Hillsborough County
+2011,FL-512,Saint Johns County
+2011,FL-503,Lakeland
+2011,FL-603,"Ft Myers, Cape Coral/Lee County"
+2011,FL-509,"Fort Pierce/Saint Lucie, Indian River, Martin Counties"
+2011,FL-513,"Palm Bay, Melbourne/Brevard County"
+2011,FL-604,Monroe County
+2011,FL-514,Ocala/Marion County
+2011,FL-507,"Orlando/Orange, Osceola, Seminole Counties"
+2011,FL-515,"Panama City/Bay, Jackson Counties"
+2011,FL-516,Winterhaven/Polk County
+2011,FL-517,"Hendry, Hardee, Highlands Counties"
+2011,FL-504,"Daytona Beach, Daytona/Volusia, Flagler Counties"
+2011,FL-518,"Columbia, Hamilton, Lafayette, Suwannee Counties"
+2011,FL-500,"Sarasota, Bradenton/Manatee, Sarasota Counties"
+2011,FL-519,Pasco County
+2011,GA-501,Georgia Balance of State
+2011,GA-506,Marietta/Cobb County
+2011,GA-500,"Atlanta/Roswell/DeKalb, Fulton Counties"
+2011,GA-507,Savannah/Chatham County
+2011,GA-503,Athens-Clarke County
+2011,GA-504,Augusta
+2011,GA-505,Columbus-Muscogee/Russell County
+2011,GU-500,Guam
+2011,HI-500,Hawaii Balance of State
+2011,HI-501,Honolulu
+2011,IA-500,"Sioux City/Dakota, Woodbury Counties"
+2011,IA-502,Des Moines/Polk County
+2011,IA-501,Iowa Balance of State
+2011,ID-501,Idaho Balance of State
+2011,ID-500,Boise/Ada County
+2011,IL-510,Chicago
+2011,IL-511,Cook County
+2011,IL-513,Springfield/Sangamon County
+2011,IL-520,Southern Illinois
+2011,IL-509,DeKalb City & County
+2011,IL-517,"Aurora, Elgin/Kane County"
+2011,IL-506,"Joliet, Bolingbrook/Will County"
+2011,IL-502,"Waukegan, North Chicago/Lake County"
+2011,IL-514,Dupage County
+2011,IL-518,"Rock Island, Moline/Northwestern Illinois"
+2011,IL-507,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties"
+2011,IL-500,McHenry County
+2011,IL-503,"Champaign, Urbana, Rantoul/Champaign County"
+2011,IL-512,Bloomington/Central Illinois
+2011,IL-519,West Central Illinois
+2011,IL-515,South Central Illinois
+2011,IL-504,Madison County
+2011,IL-501,"Rockford/Winnebago, Boone Counties"
+2011,IL-508,"East Saint Louis, Belleville/Saint Clair County"
+2011,IL-516,Decatur/Macon County
+2011,IN-502,Indiana Balance of State
+2011,IN-500,"South Bend, Mishawaka/Saint Joseph County"
+2011,IN-503,Indianapolis
+2011,KS-507,Kansas Balance of State
+2011,KS-501,Kansas City/Wyandotte County
+2011,KS-502,Wichita/Sedgwick County
+2011,KS-503,Topeka/Shawnee County
+2011,KS-505,"Overland Park, Shawnee/Johnson County"
+2011,KY-502,Lexington-Fayette County
+2011,KY-500,Kentucky Balance of State
+2011,KY-501,Louisville-Jefferson County
+2011,LA-506,Slidell/Southeast Louisiana
+2011,LA-502,Shreveport/Bossier/Northwest Louisiana
+2011,LA-504,Baton Rouge
+2011,LA-503,New Orleans/Jefferson Parish
+2011,LA-507,Alexandria/Central Louisiana
+2011,LA-500,Lafayette/Acadiana
+2011,LA-508,"Houma-Terrebonne, Thibodaux"
+2011,LA-505,Monroe/Northeast Louisiana
+2011,LA-501,Lake Charles/Southwestern Louisiana
+2011,MA-506,Worcester City & County
+2011,MA-515,Fall River
+2011,MA-519,"Attleboro, Taunton/Bristol County"
+2011,MA-501,"Holyoke/Franklin, Hampden, Hamshire Counties"
+2011,MA-504,Springfield
+2011,MA-511,"Quincy, Weymouth"
+2011,MA-500,Boston
+2011,MA-520,"Brockton, Plymouth City & County"
+2011,MA-517,Somerville
+2011,MA-509,Cambridge
+2011,MA-502,Lynn
+2011,MA-507,Pittsfield/Berkshire County
+2011,MA-505,New Bedford
+2011,MA-512,Lawrence
+2011,MA-508,Lowell
+2011,MA-516,Massachusetts Balance of State
+2011,MA-503,Cape Cod Islands
+2011,MA-513,"Malden, Medford"
+2011,MA-518,"Brookline, Newton"
+2011,MA-510,"Gloucester, Haverhill, Salem/Essex County"
+2011,MD-601,Montgomery County
+2011,MD-508,"Charles, Calvert, Saint Mary's Counties"
+2011,MD-513,"Wicomico, Somerset, Worcester Counties"
+2011,MD-505,Baltimore County
+2011,MD-509,Frederick City & County
+2011,MD-502,Harford County
+2011,MD-600,Prince George's County
+2011,MD-510,Garrett County
+2011,MD-501,Baltimore
+2011,MD-506,Carroll County
+2011,MD-500,Cumberland/Allegany County
+2011,MD-511,Mid-Shore Regional
+2011,MD-507,Cecil County
+2011,MD-503,Annapolis/Anne Arundel County
+2011,MD-512,Hagerstown/Washington County
+2011,MD-504,Howard County
+2011,ME-501,Bangor/Penobscot County Coc
+2011,ME-502,Portland
+2011,ME-500,Maine Balance of State
+2011,MI-501,Detroit
+2011,MI-505,Flint/Genesee County
+2011,MI-507,"Portage, Kalamazoo City & County"
+2011,MI-516,"Norton Shores, Muskegon City & County"
+2011,MI-510,Saginaw City & County
+2011,MI-517,Jackson City & County
+2011,MI-500,Michigan Balance of State
+2011,MI-508,"Lansing, East Lansing/Ingham County"
+2011,MI-518,Livingston County
+2011,MI-511,Lenawee County
+2011,MI-504,"Pontiac, Royal Oak/Oakland County"
+2011,MI-502,"Dearborn, Dearborn Heights, Westland/Wayne County"
+2011,MI-506,Grand Rapids/Wyoming/Kent County
+2011,MI-512,"Grand Traverse, Antrim, Leelanau Counties"
+2011,MI-519,Holland/Ottawa County
+2011,MI-513,"Marquette, Alger Counties"
+2011,MI-509,Ann Arbor/Washtenaw County
+2011,MI-503,"Saint Clair Shores, Warren/Macomb County"
+2011,MI-523,Eaton County
+2011,MI-514,Battle Creek/Calhoun County
+2011,MI-515,Monroe City & County
+2011,MN-505,Saint Cloud/Central Minnesota
+2011,MN-506,Northwest Minnesota
+2011,MN-509,Duluth/Saint Louis County
+2011,MN-503,"Dakota, Anoka, Washington, Scott, Carver Counties"
+2011,MN-501,Saint Paul/Ramsey County
+2011,MN-508,Moorhead/West Central Minnesota
+2011,MN-500,Minneapolis/Hennepin County
+2011,MN-504,Northeast Minnesota
+2011,MN-511,Southwest Minnesota
+2011,MN-502,Rochester/Southeast Minnesota
+2011,MO-500,Saint Louis County
+2011,MO-604,"Kansas City, Independence, Lee's Summit/Jackson County"
+2011,MO-602,"Joplin/Jasper, Newton Counties"
+2011,MO-603,"Saint Joseph/Andrew, Buchanan, DeKalb Counties"
+2011,MO-501,Saint Louis
+2011,MO-503,"Saint Charles City & County, Lincoln, Warren Counties"
+2011,MO-606,Missouri Balance of State
+2011,MO-600,"Springfield/Greene, Christian, Webster Counties"
+2011,MS-500,"Jackson/Rankin, Madison Counties"
+2011,MS-501,Mississippi Balance of State
+2011,MS-503,Gulf Port/Gulf Coast Regional
+2011,MT-500,Montana Statewide
+2011,NC-500,Winston-Salem/Forsyth County
+2011,NC-509,"Gastonia/Cleveland, Gaston, Lincoln Counties"
+2011,NC-503,North Carolina Balance of State
+2011,NC-505,Charlotte/Mecklenburg County
+2011,NC-511,Fayetteville/Cumberland County
+2011,NC-501,Asheville/Buncombe County
+2011,NC-506,"Wilmington/Brunswick, New Hanover, Pender Counties"
+2011,NC-513,Chapel Hill/Orange County
+2011,NC-502,Durham City & County
+2011,NC-516,Northwest North Carolina
+2011,NC-504,"Greensboro, High Point"
+2011,NC-507,Raleigh/Wake County
+2011,ND-500,North Dakota Statewide
+2011,NE-502,Lincoln
+2011,NE-500,Nebraska Balance of State
+2011,NE-501,"Omaha, Council Bluffs"
+2011,NH-501,Manchester
+2011,NH-502,Nashua/Hillsborough County
+2011,NH-500,New Hampshire Balance of State
+2011,NJ-513,Somerset County
+2011,NJ-503,Camden City & County
+2011,NJ-516,"Warren, Sussex, Hunterdon Counties"
+2011,NJ-501,Bergen County
+2011,NJ-509,Morris County
+2011,NJ-506,"Jersey City, Bayonne/Hudson County"
+2011,NJ-518,Ocean City/Cape May County
+2011,NJ-514,Trenton/Mercer County
+2011,NJ-520,Cumberland County
+2011,NJ-510,Lakewood Township/Ocean County
+2011,NJ-507,New Brunswick/Middlesex County
+2011,NJ-504,Newark/Essex County
+2011,NJ-502,Burlington County
+2011,NJ-511,Paterson/Passaic County
+2011,NJ-500,Atlantic City & County
+2011,NJ-515,Elizabeth/Union County
+2011,NJ-505,Gloucester County
+2011,NJ-512,Salem County
+2011,NJ-508,Monmouth County
+2011,NM-501,New Mexico Balance of State
+2011,NM-500,Albuquerque
+2011,NV-500,Las Vegas/Clark County
+2011,NV-501,"Reno, Sparks/Washoe County"
+2011,NV-502,Nevada Balance of State
+2011,NY-600,New York City
+2011,NY-604,Yonkers/Mount Vernon/New Rochelle/Westchester County
+2011,NY-510,Ithaca/Tompkins County
+2011,NY-500,"Rochester, Irondequoit, Greece/Monroe County"
+2011,NY-524,Niagara Falls/Niagara County
+2011,NY-507,Schenectady City & County
+2011,NY-605,Nassau County
+2011,NY-511,"Binghamton/Union Town/Broome, Otsego, Chenango Counties"
+2011,NY-518,Utica/Rome/Oneida County
+2011,NY-503,Albany City & County
+2011,NY-606,Rockland County
+2011,NY-505,Syracuse/Onondaga County
+2011,NY-501,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties"
+2011,NY-601,Poughkeepsie/Dutchess County
+2011,NY-519,"Columbia, Greene Counties"
+2011,NY-607,Sullivan County
+2011,NY-520,Franklin County
+2011,NY-603,Islip/Babylon/Huntington/Suffolk County
+2011,NY-502,Auburn/Cayuga County
+2011,NY-512,Troy/Rensselaer County
+2011,NY-522,"Jefferson, Lewis, Saint Lawrence Counties"
+2011,NY-608,Kingston/Ulster County
+2011,NY-504,Cattaraugus County
+2011,NY-508,Buffalo/Erie County
+2011,NY-513,"Wayne, Ontario, Seneca, Yates Counties"
+2011,NY-514,"Jamestown, Dunkirk/Chautauqua County"
+2011,NY-523,Glens Falls/Saratoga Springs/Saratoga County
+2011,NY-602,"Newburgh, Middletown/Orange County"
+2011,NY-516,Clinton County
+2011,NY-517,Orleans County
+2011,OH-503,Columbus/Franklin County
+2011,OH-502,Cleveland/Cuyahoga County
+2011,OH-505,"Dayton, Kettering/Montgomery County"
+2011,OH-508,"Canton, Massillon, Alliance/Stark County"
+2011,OH-507,Ohio Balance of State
+2011,OH-500,Cincinnati/Hamilton County
+2011,OH-504,Youngstown/Mahoning County
+2011,OH-506,Akron/Barberton/Summit County
+2011,OH-501,Toledo/Lucas County
+2011,OK-502,Oklahoma City
+2011,OK-503,Oklahoma Balance of State
+2011,OK-500,North Central Oklahoma
+2011,OK-504,Norman/Cleveland County
+2011,OK-505,Northeast Oklahoma
+2011,OK-506,Southwest Oklahoma Regional
+2011,OK-501,Tulsa City & County/Broken Arrow
+2011,OR-501,"Portland, Gresham/Multnomah County"
+2011,OR-505,Oregon Balance of State
+2011,OR-500,"Eugene, Springfield/Lane County"
+2011,OR-502,"Medford, Ashland/Jackson County"
+2011,OR-503,Central Oregon
+2011,OR-506,"Hillsboro, Beaverton/Washington County"
+2011,OR-507,Clackamas County
+2011,PA-500,Philadelphia
+2011,PA-507,Altoona/Central Pennsylvania
+2011,PA-601,Southwest Pennsylvania
+2011,PA-603,Beaver County
+2011,PA-509,Allentown/Northeast Pennsylvania
+2011,PA-506,Reading/Berks County
+2011,PA-605,Erie City & County
+2011,PA-502,"Upper Darby, Chester, Haverford/Delaware County"
+2011,PA-504,"Lower Merion, Norristown, Abington/Montgomery County"
+2011,PA-508,Scranton/Lackawanna County
+2011,PA-510,Lancaster City & County
+2011,PA-602,Northwest Pennsylvania
+2011,PA-505,Chester County
+2011,PA-600,"Pittsburgh, McKeesport, Penn Hills/Allegheny County"
+2011,PA-503,"Wilkes-Barre, Hazleton, Luzerne County"
+2011,PA-501,Harrisburg/Dauphin County
+2011,PA-511,"Bristol, Bensalem/Bucks County"
+2011,PA-512,York City & County
+2011,PR-503,South-Southeast Puerto Rico
+2011,PR-502,Puerto Rico Balance of Commonwealth
+2011,RI-500,Rhode Island Statewide
+2011,SC-502,Columbia/Midlands
+2011,SC-500,Charleston/Low Country
+2011,SC-503,"Myrtle Beach, Sumter City & County"
+2011,SC-501,"Greenville, Anderson, Spartanburg/Upstate"
+2011,SD-500,South Dakota Statewide
+2011,TN-500,Chattanooga/Southeast Tennessee
+2011,TN-504,Nashville-Davidson County
+2011,TN-502,Knoxville/Knox County
+2011,TN-509,Appalachian Regional
+2011,TN-506,Upper Cumberland
+2011,TN-510,Murfreesboro/Rutherford County
+2011,TN-512,"Morristown/Blount, Sevier, Campbell, Cocke Counties"
+2011,TN-503,Central Tennessee
+2011,TN-501,Memphis/Shelby County
+2011,TN-507,Jackson/West Tennessee
+2011,TX-600,"Dallas City & County, Irving"
+2011,TX-700,Houston/Harris County
+2011,TX-500,San Antonio/Bexar County
+2011,TX-624,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties"
+2011,TX-601,"Fort Worth, Arlington/Tarrant County"
+2011,TX-603,El Paso City & County
+2011,TX-501,Corpus Christi/Nueces County
+2011,TX-701,"Bryan, College Station/Brazos Valley"
+2011,TX-604,Waco/McLennan County
+2011,TX-702,Montgomery County
+2011,TX-607,Texas Balance of State
+2011,TX-703,"Beaumont, Port Arthur/South East Texas"
+2011,TX-503,Austin/Travis County
+2011,TX-610,Denton City & County
+2011,TX-611,Amarillo
+2011,TX-504,"Victoria/Dewitt, Lavaca, Gonzales Counties"
+2011,UT-500,Salt Lake City & County
+2011,UT-503,Utah Balance of State
+2011,UT-504,Provo/Mountainland
+2011,VA-602,Loudoun County
+2011,VA-600,Arlington County
+2011,VA-603,Alexandria
+2011,VA-507,Portsmouth
+2011,VA-502,"Roanoke City & County, Salem"
+2011,VA-508,Lynchburg
+2011,VA-604,Prince William County
+2011,VA-500,"Richmond/Henrico, Chesterfield, Hanover Counties"
+2011,VA-509,Petersburg
+2011,VA-503,Virginia Beach
+2011,VA-510,"Staunton/Waynesboro/Augusta, Highland Counties"
+2011,VA-513,"Winchester/Shenandoah, Frederick, Warren Counties"
+2011,VA-504,Charlottesville
+2011,VA-514,"Fredericksburg/Spotsylvania, Stafford Counties"
+2011,VA-601,Fairfax County
+2011,VA-517,Danville/Martinsville
+2011,VA-518,Harrisburg/Rockingham County
+2011,VA-501,"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties"
+2011,VA-505,"Newport News, Hampton/Virginia Peninsula"
+2011,VA-521,Virginia Balance of State
+2011,VI-500,Virgin Islands
+2011,VT-501,Burlington/Chittenden County
+2011,VT-500,Vermont Balance of State
+2011,WA-503,"Tacoma, Lakewood/Pierce County"
+2011,WA-507,Yakima City & County
+2011,WA-501,Washington Balance of State
+2011,WA-502,Spokane City & County
+2011,WA-508,Vancouver/Clark County
+2011,WA-504,Everett/Snohomish County
+2011,WA-500,Seattle/King County
+2011,WI-501,Milwaukee City & County
+2011,WI-503,Madison/Dane County
+2011,WI-500,Wisconsin Balance of State
+2011,WI-502,Racine City & County
+2011,WV-508,West Virginia Balance of State
+2011,WV-500,"Wheeling, Weirton Area"
+2011,WV-501,"Huntington/Cabell, Wayne Counties"
+2011,WV-503,"Charleston/Kanawha, Putnam, Boone, Clay Counties"
+2011,WY-500,Wyoming Statewide
+2010,AK-500,Anchorage
+2010,AK-501,Alaska Balance of State
+2010,AL-502,Florence/Northwest Alabama
+2010,AL-500,"Birmingham/Jefferson, Saint Clair, Shelby Counties"
+2010,AL-503,Huntsville/North Alabama
+2010,AL-504,Montgomery City & County
+2010,AL-505,Gadsden/Northeast Alabama
+2010,AL-506,Tuscaloosa City & County
+2010,AL-507,Alabama Balance of State
+2010,AL-501,Mobile City & County/Baldwin County
+2010,AR-500,Little Rock/Central Arkansas
+2010,AR-501,Fayetteville/Northwest Arkansas
+2010,AR-503,"Mississippi, Phillips Counties"
+2010,AR-504,Delta Hills
+2010,AR-505,Southeast Arkansas
+2010,AR-507,Eastern Arkansas
+2010,AZ-500,Arizona Balance of State
+2010,AZ-502,Phoenix/Mesa/Maricopa County Regional
+2010,AZ-501,Tucson/Pima County
+2010,CA-501,San Francisco
+2010,CA-600,Los Angeles City & County
+2010,CA-518,Vallejo/Solano County
+2010,CA-505,Richmond/Contra Costa County
+2010,CA-611,Oxnard
+2010,CA-607,Pasadena
+2010,CA-511,Stockton/San Joaquin County
+2010,CA-609,San Bernardino City & County
+2010,CA-603,Santa Maria/Santa Barbara County
+2010,CA-514,Fresno/Madera County
+2010,CA-519,"Chico, Paradise/Butte County"
+2010,CA-601,San Diego
+2010,CA-508,Watsonville/Santa Cruz City & County
+2010,CA-602,"Santa Ana, Anaheim/Orange County"
+2010,CA-502,Oakland/Alameda County
+2010,CA-504,"Santa Rosa, Petaluma/Sonoma County"
+2010,CA-520,Merced City & County
+2010,CA-612,Glendale
+2010,CA-500,"San Jose, Santa Clara City & County"
+2010,CA-604,Bakersfield/Kern County
+2010,CA-515,"Roseville, Rocklin/Placer, Nevada Counties"
+2010,CA-521,"Davis, Woodland/Yolo County"
+2010,CA-509,Mendocino County
+2010,CA-606,Long Beach
+2010,CA-506,"Salinas/Monterey, San Benito Counties"
+2010,CA-613,Imperial County
+2010,CA-503,Sacramento City & County
+2010,CA-516,Redding/Shasta County
+2010,CA-512,Daly City/San Mateo County
+2010,CA-608,Riverside City & County
+2010,CA-522,Humboldt County
+2010,CA-614,San Luis Obispo County
+2010,CA-510,"Turlock, Modesto/Stanislaus County"
+2010,CA-523,"Colusa, Glenn, Lake, Tehama, Trinity Counties"
+2010,CA-517,Napa City & County
+2010,CA-610,San Diego County
+2010,CA-605,San Buenaventura/Ventura County
+2010,CA-526,"Tuolumne, Calaveras, Amador Counties"
+2010,CA-528,Del Norte County
+2010,CA-507,Marin County
+2010,CA-513,"Visalia/Kings, Tulare Counties"
+2010,CO-503,Metropolitan Denver Homeless Initiative
+2010,CO-500,Colorado Balance of State
+2010,CO-504,Colorado Springs/El Paso County
+2010,CT-506,Norwalk/Fairfield County
+2010,CT-500,Danbury
+2010,CT-505,Connecticut Balance of State
+2010,CT-501,New Haven
+2010,CT-503,"Bridgeport, Stratford, Fairfield"
+2010,CT-508,"Stamford, Greenwich"
+2010,CT-509,New Britain
+2010,CT-510,Bristol
+2010,CT-502,Hartford
+2010,CT-512,Waterbury
+2010,DC-500,District of Columbia
+2010,DE-500,Delaware Statewide
+2010,FL-505,"Fort Walton Beach/Okaloosa, Walton Counties"
+2010,FL-605,West Palm Beach/Palm Beach County
+2010,FL-520,"Citrus, Hernando, Lake, Sumter Counties"
+2010,FL-506,Tallahassee/Leon County
+2010,FL-508,"Gainesville/Alachua, Putnam Counties"
+2010,FL-602,Punta Gorda/Charlotte County
+2010,FL-511,"Pensacola/Escambia, Santa Rosa Counties"
+2010,FL-606,Naples/Collier County
+2010,FL-501,Tampa/Hillsborough County
+2010,FL-503,Lakeland
+2010,FL-512,Saint Johns County
+2010,FL-603,"Ft Myers, Cape Coral/Lee County"
+2010,FL-509,"Fort Pierce/Saint Lucie, Indian River, Martin Counties"
+2010,FL-513,"Palm Bay, Melbourne/Brevard County"
+2010,FL-507,"Orlando/Orange, Osceola, Seminole Counties"
+2010,FL-604,Monroe County
+2010,FL-600,Miami-Dade County
+2010,FL-514,Ocala/Marion County
+2010,FL-515,"Panama City/Bay, Jackson Counties"
+2010,FL-516,Winterhaven/Polk County
+2010,FL-504,"Daytona Beach, Daytona/Volusia, Flagler Counties"
+2010,FL-517,"Hendry, Hardee, Highlands Counties"
+2010,FL-518,"Columbia, Hamilton, Lafayette, Suwannee Counties"
+2010,FL-500,"Sarasota, Bradenton/Manatee, Sarasota Counties"
+2010,FL-510,"Jacksonville-Duval, Clay Counties"
+2010,FL-502,"Saint Petersburg, Clearwater, Largo/Pinellas County"
+2010,FL-519,Pasco County
+2010,FL-601,Ft Lauderdale/Broward County
+2010,GA-506,Marietta/Cobb County
+2010,GA-500,"Atlanta/Roswell/DeKalb, Fulton Counties"
+2010,GA-507,Savannah/Chatham County
+2010,GA-503,Athens-Clarke County
+2010,GA-501,Georgia Balance of State
+2010,GA-504,Augusta
+2010,GA-505,Columbus-Muscogee/Russell County
+2010,GU-500,Guam
+2010,HI-501,Honolulu
+2010,HI-500,Hawaii Balance of State
+2010,IA-502,Des Moines/Polk County
+2010,IA-501,Iowa Balance of State
+2010,IA-500,"Sioux City/Dakota, Woodbury Counties"
+2010,ID-501,Idaho Balance of State
+2010,ID-500,Boise/Ada County
+2010,IL-520,Southern Illinois
+2010,IL-505,Evanston
+2010,IL-510,Chicago
+2010,IL-509,Dekalb City & County
+2010,IL-517,"Aurora, Elgin/Kane County"
+2010,IL-506,"Joliet, Bolingbrook/Will County"
+2010,IL-502,"Waukegan, North Chicago/Lake County"
+2010,IL-514,Dupage County
+2010,IL-518,"Rock Island, Moline/Northwestern Illinois"
+2010,IL-507,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties"
+2010,IL-500,McHenry County
+2010,IL-503,"Champaign, Urbana, Rantoul/Champaign County"
+2010,IL-512,Bloomington/Central Illinois
+2010,IL-515,South Central Illinois
+2010,IL-519,West Central Illinois
+2010,IL-504,Madison County
+2010,IL-511,Cook County
+2010,IL-501,"Rockford/Winnebago, Boone Counties"
+2010,IL-508,"East Saint Louis, Belleville/Saint Clair County"
+2010,IL-516,Decatur/Macon County
+2010,IL-513,Springfield/Sangamon County
+2010,IN-500,"South Bend, Mishawaka/Saint Joseph County"
+2010,IN-502,Indiana Balance of State
+2010,IN-503,Indianapolis
+2010,KS-507,Kansas Balance of State
+2010,KS-501,Kansas City/Wyandotte County
+2010,KS-502,Wichita/Sedgwick County
+2010,KS-503,Topeka/Shawnee County
+2010,KS-505,"Overland Park, Shawnee/Johnson County"
+2010,KY-500,Kentucky Balance of State
+2010,KY-501,Louisville-Jefferson County
+2010,KY-502,Lexington-Fayette County
+2010,LA-506,Slidell/Southeast Louisiana
+2010,LA-502,Shreveport/Bossier/Northwest Louisiana
+2010,LA-504,Baton Rouge
+2010,LA-503,New Orleans/Jefferson Parish
+2010,LA-500,Lafayette/Acadiana
+2010,LA-507,Alexandria/Central Louisiana
+2010,LA-505,Monroe/Northeast Louisiana
+2010,LA-508,"Houma-Terrebonne, Thibodaux"
+2010,LA-501,Lake Charles/Southwestern Louisiana
+2010,MA-506,Worcester City & County
+2010,MA-500,Boston
+2010,MA-515,Fall River
+2010,MA-501,"Holyoke/Franklin, Hampden, Hamshire Counties"
+2010,MA-519,"Attleboro, Taunton/Bristol County"
+2010,MA-504,Springfield
+2010,MA-511,"Quincy, Weymouth"
+2010,MA-509,Cambridge
+2010,MA-520,"Brockton, Plymouth City & County"
+2010,MA-517,Somerville
+2010,MA-502,Lynn
+2010,MA-507,Pittsfield/Berkshire County
+2010,MA-505,New Bedford
+2010,MA-512,Lawrence
+2010,MA-508,Lowell
+2010,MA-516,Massachusetts Balance of State
+2010,MA-503,Cape Cod Islands
+2010,MA-513,"Malden, Medford"
+2010,MA-518,"Brookline, Newton"
+2010,MA-510,"Gloucester, Haverhill, Salem/Essex County"
+2010,MD-508,"Charles, Calvert, Saint Mary's Counties"
+2010,MD-601,Montgomery County
+2010,MD-513,"Wicomico, Somerset, Worcester Counties"
+2010,MD-501,Baltimore
+2010,MD-505,Baltimore County
+2010,MD-509,Frederick City & County
+2010,MD-502,Harford County
+2010,MD-600,Prince George's County
+2010,MD-510,Garrett County
+2010,MD-506,Carroll County
+2010,MD-500,Cumberland/Allegany County
+2010,MD-511,Mid-Shore Regional
+2010,MD-503,Annapolis/Anne Arundel County
+2010,MD-507,Cecil County
+2010,MD-512,Hagerstown/Washington County
+2010,MD-504,Howard County
+2010,ME-501,Bangor/Penobscot County
+2010,ME-502,Portland
+2010,ME-500,Maine Balance of State
+2010,MI-516,"Norton Shores, Muskegon City & County"
+2010,MI-500,Michigan Balance of State
+2010,MI-510,Saginaw City & County
+2010,MI-517,Jackson City & County
+2010,MI-508,"Lansing, East Lansing/Ingham County"
+2010,MI-504,"Pontiac, Royal Oak/Oakland County"
+2010,MI-518,Livingston County
+2010,MI-511,Lenawee County
+2010,MI-502,"Dearborn, Dearborn Heights, Westland/Wayne County"
+2010,MI-506,Grand Rapids/Wyoming/Kent County
+2010,MI-501,Detroit
+2010,MI-512,"Grand Traverse, Antrim, Leelanau Counties"
+2010,MI-519,Holland/Ottawa County
+2010,MI-509,Ann Arbor/Washtenaw County
+2010,MI-513,"Marquette, Alger Counties"
+2010,MI-503,"Saint Clair Shores, Warren/Macomb County"
+2010,MI-523,Eaton County
+2010,MI-514,Battle Creek/Calhoun County
+2010,MI-505,Flint/Genesee County
+2010,MI-507,"Portage, Kalamazoo City & County"
+2010,MI-515,Monroe City & County
+2010,MN-509,Duluth/Saint Louis County
+2010,MN-506,Northwest Minnesota
+2010,MN-503,"Dakota, Anoka, Washington, Scott, Carver Counties"
+2010,MN-501,Saint Paul/Ramsey County
+2010,MN-500,Minneapolis/Hennepin County
+2010,MN-508,Moorhead/West Central Minnesota
+2010,MN-510,"Scott, Carver Counties"
+2010,MN-504,Northeast Minnesota
+2010,MN-511,Southwest Minnesota
+2010,MN-502,Rochester/Southeast Minnesota
+2010,MN-505,Saint Cloud/Central Minnesota
+2010,MO-602,"Joplin/Jasper, Newton Counties"
+2010,MO-603,"Saint Joseph/Andrew, Buchanan, DeKalb Counties"
+2010,MO-501,Saint Louis
+2010,MO-503,"Saint Charles City & County, Lincoln, Warren Counties"
+2010,MO-606,Missouri Balance of State
+2010,MO-600,"Springfield/Greene, Christian, Webster Counties"
+2010,MO-604,"Kansas City, Independence, Lee's Summit/Jackson County"
+2010,MO-500,Saint Louis County
+2010,MS-500,"Jackson/Rankin, Madison Counties"
+2010,MS-501,Mississippi Balance of State
+2010,MS-503,Gulf Port/Gulf Coast Regional
+2010,MT-500,Montana Statewide
+2010,NC-503,North Carolina Balance of State
+2010,NC-505,Charlotte/Mecklenburg County
+2010,NC-511,Fayetteville/Cumberland County
+2010,NC-501,Asheville/Buncombe County
+2010,NC-506,"Wilmington/Brunswick, New Hanover, Pender Counties"
+2010,NC-513,Chapel Hill/Orange County
+2010,NC-502,Durham City & County
+2010,NC-504,"Greensboro, High Point"
+2010,NC-516,Northwest North Carolina
+2010,NC-507,Raleigh/Wake County
+2010,NC-500,Winston-Salem/Forsyth County
+2010,NC-509,"Gastonia/Cleveland, Gaston, Lincoln Counties"
+2010,ND-500,North Dakota Statewide
+2010,NE-504,Southeast Nebraska
+2010,NE-505,Panhandle of Nebraska
+2010,NE-506,Northeast Nebraska
+2010,NE-500,Nebraska Balance of State
+2010,NE-501,"Omaha, Council Bluffs"
+2010,NE-502,Lincoln
+2010,NH-501,Manchester
+2010,NH-502,Nashua/Hillsborough County
+2010,NH-500,New Hampshire Balance of State
+2010,NJ-503,Camden City & County
+2010,NJ-516,Warren County
+2010,NJ-501,Bergen County
+2010,NJ-506,"Jersey City, Bayonne/Hudson County"
+2010,NJ-509,Morris County
+2010,NJ-518,Ocean City/Cape May County
+2010,NJ-514,Trenton/Mercer County
+2010,NJ-519,Sussex County
+2010,NJ-520,Cumberland County
+2010,NJ-510,Lakewood Township/Ocean County
+2010,NJ-504,Newark/Essex County
+2010,NJ-507,New Brunswick/Middlesex County
+2010,NJ-502,Burlington County
+2010,NJ-511,Paterson/Passaic County
+2010,NJ-515,Elizabeth/Union County
+2010,NJ-500,Atlantic City & County
+2010,NJ-508,Monmouth County
+2010,NJ-505,Gloucester County
+2010,NJ-512,Salem County
+2010,NJ-513,Somerset County
+2010,NM-501,New Mexico Balance of State
+2010,NM-500,Albuquerque
+2010,NV-501,"Reno, Sparks/Washoe County"
+2010,NV-502,Nevada Balance of State
+2010,NV-500,Las Vegas/Clark County
+2010,NY-500,"Rochester, Irondequoit, Greece/Monroe County"
+2010,NY-507,Schenectady City & County
+2010,NY-510,Ithaca/Tompkins County
+2010,NY-600,New York City
+2010,NY-605,Nassau County
+2010,NY-524,Niagara Falls/Niagara County
+2010,NY-511,Binghamton/Union Town/Broome County
+2010,NY-503,Albany City & County
+2010,NY-505,Syracuse/Onondaga County
+2010,NY-518,Utica/Rome/Oneida County
+2010,NY-606,Rockland County
+2010,NY-501,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties"
+2010,NY-601,Poughkeepsie/Dutchess County
+2010,NY-603,Islip/Babylon/Huntington/Suffolk County
+2010,NY-519,"Columbia, Greene Counties"
+2010,NY-607,Sullivan County
+2010,NY-512,Troy/Rensselaer County
+2010,NY-502,Auburn/Cayuga County
+2010,NY-522,"Jefferson, Lewis, Saint Lawrence Counties"
+2010,NY-608,Kingston/Ulster County
+2010,NY-508,Buffalo/Erie County
+2010,NY-504,Cattaraugus County
+2010,NY-513,"Wayne, Ontario, Seneca, Yates Counties"
+2010,NY-604,Yonkers/Mount Vernon/New Rochelle/Westchester County
+2010,NY-523,Glens Falls/Saratoga Springs/Saratoga County
+2010,NY-602,"Newburgh, Middletown/Orange County"
+2010,NY-514,"Jamestown, Dunkirk/Chautauqua County"
+2010,NY-516,Clinton County
+2010,NY-517,Orleans County
+2010,OH-502,Cleveland/Cuyahoga County
+2010,OH-507,Ohio Balance of State
+2010,OH-505,"Dayton, Kettering/Montgomery County"
+2010,OH-500,Cincinnati/Hamilton County
+2010,OH-508,"Canton, Massillon, Alliance/Stark County"
+2010,OH-504,Youngstown/Mahoning County
+2010,OH-506,Akron/Barberton/Summit County
+2010,OH-501,Toledo/Lucas County
+2010,OH-503,Columbus/Franklin County
+2010,OK-502,Oklahoma City
+2010,OK-500,North Central Oklahoma
+2010,OK-503,Oklahoma Balance of State
+2010,OK-504,Norman/Cleveland County
+2010,OK-505,Northeast Oklahoma
+2010,OK-501,Tulsa City & County/Broken Arrow
+2010,OK-506,Southwest Oklahoma Regional
+2010,OR-505,Oregon Balance of State
+2010,OR-500,"Eugene, Springfield/Lane County"
+2010,OR-502,"Medford, Ashland/Jackson County"
+2010,OR-503,Central Oregon
+2010,OR-504,"Salem/Marion, Polk Counties"
+2010,OR-506,"Hillsboro, Beaverton/Washington County"
+2010,OR-501,"Portland, Gresham/Multnomah County"
+2010,OR-507,Clackamas County
+2010,PA-509,Allentown/Northeast Pennsylvania
+2010,PA-506,Reading/Berks County
+2010,PA-605,Erie City & County
+2010,PA-502,"Upper Darby, Chester, Haverford/Delaware County"
+2010,PA-504,"Lower Merion, Norristown, Abington/Montgomery County"
+2010,PA-508,Scranton/Lackawanna County
+2010,PA-510,Lancaster City & County
+2010,PA-500,Philadelphia
+2010,PA-600,"Pittsburgh, McKeesport, Penn Hills/Allegheny County"
+2010,PA-602,Northwest Pennsylvania
+2010,PA-505,Chester County
+2010,PA-503,"Wilkes-Barre, Hazleton, Luzerne County"
+2010,PA-511,"Bristol, Bensalem/Bucks County"
+2010,PA-501,Harrisburg/Dauphin County
+2010,PA-507,Altoona/Central Pennsylvania
+2010,PA-601,Southwest Pennsylvania
+2010,PA-603,Beaver County
+2010,PR-503,South-Southeast Puerto Rico
+2010,PR-502,Puerto Rico Balance of Commonwealth
+2010,RI-500,Rhode Island Statewide
+2010,SC-502,Columbia/Midlands
+2010,SC-500,Charleston/Low Country
+2010,SC-503,"Myrtle Beach, Sumter City & County"
+2010,SC-501,"Greenville, Anderson, Spartanburg/Upstate"
+2010,SD-500,South Dakota Statewide
+2010,TN-502,Knoxville/Knox County
+2010,TN-509,Appalachian Regional
+2010,TN-506,Oak Ridge/Upper Cumberland
+2010,TN-510,Murfreesboro/Rutherford County
+2010,TN-503,Central Tennessee
+2010,TN-512,"Morristown/Blount, Sevier, Campbell, Cocke Counties"
+2010,TN-501,Memphis/Shelby County
+2010,TN-507,Jackson/West Tennessee
+2010,TN-504,Nashville-Davidson County
+2010,TN-500,Chattanooga/Southeast Tennessee
+2010,TX-500,San Antonio/Bexar County
+2010,TX-601,"Fort Worth, Arlington/Tarrant County"
+2010,TX-603,El Paso City & County
+2010,TX-501,Corpus Christi/Nueces County
+2010,TX-701,"Bryan, College Station/Brazos Valley"
+2010,TX-604,Waco/McLennan County
+2010,TX-702,Montgomery County
+2010,TX-607,Texas Balance of State
+2010,TX-703,"Beaumont, Port Arthur/South East Texas"
+2010,TX-503,Austin/Travis County
+2010,TX-700,Houston/Harris County
+2010,TX-704,Galveston/Gulf Coast
+2010,TX-600,"Dallas City & County, Irving"
+2010,TX-610,Denton City & County
+2010,TX-611,Amarillo
+2010,TX-504,"Victoria/Dewitt, Lavaca, Gonzales Counties"
+2010,UT-500,Salt Lake City & County
+2010,UT-503,Utah Balance of State
+2010,UT-504,Provo/Mountainland
+2010,VA-600,Arlington County
+2010,VA-507,Portsmouth
+2010,VA-603,Alexandria
+2010,VA-502,"Roanoke City & County, Salem"
+2010,VA-508,Lynchburg
+2010,VA-604,Prince William County
+2010,VA-500,"Richmond/Henrico, Chesterfield, Hanover Counties"
+2010,VA-509,Petersburg
+2010,VA-503,Virginia Beach
+2010,VA-510,"Staunton/Waynesboro/Augusta, Highland Counties"
+2010,VA-512,Chesapeake
+2010,VA-513,"Winchester/Shenandoah, Frederick, Warren Counties"
+2010,VA-504,Charlottesville
+2010,VA-601,Fairfax County
+2010,VA-514,"Fredericksburg/Spotsylvania, Stafford Counties"
+2010,VA-517,Danville/Martinsville
+2010,VA-501,Norfolk
+2010,VA-518,Harrisburg/Rockingham County
+2010,VA-505,"Newport News, Hampton/Virginia Peninsula"
+2010,VA-521,Virginia Balance of State
+2010,VA-602,Loudoun County
+2010,VI-500,Virgin Islands
+2010,VT-501,Burlington/Chittenden County
+2010,VT-500,Vermont Balance of State
+2010,WA-501,Washington Balance of State
+2010,WA-502,Spokane City & County
+2010,WA-508,Vancouver/Clark County
+2010,WA-500,Seattle/King County
+2010,WA-504,Everett/Snohomish County
+2010,WA-503,"Tacoma, Lakewood/Pierce County"
+2010,WA-507,Yakima City & County
+2010,WI-500,Wisconsin Balance of State
+2010,WI-501,Milwaukee City & County
+2010,WI-503,Madison/Dane County
+2010,WI-502,Racine City & County
+2010,WV-508,West Virginia Balance of State
+2010,WV-500,"Wheeling, Weirton Area"
+2010,WV-501,"Huntington/Cabell, Wayne Counties"
+2010,WV-503,"Charleston/Kanawha, Putnam, Boone, Clay Counties"
+2010,WY-500,Wyoming Statewide
+2009,AK-500,Anchorage
+2009,AK-501,Alaska Balance of State
+2009,AL-500,"Birmingham/Jefferson, Saint Clair, Shelby Counties"
+2009,AL-502,Florence/Northwest Alabama
+2009,AL-503,Huntsville/North Alabama
+2009,AL-504,Montgomery City & County
+2009,AL-505,Gadsden/Northeast Alabama
+2009,AL-506,Tuscaloosa City & County
+2009,AL-507,Alabama Balance of State
+2009,AL-501,Mobile City & County/Baldwin County
+2009,AR-500,Little Rock/Central Arkansas
+2009,AR-501,Fayetteville/Northwest Arkansas
+2009,AR-502,Conway/Arkansas River Valley
+2009,AR-504,Delta Hills
+2009,AR-505,Southeast Arkansas
+2009,AR-506,"Johnson, Pope, Yell Counties"
+2009,AZ-502,Phoenix/Mesa/Maricopa County Regional
+2009,AZ-501,Tucson/Pima County
+2009,AZ-500,Arizona Balance of State
+2009,CA-505,Richmond/Contra Costa County
+2009,CA-518,Vallejo/Solano County
+2009,CA-600,Los Angeles City & County
+2009,CA-611,Oxnard
+2009,CA-607,Pasadena
+2009,CA-609,San Bernardino City & County
+2009,CA-511,Stockton/San Joaquin County
+2009,CA-603,Santa Maria/Santa Barbara County
+2009,CA-514,Fresno/Madera County
+2009,CA-601,San Diego
+2009,CA-502,Oakland/Alameda County
+2009,CA-602,"Santa Ana, Anaheim/Orange County"
+2009,CA-519,"Chico, Paradise/Butte County"
+2009,CA-508,Watsonville/Santa Cruz City & County
+2009,CA-504,"Santa Rosa, Petaluma/Sonoma County"
+2009,CA-500,"San Jose, Santa Clara City & County"
+2009,CA-612,Glendale
+2009,CA-520,Merced City & County
+2009,CA-604,Bakersfield/Kern County
+2009,CA-606,Long Beach
+2009,CA-503,Sacramento City & County
+2009,CA-515,Roseville/Placer County
+2009,CA-506,Salinas/Monterey County
+2009,CA-521,"Davis, Woodland/Yolo County"
+2009,CA-509,Mendocino County
+2009,CA-512,Daly City/San Mateo County
+2009,CA-608,Riverside City & County
+2009,CA-613,Imperial County
+2009,CA-516,Redding/Shasta County
+2009,CA-522,Humboldt County
+2009,CA-501,San Francisco
+2009,CA-614,San Luis Obispo County
+2009,CA-610,San Diego County
+2009,CA-510,"Turlock, Modesto/Stanislaus County"
+2009,CA-517,Napa City & County
+2009,CA-605,San Buenaventura/Ventura County
+2009,CA-523,"Colusa, Glenn, Lake, Tehama, Trinity Counties"
+2009,CA-525,El Dorado County
+2009,CA-507,Marin County
+2009,CA-513,"Visalia/Kings, Tulare Counties"
+2009,CO-500,Colorado Balance of State
+2009,CO-504,Colorado Springs/El Paso County
+2009,CO-503,Metropolitan Denver Homeless Initiative
+2009,CT-505,Connecticut Balance of State
+2009,CT-500,Danbury
+2009,CT-507,Norwich/New London City & County
+2009,CT-501,New Haven
+2009,CT-503,"Bridgeport, Stratford, Fairfield"
+2009,CT-508,"Stamford, Greenwich"
+2009,CT-504,Middletown/Middlesex County
+2009,CT-509,New Britain
+2009,CT-502,Hartford
+2009,CT-510,Bristol
+2009,CT-512,Waterbury
+2009,CT-506,Norwalk/Fairfield County
+2009,DC-500,District of Columbia
+2009,DE-500,Delaware Statewide
+2009,FL-520,"Citrus, Hernando, Lake, Sumter Counties"
+2009,FL-506,Tallahassee/Leon County
+2009,FL-508,"Gainesville/Alachua, Putnam Counties"
+2009,FL-602,Punta Gorda/Charlotte County
+2009,FL-501,Tampa/Hillsborough County
+2009,FL-511,"Pensacola/Escambia, Santa Rosa Counties"
+2009,FL-600,Miami-Dade County
+2009,FL-606,Naples/Collier County
+2009,FL-503,Lakeland
+2009,FL-603,"Ft Myers, Cape Coral/Lee County"
+2009,FL-509,"Fort Pierce/Saint Lucie, Indian River, Martin Counties"
+2009,FL-512,Saint Johns County
+2009,FL-507,"Orlando/Orange, Osceola, Seminole Counties"
+2009,FL-513,"Palm Bay, Melbourne/Brevard County"
+2009,FL-604,Monroe County
+2009,FL-514,Ocala/Marion County
+2009,FL-504,"Daytona Beach, Daytona/Volusia, Flagler Counties"
+2009,FL-515,"Panama City/Bay, Jackson Counties"
+2009,FL-516,Winterhaven/Polk County
+2009,FL-517,"Hendry, Hardee, Highlands Counties"
+2009,FL-510,"Jacksonville-Duval, Clay Counties"
+2009,FL-502,"Saint Petersburg, Clearwater, Largo/Pinellas County"
+2009,FL-500,"Sarasota, Bradenton/Manatee, Sarasota Counties"
+2009,FL-518,"Columbia, Hamilton, Lafayette, Suwannee Counties"
+2009,FL-601,Ft Lauderdale/Broward County
+2009,FL-519,Pasco County
+2009,FL-605,West Palm Beach/Palm Beach County
+2009,FL-505,"Fort Walton Beach/Okaloosa, Walton Counties"
+2009,GA-500,"Atlanta/Roswell/DeKalb, Fulton Counties"
+2009,GA-506,Marietta/Cobb County
+2009,GA-501,Georgia Balance of State
+2009,GA-507,Savannah/Chatham County
+2009,GA-503,Athens-Clarke County
+2009,GA-504,Augusta
+2009,GA-505,Columbus-Muscogee/Russell County
+2009,GU-500,Guam
+2009,HI-501,Honolulu
+2009,HI-500,Hawaii Balance of State
+2009,IA-502,Des Moines/Polk County
+2009,IA-501,Iowa Balance of State
+2009,IA-500,"Sioux City/Dakota, Woodbury Counties"
+2009,ID-501,Idaho Balance of State
+2009,ID-500,Boise/Ada County
+2009,IL-510,Chicago
+2009,IL-505,Evanston
+2009,IL-509,DeKalb City & County
+2009,IL-517,"Aurora, Elgin/Kane County"
+2009,IL-502,"Waukegan, North Chicago/Lake County"
+2009,IL-506,"Joliet, Bolingbrook/Will County"
+2009,IL-514,Dupage County
+2009,IL-518,"Rock Island, Moline/Northwestern Illinois"
+2009,IL-507,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties"
+2009,IL-500,McHenry County
+2009,IL-512,Bloomington/Central Illinois
+2009,IL-503,"Champaign, Urbana, Rantoul/Champaign County"
+2009,IL-515,South Central Illinois
+2009,IL-519,West Central Illinois
+2009,IL-511,Cook County
+2009,IL-504,Madison County
+2009,IL-508,"East Saint Louis, Belleville/Saint Clair County"
+2009,IL-501,"Rockford/Winnebago, Boone Counties"
+2009,IL-516,Decatur/Macon County
+2009,IL-513,Springfield/Sangamon County
+2009,IL-520,Southern Illinois
+2009,IN-502,Indiana Balance of State
+2009,IN-500,"South Bend, Mishawaka/Saint Joseph County"
+2009,IN-503,Indianapolis
+2009,KS-507,Kansas Balance of State
+2009,KS-501,Kansas City/Wyandotte County
+2009,KS-502,Wichita/Sedgwick County
+2009,KS-503,Topeka/Shawnee County
+2009,KS-505,"Overland Park, Shawnee/Johnson County"
+2009,KY-500,Kentucky Balance of State
+2009,KY-501,Louisville-Jefferson County
+2009,KY-502,Lexington-Fayette County
+2009,LA-506,Slidell/Southeast Louisiana
+2009,LA-503,New Orleans/Jefferson Parish
+2009,LA-502,Shreveport/Bossier/Northwest Louisiana
+2009,LA-504,Baton Rouge
+2009,LA-500,Lafayette/Acadiana
+2009,LA-507,Alexandria/Central Louisiana
+2009,LA-505,Monroe/Northeast Louisiana
+2009,LA-508,"Houma-Terrebonne, Thibodaux"
+2009,LA-501,Lake Charles/Southwestern Louisiana
+2009,MA-500,Boston
+2009,MA-506,Worcester City & County
+2009,MA-501,"Holyoke/Franklin, Hampden, Hamshire Counties"
+2009,MA-515,Fall River
+2009,MA-519,"Attleboro, Taunton/Bristol County"
+2009,MA-504,Springfield
+2009,MA-509,Cambridge
+2009,MA-511,"Quincy, Weymouth"
+2009,MA-517,Somerville
+2009,MA-520,"Brockton, Plymouth City & County"
+2009,MA-502,Lynn
+2009,MA-507,Pittsfield/Berkshire County
+2009,MA-505,New Bedford
+2009,MA-512,Lawrence
+2009,MA-516,Massachusetts Balance of State
+2009,MA-508,Lowell
+2009,MA-503,Cape Cod Islands
+2009,MA-513,"Malden, Medford"
+2009,MA-518,"Brookline, Newton"
+2009,MA-510,"Gloucester, Haverhill, Salem/Essex County"
+2009,MD-501,Baltimore
+2009,MD-513,"Wicomico, Somerset, Worcester Counties"
+2009,MD-505,Baltimore County
+2009,MD-502,Harford County
+2009,MD-509,Frederick City & County
+2009,MD-600,Prince George's County
+2009,MD-510,Garrett County
+2009,MD-506,Carroll County
+2009,MD-500,Cumberland/Allegany County
+2009,MD-503,Annapolis/Anne Arundel County
+2009,MD-511,Mid-Shore Regional
+2009,MD-507,Cecil County
+2009,MD-512,Hagerstown/Washington County
+2009,MD-601,Montgomery County
+2009,MD-504,Howard County
+2009,MD-508,"Charles, Calvert, Saint Mary's Counties"
+2009,ME-501,Bangor/Penobscot County
+2009,ME-500,Maine Balance of State
+2009,ME-502,Portland
+2009,MI-516,"Norton Shores, Muskegon City & County"
+2009,MI-500,Michigan Balance of State
+2009,MI-510,Saginaw City & County
+2009,MI-517,Jackson City & County
+2009,MI-508,"Lansing, East Lansing/Ingham County"
+2009,MI-504,"Pontiac, Royal Oak/Oakland County"
+2009,MI-518,Livingston County
+2009,MI-501,Detroit
+2009,MI-502,"Dearborn, Dearborn Heights, Westland/Wayne County"
+2009,MI-511,Lenawee County
+2009,MI-506,Grand Rapids/Wyoming/Kent County
+2009,MI-512,"Grand Traverse, Antrim, Leelanau Counties"
+2009,MI-519,Holland/Ottawa County
+2009,MI-509,Ann Arbor/Washtenaw County
+2009,MI-522,"Alpena, Iosco, Presque Isle/NE Michigan"
+2009,MI-513,"Marquette, Alger Counties"
+2009,MI-503,"Saint Clair Shores, Warren/Macomb County"
+2009,MI-523,Eaton County
+2009,MI-505,Flint/Genesee County
+2009,MI-514,Battle Creek/Calhoun County
+2009,MI-507,"Portage, Kalamazoo City & County"
+2009,MI-515,Monroe City & County
+2009,MN-509,Duluth/Saint Louis County
+2009,MN-503,Dakota County
+2009,MN-506,Northwest Minnesota
+2009,MN-501,Saint Paul/Ramsey County
+2009,MN-500,Minneapolis/Hennepin County
+2009,MN-508,Moorhead/West Central Minnesota
+2009,MN-510,"Scott, Carver Counties"
+2009,MN-504,Northeast Minnesota
+2009,MN-511,Southwest Minnesota
+2009,MN-502,Rochester/Southeast Minnesota
+2009,MN-505,Saint Cloud/Central Minnesota
+2009,MO-602,"Joplin/Jasper, Newton Counties"
+2009,MO-603,"Saint Joseph/Andrew, Buchanan, DeKalb Counties"
+2009,MO-501,Saint Louis
+2009,MO-606,Missouri Balance of State
+2009,MO-503,"Saint Charles City & County, Lincoln, Warren Counties"
+2009,MO-604,"Kansas City, Independence, Lee's Summit/Jackson County"
+2009,MO-600,"Springfield/Greene, Christian, Webster Counties"
+2009,MO-500,Saint Louis County
+2009,MS-500,"Jackson/Rankin, Madison Counties"
+2009,MS-501,Mississippi Balance of State
+2009,MS-503,Gulf Port/Gulf Coast Regional
+2009,MT-500,Montana Statewide
+2009,NC-505,Charlotte/Mecklenburg County
+2009,NC-511,Fayetteville/Cumberland County
+2009,NC-501,Asheville/Buncombe County
+2009,NC-506,"Wilmington/Brunswick, New Hanover, Pender Counties"
+2009,NC-513,Chapel Hill/Orange County
+2009,NC-502,Durham City & County
+2009,NC-504,"Greensboro, High Point"
+2009,NC-516,Northwest North Carolina
+2009,NC-507,Raleigh/Wake County
+2009,NC-503,North Carolina Balance of State
+2009,NC-500,Winston-Salem/Forsyth County
+2009,NC-509,"Gastonia/Cleveland, Gaston, Lincoln Counties"
+2009,ND-500,North Dakota Statewide
+2009,NE-503,Southwest Nebraska
+2009,NE-504,Southeast Nebraska
+2009,NE-505,Panhandle of Nebraska
+2009,NE-506,Northeast Nebraska
+2009,NE-500,North Central Nebraska
+2009,NE-501,"Omaha, Council Bluffs"
+2009,NE-502,Lincoln
+2009,NH-501,Manchester
+2009,NH-502,Nashua/Hillsborough County
+2009,NH-500,New Hampshire Balance of State
+2009,NJ-501,Bergen County
+2009,NJ-516,Warren County
+2009,NJ-506,"Jersey City, Bayonne/Hudson County"
+2009,NJ-509,Morris County
+2009,NJ-514,Trenton/Mercer County
+2009,NJ-518,Ocean City/Cape May County
+2009,NJ-519,Sussex County
+2009,NJ-510,Lakewood Township/Ocean County
+2009,NJ-504,Newark/Essex County
+2009,NJ-520,Cumberland County
+2009,NJ-507,New Brunswick/Middlesex County
+2009,NJ-502,Burlington County
+2009,NJ-515,Elizabeth/Union County
+2009,NJ-511,Paterson/Passaic County
+2009,NJ-500,Atlantic City & County
+2009,NJ-508,Monmouth County
+2009,NJ-505,Gloucester County
+2009,NJ-512,Salem County
+2009,NJ-503,Camden City & County
+2009,NJ-513,Somerset County
+2009,NM-501,New Mexico Balance of State
+2009,NM-500,Albuquerque
+2009,NV-501,"Reno, Sparks/Washoe County"
+2009,NV-502,Nevada Balance of State
+2009,NV-500,Las Vegas/Clark County
+2009,NY-503,Albany City & County
+2009,NY-600,New York City
+2009,NY-505,Syracuse/Onondaga County
+2009,NY-524,Niagara Falls/Niagara County
+2009,NY-511,Binghamton/Union Town/Broome County
+2009,NY-518,Utica/Rome/Oneida County
+2009,NY-603,Islip/Babylon/Huntington/Suffolk County
+2009,NY-606,Rockland County
+2009,NY-601,Poughkeepsie/Dutchess County
+2009,NY-501,"Elmira/Steuben, Allegany, Chemung Counties"
+2009,NY-519,"Columbia, Greene Counties"
+2009,NY-607,Sullivan County
+2009,NY-512,Troy/Rensselaer County
+2009,NY-502,Auburn/Cayuga County
+2009,NY-520,Franklin County
+2009,NY-508,Buffalo/Erie County
+2009,NY-522,"Jefferson, Lewis, Saint Lawrence Counties"
+2009,NY-608,Kingston/Ulster County
+2009,NY-604,Yonkers/Mount Vernon/New Rochelle/Westchester County
+2009,NY-504,Cattaraugus County
+2009,NY-506,"Fulton, Montgomery, Schoharie Counties"
+2009,NY-605,Nassau County
+2009,NY-513,"Wayne, Ontario, Seneca, Yates Counties"
+2009,NY-500,"Rochester, Irondequoit, Greece/Monroe County"
+2009,NY-523,Glens Falls/Saratoga Springs/Saratoga County
+2009,NY-602,"Newburgh, Middletown/Orange County"
+2009,NY-514,"Jamestown, Dunkirk/Chautauqua County"
+2009,NY-516,Clinton County
+2009,NY-507,Schenectady City & County
+2009,NY-517,Orleans County
+2009,NY-510,Ithaca/Tompkins County
+2009,OH-505,"Dayton, Kettering/Montgomery County"
+2009,OH-500,Cincinnati/Hamilton County
+2009,OH-508,"Canton, Massillon, Alliance/Stark County"
+2009,OH-504,Youngstown/Mahoning County
+2009,OH-506,Akron/Barberton/Summit County
+2009,OH-507,Ohio Balance of State
+2009,OH-502,Cleveland/Cuyahoga County
+2009,OH-501,Toledo/Lucas County
+2009,OH-503,Columbus/Franklin County
+2009,OK-502,Oklahoma City
+2009,OK-500,North Central Oklahoma
+2009,OK-503,Oklahoma Balance of State
+2009,OK-504,Norman/Cleveland County
+2009,OK-505,Northeast Oklahoma
+2009,OK-501,Tulsa City & County/Broken Arrow
+2009,OK-506,Southwest Oklahoma Regional
+2009,OK-507,Southeastern Oklahoma Regional
+2009,OR-500,"Eugene, Springfield/Lane County"
+2009,OR-502,"Medford, Ashland/Jackson County"
+2009,OR-503,Central Oregon
+2009,OR-504,"Salem/Marion, Polk Counties"
+2009,OR-506,"Hillsboro, Beaverton/Washington County"
+2009,OR-501,"Portland, Gresham/Multnomah County"
+2009,OR-507,Clackamas County
+2009,OR-505,Oregon Balance of State
+2009,PA-506,Reading/Berks County
+2009,PA-500,Philadelphia
+2009,PA-502,"Upper Darby, Chester, Haverford/Delaware County"
+2009,PA-605,Erie City & County
+2009,PA-504,"Lower Merion, Norristown, Abington/Montgomery County"
+2009,PA-508,Scranton/Lackawanna County
+2009,PA-510,Lancaster City & County
+2009,PA-600,"Pittsburgh, McKeesport, Penn Hills/Allegheny County"
+2009,PA-602,Northwest Pennsylvania
+2009,PA-503,"Wilkes-Barre, Hazleton, Luzerne County"
+2009,PA-505,Chester County
+2009,PA-507,Altoona/Central Pennsylvania
+2009,PA-511,"Bristol, Bensalem/Bucks County"
+2009,PA-501,Harrisburg/Dauphin County
+2009,PA-601,Southwest Pennsylvania
+2009,PA-509,Allentown/Northeast Pennsylvania
+2009,PA-603,Beaver County
+2009,PR-503,South-Southeast Puerto Rico
+2009,PR-502,Puerto Rico Balance of Commonwealth
+2009,RI-500,Rhode Island Statewide
+2009,SC-500,Charleston/Low Country
+2009,SC-503,"Myrtle Beach, Sumter City & County"
+2009,SC-504,Florence City & County/Pee Dee
+2009,SC-501,"Greenville, Anderson, Spartanburg/Upstate"
+2009,SC-502,Columbia/Midlands
+2009,SD-500,South Dakota Statewide
+2009,TN-502,Knoxville/Knox County
+2009,TN-509,Appalachian Regional
+2009,TN-506,Oak Ridge/Upper Cumberland
+2009,TN-510,Murfreesboro/Rutherford County
+2009,TN-503,Central Tennessee
+2009,TN-512,"Morristown/Blount, Sevier, Campbell, Cocke Counties"
+2009,TN-501,Memphis/Shelby County
+2009,TN-507,Jackson/West Tennessee
+2009,TN-504,Nashville-Davidson County
+2009,TN-500,Chattanooga/Southeast Tennessee
+2009,TX-603,El Paso City & County
+2009,TX-501,Corpus Christi/Nueces County
+2009,TX-701,"Bryan, College Station/Brazos Valley"
+2009,TX-604,Waco/McLennan County
+2009,TX-702,Montgomery County
+2009,TX-700,Houston/Harris County
+2009,TX-607,Texas Balance of State
+2009,TX-703,"Beaumont, Port Arthur/South East Texas"
+2009,TX-600,"Dallas City & County, Irving"
+2009,TX-503,Austin/Travis County
+2009,TX-704,Galveston/Gulf Coast
+2009,TX-610,Denton City & County
+2009,TX-601,"Fort Worth, Arlington/Tarrant County"
+2009,TX-500,San Antonio/Bexar County
+2009,TX-611,Amarillo
+2009,TX-504,"Victoria/Dewitt, Lavaca, Gonzales Counties"
+2009,TX-613,Longview/Marshall Area
+2009,UT-503,Utah Balance of State
+2009,UT-504,Provo/Mountainland
+2009,UT-500,Salt Lake City & County
+2009,VA-600,Arlington County
+2009,VA-507,Portsmouth
+2009,VA-603,Alexandria
+2009,VA-502,"Roanoke City & County, Salem"
+2009,VA-500,"Richmond/Henrico, Chesterfield, Hanover Counties"
+2009,VA-508,Lynchburg
+2009,VA-604,Prince William County
+2009,VA-503,Virginia Beach
+2009,VA-509,Petersburg
+2009,VA-510,"Staunton/Waynesboro/Augusta, Highland Counties"
+2009,VA-601,Fairfax County
+2009,VA-512,Chesapeake
+2009,VA-513,"Winchester/Shenandoah, Frederick, Warren Counties"
+2009,VA-504,Charlottesville
+2009,VA-514,"Fredericksburg/Spotsylvania, Stafford Counties"
+2009,VA-501,Norfolk
+2009,VA-517,Danville/Martinsville
+2009,VA-505,"Newport News, Hampton/Virginia Peninsula"
+2009,VA-518,Harrisburg/Rockingham County
+2009,VA-521,Virginia Balance of State
+2009,VA-602,Loudoun County
+2009,VI-500,Virgin Islands
+2009,VT-501,Burlington/Chittenden County
+2009,VT-500,Vermont Balance of State
+2009,WA-501,Washington Balance of State
+2009,WA-502,Spokane City & County
+2009,WA-500,Seattle/King County
+2009,WA-508,Vancouver/Clark County
+2009,WA-504,Everett/Snohomish County
+2009,WA-503,"Tacoma, Lakewood/Pierce County"
+2009,WA-507,Yakima City & County
+2009,WI-500,Wisconsin Balance of State
+2009,WI-501,Milwaukee City & County
+2009,WI-503,Madison/Dane County
+2009,WI-502,Racine City & County
+2009,WV-508,West Virginia Balance of State
+2009,WV-500,"Wheeling, Weirton Area"
+2009,WV-501,"Huntington/Cabell, Wayne Counties"
+2009,WV-503,"Charleston/Kanawha, Putnam, Boone, Clay Counties"
+2009,WY-500,Wyoming Statewide
+2008,AK-500,Anchorage
+2008,AK-501,Alaska Balance of State
+2008,AL-500,"Birmingham/Jefferson, Saint Clair, Shelby Counties"
+2008,AL-502,Florence/Northwest Alabama
+2008,AL-503,Huntsville/North Alabama
+2008,AL-504,Montgomery City & County
+2008,AL-505,Gadsden/Northeast Alabama
+2008,AL-506,Tuscaloosa City & County
+2008,AL-501,Mobile City & County/Baldwin County
+2008,AL-507,Alabama Balance of State
+2008,AR-501,Fayetteville/Northwest Arkansas
+2008,AR-502,Conway/Arkansas River Valley
+2008,AR-504,Delta Hills
+2008,AR-505,Southeast Arkansas
+2008,AR-506,"Johnson, Pope, Yell Counties"
+2008,AR-500,Little Rock/Central Arkansas
+2008,AZ-501,Tucson/Pima County
+2008,AZ-502,Phoenix/Mesa/Maricopa County Regional
+2008,AZ-500,Arizona Balance of State
+2008,CA-600,Los Angeles City & County
+2008,CA-603,Santa Maria/Santa Barbara County
+2008,CA-611,Oxnard
+2008,CA-502,Oakland/Alameda County
+2008,CA-607,Pasadena
+2008,CA-602,"Santa Ana, Anaheim/Orange County"
+2008,CA-609,San Bernardino City & County
+2008,CA-601,San Diego
+2008,CA-511,Stockton/San Joaquin County
+2008,CA-514,Fresno/Madera County
+2008,CA-500,"San Jose, Santa Clara City & County"
+2008,CA-508,Watsonville/Santa Cruz City & County
+2008,CA-519,"Chico, Paradise/Butte County"
+2008,CA-504,"Santa Rosa, Petaluma/Sonoma County"
+2008,CA-612,Glendale
+2008,CA-606,Long Beach
+2008,CA-503,Sacramento City & County
+2008,CA-520,Merced City & County
+2008,CA-501,San Francisco
+2008,CA-506,Salinas/Monterey County
+2008,CA-608,Riverside City & County
+2008,CA-521,"Davis, Woodland/Yolo County"
+2008,CA-515,Roseville/Placer County
+2008,CA-512,Daly City/San Mateo County
+2008,CA-509,Mendocino County
+2008,CA-613,Imperial County
+2008,CA-610,San Diego County
+2008,CA-516,Redding/Shasta County
+2008,CA-522,Humboldt County
+2008,CA-614,San Luis Obispo County
+2008,CA-510,"Turlock, Modesto/Stanislaus County"
+2008,CA-517,Napa City & County
+2008,CA-523,"Colusa, Glenn, Lake, Tehama, Trinity Counties"
+2008,CA-524,"Yuba City, Marysville/Sutter, Yuba Counties"
+2008,CA-525,El Dorado County
+2008,CA-526,"Tuolumne, Calaveras, Amador Counties"
+2008,CA-507,Marin County
+2008,CA-505,Richmond/Contra Costa County
+2008,CA-513,"Visalia/Kings, Tulare Counties"
+2008,CA-518,Vallejo/Solano County
+2008,CO-504,Colorado Springs/El Paso County
+2008,CO-503,Metropolitan Denver Homeless Initiative
+2008,CO-500,Colorado Balance of State
+2008,CT-500,Danbury
+2008,CT-507,Norwich/New London City & County
+2008,CT-503,"Bridgeport, Stratford, Fairfield"
+2008,CT-501,New Haven
+2008,CT-508,"Stamford, Greenwich"
+2008,CT-504,Middletown/Middlesex County
+2008,CT-509,New Britain
+2008,CT-502,Hartford
+2008,CT-510,Bristol
+2008,CT-512,Waterbury
+2008,CT-505,Connecticut Balance of State
+2008,CT-506,Norwalk/Fairfield County
+2008,DC-500,District of Columbia
+2008,DE-500,Delaware Statewide
+2008,FL-520,"Citrus, Hernando, Lake, Sumter Counties"
+2008,FL-600,Miami-Dade County
+2008,FL-506,Tallahassee/Leon County
+2008,FL-508,"Gainesville/Alachua, Putnam Counties"
+2008,FL-501,Tampa/Hillsborough County
+2008,FL-602,Punta Gorda/Charlotte County
+2008,FL-511,"Pensacola/Escambia, Santa Rosa Counties"
+2008,FL-606,Naples/Collier County
+2008,FL-503,Lakeland
+2008,FL-603,"Ft Myers, Cape Coral/Lee County"
+2008,FL-509,"Fort Pierce/Saint Lucie, Indian River, Martin Counties"
+2008,FL-507,"Orlando/Orange, Osceola, Seminole Counties"
+2008,FL-512,Saint Johns County
+2008,FL-513,"Palm Bay, Melbourne/Brevard County"
+2008,FL-604,Monroe County
+2008,FL-504,"Daytona Beach, Daytona/Volusia, Flagler Counties"
+2008,FL-514,Ocala/Marion County
+2008,FL-515,"Panama City/Bay, Jackson Counties"
+2008,FL-516,Winterhaven/Polk County
+2008,FL-510,"Jacksonville-Duval, Clay Counties"
+2008,FL-502,"Saint Petersburg, Clearwater, Largo/Pinellas County"
+2008,FL-517,"Hendry, Hardee, Highlands Counties"
+2008,FL-500,"Sarasota, Bradenton/Manatee, Sarasota Counties"
+2008,FL-601,Ft Lauderdale/Broward County
+2008,FL-518,"Columbia, Hamilton, Lafayette, Suwannee Counties"
+2008,FL-605,West Palm Beach/Palm Beach County
+2008,FL-519,Pasco County
+2008,FL-505,"Fort Walton Beach/Okaloosa, Walton Counties"
+2008,GA-506,Marietta/Cobb County
+2008,GA-501,Georgia Balance of State
+2008,GA-507,Savannah/Chatham County
+2008,GA-503,Athens-Clarke County
+2008,GA-504,Augusta
+2008,GA-500,"Atlanta/Roswell/DeKalb, Fulton Counties"
+2008,GA-505,Columbus-Muscogee/Russell County
+2008,GU-500,Guam
+2008,HI-501,Honolulu
+2008,HI-500,Hawaii Balance of State
+2008,IA-502,Des Moines/Polk County
+2008,IA-501,Iowa Balance of State
+2008,IA-500,"Sioux City/Dakota, Woodbury Counties"
+2008,ID-500,Boise/Ada County
+2008,ID-501,Idaho Balance of State
+2008,IL-505,Evanston
+2008,IL-510,Chicago
+2008,IL-509,DeKalb City & County
+2008,IL-502,"Waukegan, North Chicago/Lake County"
+2008,IL-517,"Aurora, Elgin/Kane County"
+2008,IL-506,"Joliet, Bolingbrook/Will County"
+2008,IL-514,Dupage County
+2008,IL-518,"Rock Island, Moline/Northwestern Illinois"
+2008,IL-507,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties"
+2008,IL-512,Bloomington/Central Illinois
+2008,IL-500,McHenry County
+2008,IL-511,Cook County
+2008,IL-503,"Champaign, Urbana, Rantoul/Champaign County"
+2008,IL-515,South Central Illinois
+2008,IL-519,West Central Illinois
+2008,IL-504,Madison County
+2008,IL-508,"East Saint Louis, Belleville/Saint Clair County"
+2008,IL-501,"Rockford/Winnebago, Boone Counties"
+2008,IL-516,Decatur/Macon County
+2008,IL-513,Springfield/Sangamon County
+2008,IL-520,Southern Illinois
+2008,IN-502,Indiana Balance of State
+2008,IN-500,"South Bend, Mishawaka/Saint Joseph County"
+2008,IN-503,Indianapolis
+2008,KS-507,Kansas Balance of State
+2008,KS-501,Kansas City/Wyandotte County
+2008,KS-502,Wichita/Sedgwick County
+2008,KS-503,Topeka/Shawnee County
+2008,KS-505,"Overland Park, Shawnee/Johnson County"
+2008,KY-501,Louisville-Jefferson County
+2008,KY-500,Kentucky Balance of State
+2008,KY-502,Lexington-Fayette County
+2008,LA-503,New Orleans/Jefferson Parish
+2008,LA-506,Slidell/Southeast Louisiana
+2008,LA-502,Shreveport/Bossier/Northwest Louisiana
+2008,LA-504,Baton Rouge
+2008,LA-500,Lafayette/Acadiana
+2008,LA-507,Alexandria/Central Louisiana
+2008,LA-505,Monroe/Northeast Louisiana
+2008,LA-508,"Houma-Terrebonne, Thibodaux"
+2008,LA-501,Lake Charles/Southwestern Louisiana
+2008,MA-501,"Holyoke/Franklin, Hampden, Hamshire Counties"
+2008,MA-515,Fall River
+2008,MA-519,"Attleboro, Taunton/Bristol County"
+2008,MA-504,Springfield
+2008,MA-509,Cambridge
+2008,MA-511,"Quincy, Weymouth"
+2008,MA-517,Somerville
+2008,MA-520,"Brockton, Plymouth City & County"
+2008,MA-502,Lynn
+2008,MA-507,Pittsfield/Berkshire County
+2008,MA-505,New Bedford
+2008,MA-516,Massachusetts Balance of State
+2008,MA-512,Lawrence
+2008,MA-500,Boston
+2008,MA-508,Lowell
+2008,MA-503,Cape Cod Islands
+2008,MA-513,"Malden, Medford"
+2008,MA-518,"Brookline, Newton"
+2008,MA-510,"Gloucester, Haverhill, Salem/Essex County"
+2008,MA-506,Worcester City & County
+2008,MA-514,Framingham/Waltham
+2008,MD-513,"Wicomico, Somerset, Worcester Counties"
+2008,MD-505,Baltimore County
+2008,MD-502,Harford County
+2008,MD-509,Frederick City & County
+2008,MD-600,Prince George's County
+2008,MD-510,Garrett County
+2008,MD-506,Carroll County
+2008,MD-500,Cumberland/Allegany County
+2008,MD-503,Annapolis/Anne Arundel County
+2008,MD-501,Baltimore
+2008,MD-511,Mid-Shore Regional
+2008,MD-507,Cecil County
+2008,MD-601,Montgomery County
+2008,MD-512,Hagerstown/Washington County
+2008,MD-508,"Charles, Calvert, Saint Mary's Counties"
+2008,MD-504,Howard County
+2008,ME-501,Bangor/Penobscot County
+2008,ME-500,Maine Balance of State
+2008,ME-502,Portland
+2008,MI-500,Michigan Balance of State
+2008,MI-516,"Norton Shores, Muskegon City & County"
+2008,MI-510,Saginaw City & County
+2008,MI-501,Detroit
+2008,MI-504,"Pontiac, Royal Oak/Oakland County"
+2008,MI-508,"Lansing, East Lansing/Ingham County"
+2008,MI-517,Jackson City & County
+2008,MI-502,"Dearborn, Dearborn Heights, Westland/Wayne County"
+2008,MI-506,Grand Rapids/Wyoming/Kent County
+2008,MI-518,Livingston County
+2008,MI-511,Lenawee County
+2008,MI-512,"Grand Traverse, Antrim, Leelanau Counties"
+2008,MI-519,Holland/Ottawa County
+2008,MI-509,Ann Arbor/Washtenaw County
+2008,MI-522,"Alpena, Iosco, Presque Isle/NE Michigan"
+2008,MI-503,"Saint Clair Shores, Warren/Macomb County"
+2008,MI-513,"Marquette, Alger Counties"
+2008,MI-505,Flint/Genesee County
+2008,MI-523,Eaton County
+2008,MI-507,"Portage, Kalamazoo City & County"
+2008,MI-514,Battle Creek/Calhoun County
+2008,MI-515,Monroe City & County
+2008,MN-509,Duluth/Saint Louis County
+2008,MN-503,Dakota County
+2008,MN-506,Northwest Minnesota
+2008,MN-501,Saint Paul/Ramsey County
+2008,MN-500,Minneapolis/Hennepin County
+2008,MN-508,Moorhead/West Central Minnesota
+2008,MN-510,"Scott, Carver Counties"
+2008,MN-504,Northeast Minnesota
+2008,MN-511,Southwest Minnesota
+2008,MN-502,Rochester/Southeast Minnesota
+2008,MN-505,Saint Cloud/Central Minnesota
+2008,MO-602,"Joplin/Jasper, Newton Counties"
+2008,MO-603,"Saint Joseph/Andrew, Buchanan, DeKalb Counties"
+2008,MO-501,Saint Louis
+2008,MO-606,Missouri Balance of State
+2008,MO-604,"Kansas City, Independence, Lee's Summit/Jackson County"
+2008,MO-503,"Saint Charles City & County, Lincoln, Warren Counties"
+2008,MO-600,"Springfield/Greene, Christian, Webster Counties"
+2008,MO-500,Saint Louis County
+2008,MS-500,"Jackson/Rankin, Madison Counties"
+2008,MS-501,Mississippi Balance of State
+2008,MS-503,Gulf Port/Gulf Coast Regional
+2008,MT-500,Montana Statewide
+2008,NC-511,Fayetteville/Cumberland County
+2008,NC-501,Asheville/Buncombe County
+2008,NC-506,"Wilmington/Brunswick, New Hanover, Pender Counties"
+2008,NC-513,Chapel Hill/Orange County
+2008,NC-502,Durham City & County
+2008,NC-504,"Greensboro, High Point"
+2008,NC-516,Northwest North Carolina
+2008,NC-507,Raleigh/Wake County
+2008,NC-503,North Carolina Balance of State
+2008,NC-500,Winston-Salem/Forsyth County
+2008,NC-508,"Anson, Moore, Montgomery, Richmond Counties"
+2008,NC-509,"Gastonia/Cleveland, Gaston, Lincoln Counties"
+2008,NC-505,Charlotte/Mecklenburg County
+2008,ND-500,North Dakota Statewide
+2008,NE-503,Southwest Nebraska
+2008,NE-504,Southeast Nebraska
+2008,NE-505,Panhandle of Nebraska
+2008,NE-506,Northeast Nebraska
+2008,NE-500,North Central Nebraska
+2008,NE-501,"Omaha, Council Bluffs"
+2008,NE-502,Lincoln
+2008,NH-501,Manchester
+2008,NH-502,Nashua/Hillsborough County
+2008,NH-500,New Hampshire Balance of State
+2008,NJ-501,Bergen County
+2008,NJ-516,Warren County
+2008,NJ-506,"Jersey City, Bayonne/Hudson County"
+2008,NJ-509,Morris County
+2008,NJ-514,Trenton/Mercer County
+2008,NJ-518,Ocean City/Cape May County
+2008,NJ-504,Newark/Essex County
+2008,NJ-519,Sussex County
+2008,NJ-510,Lakewood Township/Ocean County
+2008,NJ-507,New Brunswick/Middlesex County
+2008,NJ-520,Cumberland County
+2008,NJ-502,Burlington County
+2008,NJ-515,Elizabeth/Union County
+2008,NJ-511,Paterson/Passaic County
+2008,NJ-508,Monmouth County
+2008,NJ-500,Atlantic City & County
+2008,NJ-505,Gloucester County
+2008,NJ-503,Camden City & County
+2008,NJ-512,Salem County
+2008,NJ-513,Somerset County
+2008,NM-501,New Mexico Balance of State
+2008,NM-500,Albuquerque
+2008,NV-501,"Reno, Sparks/Washoe County"
+2008,NV-502,Nevada Balance of State
+2008,NV-500,Las Vegas/Clark County
+2008,NY-505,Syracuse/Onondaga County
+2008,NY-600,New York City
+2008,NY-524,Niagara Falls/Niagara County
+2008,NY-518,Utica/Rome/Oneida County
+2008,NY-603,Islip/Babylon/Huntington/Suffolk County
+2008,NY-601,Poughkeepsie/Dutchess County
+2008,NY-606,Rockland County
+2008,NY-501,"Elmira/Steuben, Allegany, Chemung Counties"
+2008,NY-519,"Columbia, Greene Counties"
+2008,NY-512,Troy/Rensselaer County
+2008,NY-607,Sullivan County
+2008,NY-604,Yonkers/Mount Vernon/New Rochelle/Westchester County
+2008,NY-508,Buffalo/Erie County
+2008,NY-502,Auburn/Cayuga County
+2008,NY-520,Franklin County
+2008,NY-608,Kingston/Ulster County
+2008,NY-522,"Jefferson, Lewis, Saint Lawrence Counties"
+2008,NY-504,Cattaraugus County
+2008,NY-605,Nassau County
+2008,NY-500,"Rochester, Irondequoit, Greece/Monroe County"
+2008,NY-602,"Newburgh, Middletown/Orange County"
+2008,NY-523,Glens Falls/Saratoga Springs/Saratoga County
+2008,NY-513,"Wayne, Ontario, Seneca, Yates Counties"
+2008,NY-514,"Jamestown, Dunkirk/Chautauqua County"
+2008,NY-507,Schenectady City & County
+2008,NY-503,Albany City & County
+2008,NY-516,Clinton County
+2008,NY-517,Orleans County
+2008,NY-510,Ithaca/Tompkins County
+2008,OH-500,Cincinnati/Hamilton County
+2008,OH-505,"Dayton, Kettering/Montgomery County"
+2008,OH-508,"Canton, Massillon, Alliance/Stark County"
+2008,OH-504,Youngstown/Mahoning County
+2008,OH-507,Ohio Balance of State
+2008,OH-506,Akron/Barberton/Summit County
+2008,OH-502,Cleveland/Cuyahoga County
+2008,OH-501,Toledo/Lucas County
+2008,OH-503,Columbus/Franklin County
+2008,OK-502,Oklahoma City
+2008,OK-503,Oklahoma Balance of State
+2008,OK-500,North Central Oklahoma
+2008,OK-504,Norman/Cleveland County
+2008,OK-501,Tulsa City & County/Broken Arrow
+2008,OK-505,Northeast Oklahoma
+2008,OK-506,Southwest Oklahoma Regional
+2008,OK-507,Southeastern Oklahoma Regional
+2008,OR-500,"Eugene, Springfield/Lane County"
+2008,OR-502,"Medford, Ashland/Jackson County"
+2008,OR-503,Central Oregon
+2008,OR-504,"Salem/Marion, Polk Counties"
+2008,OR-501,"Portland, Gresham/Multnomah County"
+2008,OR-506,"Hillsboro, Beaverton/Washington County"
+2008,OR-505,Oregon Balance of State
+2008,OR-507,Clackamas County
+2008,PA-500,Philadelphia
+2008,PA-502,"Upper Darby, Chester, Haverford/Delaware County"
+2008,PA-504,"Lower Merion, Norristown, Abington/Montgomery County"
+2008,PA-605,Erie City & County
+2008,PA-600,"Pittsburgh, McKeesport, Penn Hills/Allegheny County"
+2008,PA-508,Scranton/Lackawanna County
+2008,PA-510,Lancaster City & County
+2008,PA-602,Northwest Pennsylvania
+2008,PA-503,"Wilkes-Barre, Hazleton, Luzerne County"
+2008,PA-505,Chester County
+2008,PA-507,Altoona/Central Pennsylvania
+2008,PA-601,Southwest Pennsylvania
+2008,PA-511,"Bristol, Bensalem/Bucks County"
+2008,PA-501,Harrisburg/Dauphin County
+2008,PA-509,Allentown/Northeast Pennsylvania
+2008,PA-603,Beaver County
+2008,PA-506,Reading/Berks County
+2008,PR-503,South-Southeast Puerto Rico
+2008,PR-502,Puerto Rico Balance of Commonwealth
+2008,RI-500,Rhode Island Statewide
+2008,SC-500,Charleston/Low Country
+2008,SC-503,"Myrtle Beach, Sumter City & County"
+2008,SC-501,"Greenville, Anderson, Spartanburg/Upstate"
+2008,SC-504,Florence City & County/Pee Dee
+2008,SC-502,Columbia/Midlands
+2008,SD-500,South Dakota Statewide
+2008,TN-506,Oak Ridge/Upper Cumberland
+2008,TN-510,Murfreesboro/Rutherford County
+2008,TN-503,Central Tennessee
+2008,TN-501,Memphis/Shelby County
+2008,TN-507,Jackson/West Tennessee
+2008,TN-504,Nashville-Davidson County
+2008,TN-500,Chattanooga/Southeast Tennessee
+2008,TN-502,Knoxville/Knox County
+2008,TN-509,Appalachian Regional
+2008,TX-603,El Paso City & County
+2008,TX-501,Corpus Christi/Nueces County
+2008,TX-700,Houston/Harris County
+2008,TX-701,"Bryan, College Station/Brazos Valley"
+2008,TX-604,Waco/McLennan County
+2008,TX-600,"Dallas City & County, Irving"
+2008,TX-702,Montgomery County
+2008,TX-703,"Beaumont, Port Arthur/South East Texas"
+2008,TX-607,Texas Balance of State
+2008,TX-503,Austin/Travis County
+2008,TX-704,Galveston/Gulf Coast
+2008,TX-601,"Fort Worth, Arlington/Tarrant County"
+2008,TX-500,San Antonio/Bexar County
+2008,TX-610,Denton City & County
+2008,TX-611,Amarillo
+2008,TX-504,"Victoria/Dewitt, Lavaca, Gonzales Counties"
+2008,TX-613,Longview/Marshall Area
+2008,UT-503,Utah Balance of State
+2008,UT-504,Provo/Mountainland
+2008,UT-500,Salt Lake City & County
+2008,VA-507,Portsmouth
+2008,VA-603,Alexandria
+2008,VA-502,"Roanoke City & County, Salem"
+2008,VA-500,"Richmond/Henrico, Chesterfield, Hanover Counties"
+2008,VA-604,Prince William County
+2008,VA-508,Lynchburg
+2008,VA-503,Virginia Beach
+2008,VA-509,Petersburg
+2008,VA-601,Fairfax County
+2008,VA-510,"Staunton/Waynesboro/Augusta, Highland Counties"
+2008,VA-512,Chesapeake
+2008,VA-513,"Winchester/Shenandoah, Frederick, Warren Counties"
+2008,VA-504,Charlottesville
+2008,VA-501,Norfolk
+2008,VA-514,"Fredericksburg/Spotsylvania, Stafford Counties"
+2008,VA-505,"Newport News, Hampton/Virginia Peninsula"
+2008,VA-517,Danville/Martinsville
+2008,VA-518,Harrisburg/Rockingham County
+2008,VA-521,Virginia Balance of State
+2008,VA-600,Arlington County
+2008,VA-602,Loudoun County
+2008,VI-500,Virgin Islands
+2008,VT-501,Burlington/Chittenden County
+2008,VT-500,Vermont Balance of State
+2008,WA-500,Seattle/King County
+2008,WA-508,Vancouver/Clark County
+2008,WA-504,Everett/Snohomish County
+2008,WA-503,"Tacoma, Lakewood/Pierce County"
+2008,WA-501,Washington Balance of State
+2008,WA-502,City of Spokane
+2008,WA-507,Yakima City & County
+2008,WI-503,Madison/Dane County
+2008,WI-502,Racine City & County
+2008,WI-500,Wisconsin Balance of State
+2008,WI-501,Milwaukee City & County
+2008,WV-508,West Virginia Balance of State
+2008,WV-500,"Wheeling, Weirton Area"
+2008,WV-501,"Huntington/Cabell, Wayne Counties"
+2008,WV-503,"Charleston/Kanawha, Putnam, Boone, Clay Counties"
+2008,WY-500,Wyoming Statewide
+2007,AK-500,Anchorage
+2007,AK-501,Alaska Balance of State
+2007,AL-502,Florence/Northwest Alabama
+2007,AL-503,Huntsville/North Alabama
+2007,AL-504,Montgomery City & County
+2007,AL-505,Gadsden/Northeast Alabama
+2007,AL-501,Mobile City & County/Baldwin County
+2007,AL-506,Tuscaloosa City & County
+2007,AL-507,Alabama Balance of State
+2007,AL-500,"Birmingham/Jefferson, Saint Clair, Shelby Counties"
+2007,AR-501,Fayetteville/Northwest Arkansas
+2007,AR-502,Conway/Arkansas River Valley
+2007,AR-504,Delta Hills
+2007,AR-505,Southeast Arkansas
+2007,AR-506,"Johnson, Pope, Yell Counties"
+2007,AR-509,Hot Springs/South West Arkansas
+2007,AR-500,Little Rock/Central Arkansas
+2007,AZ-502,Phoenix/Mesa/Maricopa County Regional
+2007,AZ-501,Tucson/Pima County
+2007,AZ-500,Arizona Balance of State
+2007,CA-502,Oakland/Alameda County
+2007,CA-600,Los Angeles City & County
+2007,CA-601,San Diego
+2007,CA-602,"Santa Ana, Anaheim/Orange County"
+2007,CA-607,Pasadena
+2007,CA-609,San Bernardino City & County
+2007,CA-500,"San Jose, Santa Clara City & County"
+2007,CA-511,Stockton/San Joaquin County
+2007,CA-514,Fresno/Madera County
+2007,CA-504,"Santa Rosa, Petaluma/Sonoma County"
+2007,CA-508,Watsonville/Santa Cruz City & County
+2007,CA-606,Long Beach
+2007,CA-519,"Chico, Paradise/Butte County"
+2007,CA-503,Sacramento City & County
+2007,CA-501,San Francisco
+2007,CA-612,Glendale
+2007,CA-520,Merced City & County
+2007,CA-604,Bakersfield/Kern County
+2007,CA-506,Salinas/Monterey County
+2007,CA-608,Riverside City & County
+2007,CA-512,Daly City/San Mateo County
+2007,CA-521,"Davis, Woodland/Yolo County"
+2007,CA-515,Roseville/Placer County
+2007,CA-610,San Diego County
+2007,CA-509,Mendocino County
+2007,CA-613,Imperial County
+2007,CA-516,Redding/Shasta County
+2007,CA-522,Humboldt County
+2007,CA-614,San Luis Obispo County
+2007,CA-510,"Turlock, Modesto/Stanislaus County"
+2007,CA-517,Napa City & County
+2007,CA-605,San Buenaventura/Ventura County
+2007,CA-523,"Colusa, Glenn, Lake, Tehama, Trinity Counties"
+2007,CA-507,Marin County
+2007,CA-524,"Yuba City, Marysville/Sutter, Yuba Counties"
+2007,CA-525,El Dorado County
+2007,CA-505,Richmond/Contra Costa County
+2007,CA-526,"Tuolumne, Calaveras, Amador Counties"
+2007,CA-513,"Visalia/Kings, Tulare Counties"
+2007,CA-518,Vallejo/Solano County
+2007,CA-603,Santa Maria/Santa Barbara County
+2007,CA-611,Oxnard
+2007,CO-503,Metropolitan Denver Homeless Initiative
+2007,CO-504,Colorado Springs/El Paso County
+2007,CO-500,Colorado Balance of State
+2007,CT-500,Danbury
+2007,CT-507,Norwich/New London City & County
+2007,CT-503,"Bridgeport, Stratford, Fairfield"
+2007,CT-501,New Haven
+2007,CT-508,"Stamford, Greenwich"
+2007,CT-504,Middletown/Middlesex County
+2007,CT-509,New Britain
+2007,CT-502,Hartford
+2007,CT-510,Bristol
+2007,CT-505,Connecticut Balance of State
+2007,CT-512,Waterbury
+2007,CT-506,Norwalk/Fairfield County
+2007,DC-500,District of Columbia
+2007,DE-500,Delaware Statewide
+2007,FL-501,Tampa/Hillsborough County
+2007,FL-506,Tallahassee/Leon County
+2007,FL-508,"Gainesville/Alachua, Putnam Counties"
+2007,FL-511,"Pensacola/Escambia, Santa Rosa Counties"
+2007,FL-503,"Lakeland, Winterhaven/Polk County"
+2007,FL-507,"Orlando/Orange, Osceola, Seminole Counties"
+2007,FL-606,Naples/Collier County
+2007,FL-603,"Ft Myers, Cape Coral/Lee County"
+2007,FL-509,"Fort Pierce/Saint Lucie, Indian River, Martin Counties"
+2007,FL-512,Saint Johns County
+2007,FL-513,"Palm Bay, Melbourne/Brevard County"
+2007,FL-604,Monroe County
+2007,FL-504,"Daytona Beach, Daytona/Volusia, Flagler Counties"
+2007,FL-514,Ocala/Marion County
+2007,FL-600,Miami-Dade County
+2007,FL-510,"Jacksonville-Duval, Clay Counties"
+2007,FL-502,"Saint Petersburg, Clearwater, Largo/Pinellas County"
+2007,FL-515,"Panama City/Bay, Jackson Counties"
+2007,FL-601,Ft Lauderdale/Broward County
+2007,FL-517,"Hendry, Hardee, Highlands Counties"
+2007,FL-500,"Sarasota, Bradenton/Manatee, Sarasota Counties"
+2007,FL-605,West Palm Beach/Palm Beach County
+2007,FL-518,"Columbia, Hamilton, Lafayette, Suwannee Counties"
+2007,FL-519,Pasco County
+2007,FL-505,"Fort Walton Beach/Okaloosa, Walton Counties"
+2007,FL-520,"Citrus, Hernando, Lake, Sumter Counties"
+2007,GA-501,Georgia Balance of State
+2007,GA-507,Savannah/Chatham County
+2007,GA-503,Athens-Clarke County
+2007,GA-504,Augusta
+2007,GA-500,"Atlanta/Roswell/DeKalb, Fulton Counties"
+2007,GA-505,Columbus-Muscogee/Russell County
+2007,GA-506,Marietta/Cobb County
+2007,GU-500,Guam
+2007,HI-501,Honolulu
+2007,HI-500,Hawaii Balance of State
+2007,IA-502,Des Moines/Polk County
+2007,IA-501,Iowa Balance of State
+2007,IA-500,"Sioux City/Dakota, Woodbury Counties"
+2007,ID-500,Boise/Ada County
+2007,ID-501,Idaho Balance of State
+2007,IL-502,"Waukegan, North Chicago/Lake County"
+2007,IL-517,"Aurora, Elgin/Kane County"
+2007,IL-509,DeKalb City & County
+2007,IL-506,"Joliet, Bolingbrook/Will County"
+2007,IL-514,Dupage County
+2007,IL-510,Chicago
+2007,IL-511,Cook County
+2007,IL-518,"Rock Island, Moline/Northwestern Illinois"
+2007,IL-507,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties"
+2007,IL-512,Bloomington/Central Illinois
+2007,IL-500,McHenry County
+2007,IL-503,"Champaign, Urbana, Rantoul/Champaign County"
+2007,IL-515,South Central Illinois
+2007,IL-519,West Central Illinois
+2007,IL-504,Madison County
+2007,IL-508,"East Saint Louis, Belleville/Saint Clair County"
+2007,IL-501,"Rockford/Winnebago, Boone Counties"
+2007,IL-516,Decatur/Macon County
+2007,IL-513,Springfield/Sangamon County
+2007,IL-520,Southern Illinois
+2007,IL-505,Evanston
+2007,IN-502,Indiana Balance of State
+2007,IN-500,"South Bend, Mishawaka/Saint Joseph County"
+2007,IN-503,Indianapolis
+2007,KS-500,Lawrence/Douglas County
+2007,KS-501,Kansas City/Wyandotte County
+2007,KS-502,Wichita/Sedgwick County
+2007,KS-503,Topeka/Shawnee County
+2007,KS-505,"Overland Park, Shawnee/Johnson County"
+2007,KS-507,Kansas Balance of State
+2007,KY-500,Kentucky Balance of State
+2007,KY-502,Lexington-Fayette County
+2007,KY-501,Louisville-Jefferson County
+2007,LA-506,Slidell/Southeast Louisiana
+2007,LA-502,Shreveport/Bossier/Northwest Louisiana
+2007,LA-504,Baton Rouge
+2007,LA-500,Lafayette/Acadiana
+2007,LA-507,Alexandria/Central Louisiana
+2007,LA-505,Monroe/Northeast Louisiana
+2007,LA-508,"Houma-Terrebonne, Thibodaux"
+2007,LA-503,New Orleans/Jefferson Parish
+2007,LA-501,Lake Charles/Southwestern Louisiana
+2007,MA-501,"Holyoke/Franklin, Hampden, Hamshire Counties"
+2007,MA-509,Cambridge
+2007,MA-515,Fall River
+2007,MA-504,Springfield
+2007,MA-519,"Attleboro, Taunton/Bristol County"
+2007,MA-511,"Quincy, Weymouth"
+2007,MA-517,Somerville
+2007,MA-502,Lynn
+2007,MA-520,"Brockton, Plymouth City & County"
+2007,MA-500,Boston
+2007,MA-507,Pittsfield/Berkshire County
+2007,MA-505,New Bedford
+2007,MA-516,Massachusetts Balance of State
+2007,MA-512,Lawrence
+2007,MA-508,Lowell
+2007,MA-503,Cape Cod Islands
+2007,MA-518,"Brookline, Newton"
+2007,MA-513,"Malden, Medford"
+2007,MA-506,Worcester City & County
+2007,MA-510,"Gloucester, Haverhill, Salem/Essex County"
+2007,MA-514,Framingham/Waltham
+2007,MD-505,Baltimore County
+2007,MD-502,Harford County
+2007,MD-509,Frederick City & County
+2007,MD-600,Prince George's County
+2007,MD-501,Baltimore
+2007,MD-510,Garrett County
+2007,MD-506,Carroll County
+2007,MD-500,Cumberland/Allegany County
+2007,MD-503,Annapolis/Anne Arundel County
+2007,MD-511,Mid-Shore Regional
+2007,MD-507,Cecil County
+2007,MD-601,Montgomery County
+2007,MD-512,Hagerstown/Washington County
+2007,MD-508,"Charles, Calvert, Saint Mary's Counties"
+2007,MD-504,Howard County
+2007,MD-513,"Wicomico, Somerset, Worcester Counties"
+2007,ME-501,Bangor/Penobscot County
+2007,ME-500,Maine Balance of State
+2007,ME-502,Portland
+2007,MI-501,Detroit
+2007,MI-516,"Norton Shores, Muskegon City & County"
+2007,MI-510,Saginaw City & County
+2007,MI-504,"Pontiac, Royal Oak/Oakland County"
+2007,MI-508,"Lansing, East Lansing/Ingham County"
+2007,MI-517,Jackson City & County
+2007,MI-506,Grand Rapids/Wyoming/Kent County
+2007,MI-502,"Dearborn, Dearborn Heights, Westland/Wayne County"
+2007,MI-518,Livingston County
+2007,MI-511,Lenawee County
+2007,MI-512,"Grand Traverse, Antrim, Leelanau Counties"
+2007,MI-519,Holland/Ottawa County
+2007,MI-509,Ann Arbor/Washtenaw County
+2007,MI-503,"Saint Clair Shores, Warren/Macomb County"
+2007,MI-521,Cass County
+2007,MI-522,"Alpena, Iosco, Presque Isle/NE Michigan"
+2007,MI-513,"Marquette, Alger Counties"
+2007,MI-505,Flint/Genesee County
+2007,MI-523,Eaton County
+2007,MI-507,"Portage, Kalamazoo City & County"
+2007,MI-514,Battle Creek/Calhoun County
+2007,MI-500,Michigan Balance of State
+2007,MI-515,Monroe City & County
+2007,MN-503,Dakota County
+2007,MN-501,Saint Paul/Ramsey County
+2007,MN-500,Minneapolis/Hennepin County
+2007,MN-506,Northwest Minnesota
+2007,MN-507,Coon Rapids/Anoka County
+2007,MN-508,Moorhead/West Central Minnesota
+2007,MN-510,"Scott, Carver Counties"
+2007,MN-504,Northeast Minnesota
+2007,MN-511,Southwest Minnesota
+2007,MN-502,Rochester/Southeast Minnesota
+2007,MN-505,Saint Cloud/Central Minnesota
+2007,MN-509,Duluth/Saint Louis County
+2007,MN-512,Washington County
+2007,MO-501,Saint Louis
+2007,MO-603,"Saint Joseph/Andrew, Buchanan, DeKalb Counties"
+2007,MO-606,Missouri Balance of State
+2007,MO-604,"Kansas City, Independence, Lee's Summit/Jackson County"
+2007,MO-600,"Springfield/Greene, Christian, Webster Counties"
+2007,MO-601,"Clay, Platte Counties"
+2007,MO-500,Saint Louis County
+2007,MO-602,"Joplin/Jasper, Newton Counties"
+2007,MS-500,"Jackson/Rankin, Madison Counties"
+2007,MS-501,Mississippi Balance of State
+2007,MS-503,Gulf Port/Gulf Coast Regional
+2007,MT-500,Montana Statewide
+2007,NC-511,Fayetteville/Cumberland County
+2007,NC-501,Asheville/Buncombe County
+2007,NC-506,"Wilmington/Brunswick, New Hanover, Pender Counties"
+2007,NC-513,Chapel Hill/Orange County
+2007,NC-502,Durham City & County
+2007,NC-504,"Greensboro, High Point"
+2007,NC-516,Northwest North Carolina
+2007,NC-507,Raleigh/Wake County
+2007,NC-503,North Carolina Balance of State
+2007,NC-500,Winston-Salem/Forsyth County
+2007,NC-508,"Anson, Moore, Montgomery, Richmond Counties"
+2007,NC-505,Charlotte/Mecklenburg County
+2007,NC-509,"Gastonia/Cleveland, Gaston, Lincoln Counties"
+2007,ND-500,North Dakota Statewide
+2007,NE-503,Southwest Nebraska
+2007,NE-504,Southeast Nebraska
+2007,NE-505,Panhandle of Nebraska
+2007,NE-506,Northeast Nebraska
+2007,NE-500,North Central Nebraska
+2007,NE-501,"Omaha, Council Bluffs"
+2007,NE-502,Lincoln
+2007,NH-502,Nashua/Hillsborough County
+2007,NH-500,New Hampshire Balance of State
+2007,NH-501,Manchester
+2007,NJ-506,"Jersey City, Bayonne/Hudson County"
+2007,NJ-516,Warren County
+2007,NJ-509,Morris County
+2007,NJ-514,Trenton/Mercer County
+2007,NJ-517,Hunterdon County
+2007,NJ-518,Ocean City/Cape May County
+2007,NJ-504,Newark/Essex County
+2007,NJ-510,Lakewood Township/Ocean County
+2007,NJ-519,Sussex County
+2007,NJ-507,New Brunswick/Middlesex County
+2007,NJ-520,Cumberland County
+2007,NJ-502,Burlington County
+2007,NJ-515,Elizabeth/Union County
+2007,NJ-511,Paterson/Passaic County
+2007,NJ-508,Monmouth County
+2007,NJ-500,Atlantic City & County
+2007,NJ-503,Camden City & County
+2007,NJ-505,Gloucester County
+2007,NJ-512,Salem County
+2007,NJ-501,Bergen County
+2007,NJ-513,Somerset County
+2007,NM-501,New Mexico Balance of State
+2007,NM-500,Albuquerque
+2007,NV-501,"Reno, Sparks/Washoe County"
+2007,NV-502,Nevada Balance of State
+2007,NV-500,Las Vegas/Clark County
+2007,NY-600,New York City
+2007,NY-524,Niagara Falls/Niagara County
+2007,NY-511,Binghamton/Union Town/Broome County
+2007,NY-518,Utica/Rome/Oneida County
+2007,NY-603,Islip/Babylon/Huntington/Suffolk County
+2007,NY-601,Poughkeepsie/Dutchess County
+2007,NY-501,"Elmira/Steuben, Allegany, Chemung Counties"
+2007,NY-512,Troy/Rensselaer County
+2007,NY-604,Yonkers/Mount Vernon/New Rochelle/Westchester County
+2007,NY-519,"Columbia, Greene Counties"
+2007,NY-607,Sullivan County
+2007,NY-508,Buffalo/Erie County
+2007,NY-502,Auburn/Cayuga County
+2007,NY-605,Nassau County
+2007,NY-608,Kingston/Ulster County
+2007,NY-520,Franklin County
+2007,NY-504,Cattaraugus County
+2007,NY-500,"Rochester, Irondequoit, Greece/Monroe County"
+2007,NY-602,"Newburgh, Middletown/Orange County"
+2007,NY-523,Glens Falls/Saratoga Springs/Saratoga County
+2007,NY-513,"Wayne, Ontario, Seneca, Yates Counties"
+2007,NY-503,Albany City & County
+2007,NY-507,Schenectady City & County
+2007,NY-505,Syracuse/Onondaga County
+2007,NY-514,"Jamestown, Dunkirk/Chautauqua County"
+2007,NY-516,Clinton County
+2007,NY-517,Orleans County
+2007,NY-510,Ithaca/Tompkins County
+2007,OH-508,"Canton, Massillon, Alliance/Stark County"
+2007,OH-507,Ohio Balance of State
+2007,OH-504,Youngstown/Mahoning County
+2007,OH-502,Cleveland/Cuyahoga County
+2007,OH-506,Akron/Barberton/Summit County
+2007,OH-503,Columbus/Franklin County
+2007,OH-501,Toledo/Lucas County
+2007,OH-505,"Dayton, Kettering/Montgomery County"
+2007,OH-500,Cincinnati/Hamilton County
+2007,OK-502,Oklahoma City
+2007,OK-503,Oklahoma Balance of State
+2007,OK-500,North Central Oklahoma
+2007,OK-504,Norman/Cleveland County
+2007,OK-501,Tulsa City & County/Broken Arrow
+2007,OK-505,Northeast Oklahoma
+2007,OK-506,Southwest Oklahoma Regional
+2007,OK-507,Southeastern Oklahoma Regional
+2007,OR-502,"Medford, Ashland/Jackson County"
+2007,OR-503,Central Oregon
+2007,OR-504,"Salem/Marion, Polk Counties"
+2007,OR-501,"Portland, Gresham/Multnomah County"
+2007,OR-506,"Hillsboro, Beaverton/Washington County"
+2007,OR-505,Oregon Balance of State
+2007,OR-507,Clackamas County
+2007,OR-500,"Eugene, Springfield/Lane County"
+2007,PA-502,"Upper Darby, Chester, Haverford/Delaware County"
+2007,PA-504,"Lower Merion, Norristown, Abington/Montgomery County"
+2007,PA-605,Erie City & County
+2007,PA-600,"Pittsburgh, McKeesport, Penn Hills/Allegheny County"
+2007,PA-508,Scranton/Lackawanna County
+2007,PA-510,Lancaster City & County
+2007,PA-602,Northwest Pennsylvania
+2007,PA-500,Philadelphia
+2007,PA-505,Chester County
+2007,PA-601,Southwest Pennsylvania
+2007,PA-507,Altoona/Central Pennsylvania
+2007,PA-503,"Wilkes-Barre, Hazleton, Luzerne County"
+2007,PA-509,Allentown/Northeast Pennsylvania
+2007,PA-511,"Bristol, Bensalem/Bucks County"
+2007,PA-501,Harrisburg/Dauphin County
+2007,PA-603,Beaver County
+2007,PA-506,Reading/Berks County
+2007,PR-503,South-Southeast Puerto Rico
+2007,PR-502,Puerto Rico Balance of Commonwealth
+2007,RI-500,Rhode Island Statewide
+2007,SC-500,Charleston/Low Country
+2007,SC-503,"Myrtle Beach, Sumter City & County"
+2007,SC-501,"Greenville, Anderson, Spartanburg/Upstate"
+2007,SC-504,Florence City & County/Pee Dee
+2007,SC-502,Columbia/Midlands
+2007,SD-500,South Dakota Statewide
+2007,TN-506,Oak Ridge/Upper Cumberland
+2007,TN-510,Murfreesboro/Rutherford County
+2007,TN-503,Central Tennessee
+2007,TN-501,Memphis/Shelby County
+2007,TN-512,"Morristown/Blount, Sevier, Campbell, Cocke Counties"
+2007,TN-507,Jackson/West Tennessee
+2007,TN-504,Nashville-Davidson County
+2007,TN-500,Chattanooga/Southeast Tennessee
+2007,TN-502,Knoxville/Knox County
+2007,TN-509,Appalachian Regional
+2007,TX-700,Houston/Harris County
+2007,TX-501,Corpus Christi/Nueces County
+2007,TX-600,"Dallas City & County, Irving"
+2007,TX-701,"Bryan, College Station/Brazos Valley"
+2007,TX-604,Waco/McLennan County
+2007,TX-702,Montgomery County
+2007,TX-703,"Beaumont, Port Arthur/South East Texas"
+2007,TX-607,Texas Balance of State
+2007,TX-503,Austin/Travis County
+2007,TX-601,"Fort Worth, Arlington/Tarrant County"
+2007,TX-704,Galveston/Gulf Coast
+2007,TX-500,San Antonio/Bexar County
+2007,TX-610,Denton City & County
+2007,TX-603,El Paso City & County
+2007,TX-611,Amarillo
+2007,TX-504,"Victoria/Dewitt, Lavaca, Gonzales Counties"
+2007,TX-613,Longview/Marshall Area
+2007,UT-503,Utah Balance of State
+2007,UT-504,Provo/Mountainland
+2007,UT-500,Salt Lake City & County
+2007,VA-507,Portsmouth
+2007,VA-603,Alexandria
+2007,VA-502,"Roanoke City & County, Salem"
+2007,VA-500,"Richmond/Henrico, Chesterfield, Hanover Counties"
+2007,VA-604,Prince William County
+2007,VA-508,Lynchburg
+2007,VA-503,Virginia Beach
+2007,VA-601,Fairfax County
+2007,VA-509,Petersburg
+2007,VA-510,"Staunton/Waynesboro/Augusta, Highland Counties"
+2007,VA-512,Chesapeake
+2007,VA-513,"Winchester/Shenandoah, Frederick, Warren Counties"
+2007,VA-504,Charlottesville
+2007,VA-501,Norfolk
+2007,VA-505,"Newport News, Hampton/Virginia Peninsula"
+2007,VA-517,Danville/Martinsville
+2007,VA-518,Harrisburg/Rockingham County
+2007,VA-521,Virginia Balance of State
+2007,VA-600,Arlington County
+2007,VA-602,Loudoun County
+2007,VI-500,Virgin Islands
+2007,VT-500,Vermont Balance of State
+2007,VT-501,Burlington/Chittenden County
+2007,WA-508,Vancouver/Clark County
+2007,WA-504,Everett/Snohomish County
+2007,WA-501,Washington Balance of State
+2007,WA-503,"Tacoma, Lakewood/Pierce County"
+2007,WA-500,Seattle/King County
+2007,WA-502,City of Spokane
+2007,WA-506,Spokane County
+2007,WA-507,Yakima City & County
+2007,WI-502,Racine City & County
+2007,WI-500,Wisconsin Balance of State
+2007,WI-501,Milwaukee City & County
+2007,WI-503,Madison/Dane County
+2007,WV-508,West Virginia Balance of State
+2007,WV-500,"Wheeling, Weirton Area"
+2007,WV-501,"Huntington/Cabell, Wayne Counties"
+2007,WV-503,"Charleston/Kanawha, Putnam, Boone, Clay Counties"
+2007,WY-500,Wyoming Statewide

@@ -1,0 +1,445 @@
+attribute,column_header_source_abbreviation,column_header_source_description,column_category_abbreviation,data_source_url
+ACS '11'15-IN POVERTY-NATIVE AMERICAN/ALASKAN IN POVERTY,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,IN POVERTY,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-IN POVERTY-HISPANIC IN POVERTY,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,IN POVERTY,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-OVERALL-WHITE PERSONS TOTAL,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-IN POVERTY-OTHER FAMILIES IN POVERTY,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,IN POVERTY,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-IN POVERTY-NATIVE AMERICAN/ALASKAN FAMILIES IN POVERTY,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,IN POVERTY,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-IN POVERTY-WHITE IN POVERTY,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,IN POVERTY,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-OVERALL-HISPANIC TOTAL,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-OVERALL-ASIAN/PACIFIC ISLANDER TOTAL,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-FAMILIES-HISPANIC FAMILIES,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,FAMILIES,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-OVERALL-BLACK PERSONS TOTAL,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-OVERALL-OTHER TOTAL,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-OVERALL-NATIVE AMERICAN/ALASKAN TOTAL,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-FAMILIES-ASIAN/PACIFIC ISLANDER FAMILIES,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,FAMILIES,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-FAMILIES-WHITE FAMILIES,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,FAMILIES,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-IN POVERTY-BLACK IN POVERTY,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,IN POVERTY,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-FAMILIES-BLACK FAMILIES,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,FAMILIES,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-FAMILIES-OTHER FAMILIES,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,FAMILIES,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-FAMILIES-NATIVE AMERICAN/ALASKAN FAMILIES,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,FAMILIES,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-IN POVERTY-ASIAN/PACIFIC ISLANDER FAMILIES IN POVERTY,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,IN POVERTY,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-IN POVERTY-WHITE FAMILIES IN POVERTY,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,IN POVERTY,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-IN POVERTY-OTHER IN POVERTY,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,IN POVERTY,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-IN POVERTY-ASIAN/PACIFIC ISLANDER IN POVERTY,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,IN POVERTY,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-IN POVERTY-BLACK FAMILIES IN POVERTY,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,IN POVERTY,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-IN POVERTY-HISPANIC FAMILIES IN POVERTY,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,IN POVERTY,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-VETERANS-WHITE VETERANS,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,VETERANS,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-VETERANS-OTHER VETERANS,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,VETERANS,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-YOUTH-OTHER YOUTH,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,YOUTH,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-VETERANS-NATIVE AMERICAN/ALASKAN VETERANS,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,VETERANS,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-VETERANS-HISPANIC VETERANS,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,VETERANS,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-VETERANS-BLACK VETERANS,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,VETERANS,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-YOUTH-BLACK YOUTH,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,YOUTH,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-YOUTH-NATIVE AMERICAN/ALASKAN YOUTH,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,YOUTH,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-VETERANS-ASIAN/PACIFIC ISLANDER VETERANS,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,VETERANS,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-YOUTH-WHITE YOUTH,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,YOUTH,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-YOUTH-HISPANIC YOUTH,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,YOUTH,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ACS '11'15-YOUTH-ASIAN/PACIFIC ISLANDER YOUTH,ACS '11'15,AMERICAN COMMUNITY SURVEY 5-YEAR 2011-2015,YOUTH,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+ARD-ARD,ARD,ANNUAL RENEWAL DEMAND,ARD,https://files.hudexchange.info/resources/documents/FY-2018-CoC-Program-Estimated-ARD.pdf
+ARD-ARD,ARD,ANNUAL RENEWAL DEMAND,ARD,https://files.hudexchange.info/resources/documents/FY-2015-CoC-Program-Competition-ARD-Report.pdf
+ARD-ARD,ARD,ANNUAL RENEWAL DEMAND,ARD,https://files.hudexchange.info/resources/documents/FY-2019-CoC-Program-Estimated-ARD.pdf
+ARD-ARD,ARD,ANNUAL RENEWAL DEMAND,ARD,https://files.hudexchange.info/resources/documents/FY-2016-CoC-Program-Competition-Final-ARD-Report.pdf
+ARD-ARD,ARD,ANNUAL RENEWAL DEMAND,ARD,https://files.hudexchange.info/resources/documents/FY-2017-CoC-Program-Estimated-ARD-Report.pdf
+ARD-PPRN,ARD,ANNUAL RENEWAL DEMAND,PPRN,https://files.hudexchange.info/resources/documents/FY-2016-CoC-Program-Competition-Final-ARD-Report.pdf
+ARD-PPRN,ARD,ANNUAL RENEWAL DEMAND,PPRN,https://files.hudexchange.info/resources/documents/FY-2018-CoC-Program-Estimated-ARD.pdf
+ARD-PPRN,ARD,ANNUAL RENEWAL DEMAND,PPRN,https://files.hudexchange.info/resources/documents/FY-2015-CoC-Program-Competition-ARD-Report.pdf
+ARD-PPRN,ARD,ANNUAL RENEWAL DEMAND,PPRN,https://files.hudexchange.info/resources/documents/FY-2017-CoC-Program-Estimated-ARD-Report.pdf
+ARD-PPRN,ARD,ANNUAL RENEWAL DEMAND,PPRN,https://files.hudexchange.info/resources/documents/FY-2019-CoC-Program-Estimated-ARD.pdf
+CEN-POPULATION DENSITY,CEN,CENSUS,POPULATION DENSITY,"https://api.census.gov/data/2018/pep/population?get=STATE,LASTUPDATE,DATE_CODE,DATE_DESC,POP,DENSITY,GEONAME&for=place:*&in=state:*&key=730fdc7316bd78b135fb4d13af96f86b014ce1cd"
+CEN-POPULATION ESTIMATE,CEN,CENSUS,POPULATION ESTIMATE,"https://api.census.gov/data/2018/pep/population?get=STATE,LASTUPDATE,DATE_CODE,DATE_DESC,POP,DENSITY,GEONAME&for=place:*&in=state:*&key=730fdc7316bd78b135fb4d13af96f86b014ce1cd"
+CAA-COC AWARD AMOUNT,CAA,CONTINUUM OF CARE ANNUAL AWARD AMOUNT,COC AWARD AMOUNT,https://www.hudexchange.info/grantees/allocations-awards/
+"DOE-#DOUBLED UP",DOE,DEPARTMENT OF EDUCATION,"#DOUBLED UP",https://www2.ed.gov/about/inits/ed/edfacts/data-files/school-status-data.html
+DOE-TOTAL COUNT,DOE,DEPARTMENT OF EDUCATION,TOTAL COUNT,https://www2.ed.gov/about/inits/ed/edfacts/data-files/school-status-data.html
+"DOE-#SHELTERED",DOE,DEPARTMENT OF EDUCATION,"#SHELTERED",https://www2.ed.gov/about/inits/ed/edfacts/data-files/school-status-data.html
+"DOE-#UNACCOMPANIED YOUTH",DOE,DEPARTMENT OF EDUCATION,"#UNACCOMPANIED YOUTH",https://www2.ed.gov/about/inits/ed/edfacts/data-files/school-status-data.html
+"DOE-#UNSHELTERED",DOE,DEPARTMENT OF EDUCATION,"#UNSHELTERED",https://www2.ed.gov/about/inits/ed/edfacts/data-files/school-status-data.html
+"DOE-#HOTEL/MOTEL",DOE,DEPARTMENT OF EDUCATION,"#HOTEL/MOTEL",https://www2.ed.gov/about/inits/ed/edfacts/data-files/school-status-data.html
+GIW-TH-SUPPORTIVE SERVICES BUDGET,GIW,GRANTS INVENTORY WORKSHEET,TH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-TH-ADMINISTRATION BUDGET,GIW,GRANTS INVENTORY WORKSHEET,TH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-TH-LEASING BUDGET,GIW,GRANTS INVENTORY WORKSHEET,TH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-TH-HMIS BUDGET,GIW,GRANTS INVENTORY WORKSHEET,TH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-TH-ANNUAL RENEWAL AMOUNT,GIW,GRANTS INVENTORY WORKSHEET,TH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-JOINT TH & PH RRH-RENTAL ASSISTANCE BUDGET,GIW,GRANTS INVENTORY WORKSHEET,JOINT TH & PH RRH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-JOINT TH & PH RRH-OPERATING BUDGET,GIW,GRANTS INVENTORY WORKSHEET,JOINT TH & PH RRH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-JOINT TH & PH RRH-LEASING BUDGET,GIW,GRANTS INVENTORY WORKSHEET,JOINT TH & PH RRH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-JOINT TH & PH RRH-SUPPORTIVE SERVICES BUDGET,GIW,GRANTS INVENTORY WORKSHEET,JOINT TH & PH RRH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-JOINT TH & PH RRH-ADMINISTRATION BUDGET,GIW,GRANTS INVENTORY WORKSHEET,JOINT TH & PH RRH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-JOINT TH & PH RRH-ANNUAL RENEWAL AMOUNT,GIW,GRANTS INVENTORY WORKSHEET,JOINT TH & PH RRH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-JOINT TH & PH RRH-HMIS BUDGET,GIW,GRANTS INVENTORY WORKSHEET,JOINT TH & PH RRH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-PH-HMIS BUDGET,GIW,GRANTS INVENTORY WORKSHEET,PH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-PH-LEASING BUDGET,GIW,GRANTS INVENTORY WORKSHEET,PH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SH-ADMINISTRATION BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-PH-ANNUAL RENEWAL AMOUNT,GIW,GRANTS INVENTORY WORKSHEET,PH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-PH-SUPPORTIVE SERVICES BUDGET,GIW,GRANTS INVENTORY WORKSHEET,PH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-PH-ADMINISTRATION BUDGET,GIW,GRANTS INVENTORY WORKSHEET,PH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-PH-OPERATING BUDGET,GIW,GRANTS INVENTORY WORKSHEET,PH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SH-RENTAL ASSISTANCE BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SH-SUPPORTIVE SERVICES BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-PH-RENTAL ASSISTANCE BUDGET,GIW,GRANTS INVENTORY WORKSHEET,PH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-TH-OPERATING BUDGET,GIW,GRANTS INVENTORY WORKSHEET,TH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SH-ANNUAL RENEWAL AMOUNT,GIW,GRANTS INVENTORY WORKSHEET,SH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SH-HMIS BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SH-LEASING BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SH-OPERATING BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SSO NON CE-HMIS BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SSO NON CE,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SSO NON CE-ANNUAL RENEWAL AMOUNT,GIW,GRANTS INVENTORY WORKSHEET,SSO NON CE,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-HMIS-LEASING BUDGET,GIW,GRANTS INVENTORY WORKSHEET,HMIS,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SSO NON CE-LEASING BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SSO NON CE,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SSO NON CE-SUPPORTIVE SERVICES BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SSO NON CE,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-HMIS-OPERATING BUDGET,GIW,GRANTS INVENTORY WORKSHEET,HMIS,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-HMIS-ANNUAL RENEWAL AMOUNT,GIW,GRANTS INVENTORY WORKSHEET,HMIS,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-HMIS-ADMINISTRATION BUDGET,GIW,GRANTS INVENTORY WORKSHEET,HMIS,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-HMIS-HMIS BUDGET,GIW,GRANTS INVENTORY WORKSHEET,HMIS,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-HMIS-SUPPORTIVE SERVICES BUDGET,GIW,GRANTS INVENTORY WORKSHEET,HMIS,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-HMIS-RENTAL ASSISTANCE BUDGET,GIW,GRANTS INVENTORY WORKSHEET,HMIS,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SSO-ADMINISTRATION BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SSO,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SSO-OPERATING BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SSO,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SSO-ANNUAL RENEWAL AMOUNT,GIW,GRANTS INVENTORY WORKSHEET,SSO,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SSO NON CE-ADMINISTRATION BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SSO NON CE,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-TH-RENTAL ASSISTANCE BUDGET,GIW,GRANTS INVENTORY WORKSHEET,TH,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SSO-HMIS BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SSO,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SSO-LEASING BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SSO,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SSO NON CE-OPERATING BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SSO NON CE,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SSO NON CE-RENTAL ASSISTANCE BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SSO NON CE,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SSO-SUPPORTIVE SERVICES BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SSO,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+GIW-SSO-RENTAL ASSISTANCE BUDGET,GIW,GRANTS INVENTORY WORKSHEET,SSO,https://www.hudexchange.info/programs/coc/coc-giw-reports/
+HIC-PSH-DEDICATED YOUTH BEDS,HIC,HOUSING INVENTORY COUNT,PSH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-PSH-DEDICATED VETERAN BEDS,HIC,HOUSING INVENTORY COUNT,PSH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-PSH-TOTAL BEDS FOR HOUSEHOLDS WITH ONLY CHILDREN,HIC,HOUSING INVENTORY COUNT,PSH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-PSH-TOTAL CHRONIC HOMELESS BEDS,HIC,HOUSING INVENTORY COUNT,PSH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-RRH-DEDICATED YOUTH BEDS,HIC,HOUSING INVENTORY COUNT,RRH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-PSH-TOTAL BEDS FOR HOUSEHOLDS WITHOUT CHILDREN,HIC,HOUSING INVENTORY COUNT,PSH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-PSH-TOTAL HMIS YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,PSH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-PSH-TOTAL NON DV YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,PSH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-PSH-TOTAL BEDS FOR HOUSEHOLDS WITH CHILDREN,HIC,HOUSING INVENTORY COUNT,PSH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-ES-TOTAL YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,ES,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-ES-TOTAL SEASONAL BEDS,HIC,HOUSING INVENTORY COUNT,ES,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-TH-TOTAL UNITS FOR HOUSEHOLDS WITH CHILDREN,HIC,HOUSING INVENTORY COUNT,TH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-ES-TOTAL UNITS FOR HOUSEHOLDS WITH CHILDREN,HIC,HOUSING INVENTORY COUNT,ES,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-PSH-TOTAL YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,PSH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-PSH-TOTAL UNITS FOR HOUSEHOLDS WITH CHILDREN,HIC,HOUSING INVENTORY COUNT,PSH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-ES-TOTAL OVERFLOW BEDS,HIC,HOUSING INVENTORY COUNT,ES,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-ES-DEDICATED VETERAN BEDS,HIC,HOUSING INVENTORY COUNT,ES,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-RRH-DEDICATED VETERAN BEDS,HIC,HOUSING INVENTORY COUNT,RRH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-SH-TOTAL UNITS FOR HOUSEHOLDS WITH CHILDREN,HIC,HOUSING INVENTORY COUNT,SH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-SH-TOTAL YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,SH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-TH-TOTAL BEDS FOR HOUSEHOLDS WITH ONLY CHILDREN,HIC,HOUSING INVENTORY COUNT,TH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-TH-DEDICATED YOUTH BEDS,HIC,HOUSING INVENTORY COUNT,TH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-TH-TOTAL BEDS FOR HOUSEHOLDS WITHOUT CHILDREN,HIC,HOUSING INVENTORY COUNT,TH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-SH-TOTAL BEDS FOR HOUSEHOLDS WITH CHILDREN,HIC,HOUSING INVENTORY COUNT,SH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-TH-TOTAL HMIS YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,TH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-TH-TOTAL NON DV YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,TH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-TH-DEDICATED VETERAN BEDS,HIC,HOUSING INVENTORY COUNT,TH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-SH-DEDICATED VETERAN BEDS,HIC,HOUSING INVENTORY COUNT,SH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-SH-DEDICATED YOUTH BEDS,HIC,HOUSING INVENTORY COUNT,SH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-TH-TOTAL BEDS FOR HOUSEHOLDS WITH CHILDREN,HIC,HOUSING INVENTORY COUNT,TH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-RRH-TOTAL BEDS FOR HOUSEHOLDS WITHOUT CHILDREN,HIC,HOUSING INVENTORY COUNT,RRH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-RRH-TOTAL HMIS YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,RRH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-RRH-TOTAL UNITS FOR HOUSEHOLDS WITH CHILDREN,HIC,HOUSING INVENTORY COUNT,RRH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-TH-TOTAL YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,TH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-RRH-TOTAL BEDS FOR HOUSEHOLDS WITH CHILDREN,HIC,HOUSING INVENTORY COUNT,RRH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-RRH-TOTAL NON DV YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,RRH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-SH-TOTAL BEDS FOR HOUSEHOLDS WITH ONLY CHILDREN,HIC,HOUSING INVENTORY COUNT,SH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-SH-TOTAL NON DV YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,SH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-SH-TOTAL HMIS YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,SH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-RRH-TOTAL YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,RRH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-SH-TOTAL BEDS FOR HOUSEHOLDS WITHOUT CHILDREN,HIC,HOUSING INVENTORY COUNT,SH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-OPH-TOTAL YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,OPH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-ES-TOTAL HMIS YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,ES,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-ES-TOTAL BEDS FOR HOUSEHOLDS WITHOUT CHILDREN,HIC,HOUSING INVENTORY COUNT,ES,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-OPH-DEDICATED YOUTH BEDS,HIC,HOUSING INVENTORY COUNT,OPH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-ES-TOTAL NON DV YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,ES,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-ES-DEDICATED YOUTH BEDS,HIC,HOUSING INVENTORY COUNT,ES,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-ES-TOTAL BEDS FOR HOUSEHOLDS WITH CHILDREN,HIC,HOUSING INVENTORY COUNT,ES,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-ES-TOTAL BEDS FOR HOUSEHOLDS WITH ONLY CHILDREN,HIC,HOUSING INVENTORY COUNT,ES,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-RRH-TOTAL BEDS FOR HOUSEHOLDS WITH ONLY CHILDREN,HIC,HOUSING INVENTORY COUNT,RRH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-OPH-TOTAL HMIS YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,OPH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-OPH-TOTAL BEDS FOR HOUSEHOLDS WITH ONLY CHILDREN,HIC,HOUSING INVENTORY COUNT,OPH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-OPH-DEDICATED VETERAN BEDS,HIC,HOUSING INVENTORY COUNT,OPH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-OPH-TOTAL BEDS FOR HOUSEHOLDS WITH CHILDREN,HIC,HOUSING INVENTORY COUNT,OPH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-OPH-TOTAL UNITS FOR HOUSEHOLDS WITH CHILDREN,HIC,HOUSING INVENTORY COUNT,OPH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-OPH-TOTAL BEDS FOR HOUSEHOLDS WITHOUT CHILDREN,HIC,HOUSING INVENTORY COUNT,OPH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HIC-OPH-TOTAL NON DV YEAR ROUND BEDS,HIC,HOUSING INVENTORY COUNT,OPH,https://www.hudexchange.info/resources/documents/2007-2018-HIC-Counts-by-CoC.xlsx
+HICR-OPH-HH W/O CHILDREN BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,OPH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-OPH-HH W/ CHILDREN BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,OPH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-SH-PIT COUNT,HICR,HOUSING INVENTORY COUNT RAW FILE,SH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-SH-TOTAL BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,SH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-OPH-UNITS HH W/ CHILDREN,HICR,HOUSING INVENTORY COUNT RAW FILE,OPH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-OPH-CH BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,OPH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-OPH-VETERAN BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,OPH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-OPH-PIT COUNT,HICR,HOUSING INVENTORY COUNT RAW FILE,OPH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-DEM-UNITS HH W/ CHILDREN,HICR,HOUSING INVENTORY COUNT RAW FILE,DEM,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-RRH-CH BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,RRH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-DEM-VETERAN BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,DEM,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-DEM-HH W/O CHILDREN BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,DEM,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-ES-TOTAL BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,ES,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-OPH-YOUTH BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,OPH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-RRH-HH W/ CHILDREN BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,RRH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-ES-HH W/ CHILDREN BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,ES,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-TH-VETERAN BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,TH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-TH-PIT COUNT,HICR,HOUSING INVENTORY COUNT RAW FILE,TH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-TH-UNITS HH W/ CHILDREN,HICR,HOUSING INVENTORY COUNT RAW FILE,TH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-TH-HH W/ CHILDREN BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,TH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-TH-TOTAL BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,TH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-ES-CH BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,ES,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-ES-UNITS HH W/ CHILDREN,HICR,HOUSING INVENTORY COUNT RAW FILE,ES,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-TH-HH W/O CHILDREN BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,TH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-TH-CH BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,TH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-TH-YOUTH BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,TH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-SH-HH W/O CHILDREN BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,SH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-SH-VETERAN BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,SH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-SH-HH W/ CHILDREN BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,SH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-OPH-TOTAL BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,OPH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-DEM-CH BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,DEM,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-ES-VETERAN BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,ES,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-DEM-HH W/ CHILDREN BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,DEM,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-ES-YOUTH BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,ES,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-SH-YOUTH BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,SH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-SH-UNITS HH W/ CHILDREN,HICR,HOUSING INVENTORY COUNT RAW FILE,SH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-PSH-HH W/ CHILDREN BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,PSH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-PSH-HH W/O CHILDREN BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,PSH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-PSH-YOUTH BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,PSH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-PSH-CH BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,PSH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-PSH-PIT COUNT,HICR,HOUSING INVENTORY COUNT RAW FILE,PSH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-PSH-TOTAL BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,PSH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-PSH-UNITS HH W/ CHILDREN,HICR,HOUSING INVENTORY COUNT RAW FILE,PSH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-DEM-PIT COUNT,HICR,HOUSING INVENTORY COUNT RAW FILE,DEM,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-ES-HH W/O CHILDREN BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,ES,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-ES-PIT COUNT,HICR,HOUSING INVENTORY COUNT RAW FILE,ES,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-PSH-VETERAN BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,PSH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-DEM-TOTAL BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,DEM,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-SH-CH BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,SH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-RRH-VETERAN BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,RRH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-RRH-HH W/O CHILDREN BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,RRH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-RRH-PIT COUNT,HICR,HOUSING INVENTORY COUNT RAW FILE,RRH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-RRH-YOUTH BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,RRH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-RRH-TOTAL BEDS,HICR,HOUSING INVENTORY COUNT RAW FILE,RRH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-DEM-YOUTH BEDS (TOTAL),HICR,HOUSING INVENTORY COUNT RAW FILE,DEM,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+HICR-RRH-UNITS HH W/ CHILDREN,HICR,HOUSING INVENTORY COUNT RAW FILE,RRH,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+PIT-SHELTERED ES CHRONICALLY HOMELESS INDIVIDUALS,PIT,POINT IN TIME COUNT,SHELTERED ES CHRONICALLY HOMELESS INDIVIDUALS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED ES CHRONICALLY HOMELESS PEOPLE IN FAMILIES,PIT,POINT IN TIME COUNT,SHELTERED ES CHRONICALLY HOMELESS PEOPLE IN FAMILIES,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED ES CHRONICALLY HOMELESS,PIT,POINT IN TIME COUNT,SHELTERED ES CHRONICALLY HOMELESS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TH HOMELESS PARENTING YOUTH UNDER 18,PIT,POINT IN TIME COUNT,SHELTERED TH HOMELESS PARENTING YOUTH UNDER 18,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED ES HOMELESS INDIVIDUALS,PIT,POINT IN TIME COUNT,SHELTERED ES HOMELESS INDIVIDUALS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED ES HOMELESS PARENTING YOUTH (UNDER 25),PIT,POINT IN TIME COUNT,SHELTERED ES HOMELESS PARENTING YOUTH (UNDER 25),https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED ES HOMELESS FAMILY HOUSEHOLDS,PIT,POINT IN TIME COUNT,SHELTERED ES HOMELESS FAMILY HOUSEHOLDS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED ES HOMELESS,PIT,POINT IN TIME COUNT,SHELTERED ES HOMELESS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED ES HOMELESS CHILDREN OF PARENTING YOUTH,PIT,POINT IN TIME COUNT,SHELTERED ES HOMELESS CHILDREN OF PARENTING YOUTH,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TH HOMELESS PEOPLE IN FAMILIES,PIT,POINT IN TIME COUNT,SHELTERED TH HOMELESS PEOPLE IN FAMILIES,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-HOMELESS INDIVIDUALS,PIT,POINT IN TIME COUNT,HOMELESS INDIVIDUALS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-HOMELESS PARENTING YOUTH AGE 18 TO 24,PIT,POINT IN TIME COUNT,HOMELESS PARENTING YOUTH AGE 18 TO 24,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-HOMELESS PARENTING YOUTH (UNDER 25),PIT,POINT IN TIME COUNT,HOMELESS PARENTING YOUTH (UNDER 25),https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-OVERALL HOMELESS,PIT,POINT IN TIME COUNT,OVERALL HOMELESS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-HOMELESS FAMILY HOUSEHOLDS,PIT,POINT IN TIME COUNT,HOMELESS FAMILY HOUSEHOLDS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-HOMELESS CHILDREN OF PARENTING YOUTH,PIT,POINT IN TIME COUNT,HOMELESS CHILDREN OF PARENTING YOUTH,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-HOMELESS PARENTING YOUTH UNDER 18,PIT,POINT IN TIME COUNT,HOMELESS PARENTING YOUTH UNDER 18,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-HOMELESS PEOPLE IN FAMILIES,PIT,POINT IN TIME COUNT,HOMELESS PEOPLE IN FAMILIES,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED ES HOMELESS PARENTING YOUTH AGE 18 TO 24,PIT,POINT IN TIME COUNT,SHELTERED ES HOMELESS PARENTING YOUTH AGE 18 TO 24,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED SH HOMELESS INDIVIDUALS,PIT,POINT IN TIME COUNT,SHELTERED SH HOMELESS INDIVIDUALS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED SH HOMELESS UNACCOMPANIED YOUTH (UNDER 25),PIT,POINT IN TIME COUNT,SHELTERED SH HOMELESS UNACCOMPANIED YOUTH (UNDER 25),https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED SH HOMELESS,PIT,POINT IN TIME COUNT,SHELTERED SH HOMELESS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TH HOMELESS FAMILY HOUSEHOLDS,PIT,POINT IN TIME COUNT,SHELTERED TH HOMELESS FAMILY HOUSEHOLDS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED SH CHRONICALLY HOMELESS INDIVIDUALS,PIT,POINT IN TIME COUNT,SHELTERED SH CHRONICALLY HOMELESS INDIVIDUALS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TH HOMELESS,PIT,POINT IN TIME COUNT,SHELTERED TH HOMELESS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TH HOMELESS CHILDREN OF PARENTING YOUTH,PIT,POINT IN TIME COUNT,SHELTERED TH HOMELESS CHILDREN OF PARENTING YOUTH,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED SH HOMELESS VETERANS,PIT,POINT IN TIME COUNT,SHELTERED SH HOMELESS VETERANS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED SH HOMELESS UNACCOMPANIED YOUTH AGE 18 TO 24,PIT,POINT IN TIME COUNT,SHELTERED SH HOMELESS UNACCOMPANIED YOUTH AGE 18 TO 24,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED SH HOMELESS UNACCOMPANIED YOUTH UNDER 18,PIT,POINT IN TIME COUNT,SHELTERED SH HOMELESS UNACCOMPANIED YOUTH UNDER 18,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED ES HOMELESS UNACCOMPANIED YOUTH AGE 18 TO 24,PIT,POINT IN TIME COUNT,SHELTERED ES HOMELESS UNACCOMPANIED YOUTH AGE 18 TO 24,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED ES HOMELESS UNACCOMPANIED YOUTH UNDER 18,PIT,POINT IN TIME COUNT,SHELTERED ES HOMELESS UNACCOMPANIED YOUTH UNDER 18,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED ES HOMELESS UNACCOMPANIED YOUTH (UNDER 25),PIT,POINT IN TIME COUNT,SHELTERED ES HOMELESS UNACCOMPANIED YOUTH (UNDER 25),https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED ES HOMELESS PARENTING YOUTH UNDER 18,PIT,POINT IN TIME COUNT,SHELTERED ES HOMELESS PARENTING YOUTH UNDER 18,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED ES HOMELESS PEOPLE IN FAMILIES,PIT,POINT IN TIME COUNT,SHELTERED ES HOMELESS PEOPLE IN FAMILIES,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TH HOMELESS INDIVIDUALS,PIT,POINT IN TIME COUNT,SHELTERED TH HOMELESS INDIVIDUALS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED SH CHRONICALLY HOMELESS,PIT,POINT IN TIME COUNT,SHELTERED SH CHRONICALLY HOMELESS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TH HOMELESS PARENTING YOUTH (UNDER 25),PIT,POINT IN TIME COUNT,SHELTERED TH HOMELESS PARENTING YOUTH (UNDER 25),https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED ES HOMELESS VETERANS,PIT,POINT IN TIME COUNT,SHELTERED ES HOMELESS VETERANS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TH HOMELESS PARENTING YOUTH AGE 18 TO 24,PIT,POINT IN TIME COUNT,SHELTERED TH HOMELESS PARENTING YOUTH AGE 18 TO 24,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-HOMELESS UNACCOMPANIED YOUTH (UNDER 25),PIT,POINT IN TIME COUNT,HOMELESS UNACCOMPANIED YOUTH (UNDER 25),https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-UNSHELTERED HOMELESS,PIT,POINT IN TIME COUNT,UNSHELTERED HOMELESS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-UNSHELTERED CHRONICALLY HOMELESS PEOPLE IN FAMILIES,PIT,POINT IN TIME COUNT,UNSHELTERED CHRONICALLY HOMELESS PEOPLE IN FAMILIES,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-UNSHELTERED HOMELESS CHILDREN OF PARENTING YOUTH,PIT,POINT IN TIME COUNT,UNSHELTERED HOMELESS CHILDREN OF PARENTING YOUTH,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-UNSHELTERED HOMELESS INDIVIDUALS,PIT,POINT IN TIME COUNT,UNSHELTERED HOMELESS INDIVIDUALS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-UNSHELTERED HOMELESS FAMILY HOUSEHOLDS,PIT,POINT IN TIME COUNT,UNSHELTERED HOMELESS FAMILY HOUSEHOLDS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TOTAL HOMELESS UNACCOMPANIED YOUTH AGE 18 TO 24,PIT,POINT IN TIME COUNT,SHELTERED TOTAL HOMELESS UNACCOMPANIED YOUTH AGE 18 TO 24,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TOTAL HOMELESS UNACCOMPANIED YOUTH (UNDER 25),PIT,POINT IN TIME COUNT,SHELTERED TOTAL HOMELESS UNACCOMPANIED YOUTH (UNDER 25),https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TOTAL HOMELESS UNACCOMPANIED YOUTH UNDER 18,PIT,POINT IN TIME COUNT,SHELTERED TOTAL HOMELESS UNACCOMPANIED YOUTH UNDER 18,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-UNSHELTERED CHRONICALLY HOMELESS INDIVIDUALS,PIT,POINT IN TIME COUNT,UNSHELTERED CHRONICALLY HOMELESS INDIVIDUALS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TOTAL HOMELESS VETERANS,PIT,POINT IN TIME COUNT,SHELTERED TOTAL HOMELESS VETERANS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-UNSHELTERED HOMELESS UNACCOMPANIED YOUTH AGE 18 TO 24,PIT,POINT IN TIME COUNT,UNSHELTERED HOMELESS UNACCOMPANIED YOUTH AGE 18 TO 24,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-CHRONICALLY HOMELESS INDIVIDUALS,PIT,POINT IN TIME COUNT,CHRONICALLY HOMELESS INDIVIDUALS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-UNSHELTERED HOMELESS UNACCOMPANIED YOUTH UNDER 18,PIT,POINT IN TIME COUNT,UNSHELTERED HOMELESS UNACCOMPANIED YOUTH UNDER 18,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-UNSHELTERED HOMELESS VETERANS,PIT,POINT IN TIME COUNT,UNSHELTERED HOMELESS VETERANS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-CHRONICALLY HOMELESS PEOPLE IN FAMILIES,PIT,POINT IN TIME COUNT,CHRONICALLY HOMELESS PEOPLE IN FAMILIES,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-UNSHELTERED HOMELESS PARENTING YOUTH AGE 18 TO 24,PIT,POINT IN TIME COUNT,UNSHELTERED HOMELESS PARENTING YOUTH AGE 18 TO 24,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-UNSHELTERED HOMELESS PARENTING YOUTH (UNDER 25),PIT,POINT IN TIME COUNT,UNSHELTERED HOMELESS PARENTING YOUTH (UNDER 25),https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-UNSHELTERED HOMELESS PARENTING YOUTH UNDER 18,PIT,POINT IN TIME COUNT,UNSHELTERED HOMELESS PARENTING YOUTH UNDER 18,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-UNSHELTERED HOMELESS UNACCOMPANIED YOUTH (UNDER 25),PIT,POINT IN TIME COUNT,UNSHELTERED HOMELESS UNACCOMPANIED YOUTH (UNDER 25),https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-UNSHELTERED HOMELESS PEOPLE IN FAMILIES,PIT,POINT IN TIME COUNT,UNSHELTERED HOMELESS PEOPLE IN FAMILIES,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TOTAL HOMELESS PEOPLE IN FAMILIES,PIT,POINT IN TIME COUNT,SHELTERED TOTAL HOMELESS PEOPLE IN FAMILIES,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TH HOMELESS UNACCOMPANIED YOUTH AGE 18 TO 24,PIT,POINT IN TIME COUNT,SHELTERED TH HOMELESS UNACCOMPANIED YOUTH AGE 18 TO 24,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TH HOMELESS UNACCOMPANIED YOUTH (UNDER 25),PIT,POINT IN TIME COUNT,SHELTERED TH HOMELESS UNACCOMPANIED YOUTH (UNDER 25),https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TH HOMELESS VETERANS,PIT,POINT IN TIME COUNT,SHELTERED TH HOMELESS VETERANS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TH HOMELESS UNACCOMPANIED YOUTH UNDER 18,PIT,POINT IN TIME COUNT,SHELTERED TH HOMELESS UNACCOMPANIED YOUTH UNDER 18,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-UNSHELTERED CHRONICALLY HOMELESS,PIT,POINT IN TIME COUNT,UNSHELTERED CHRONICALLY HOMELESS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-HOMELESS UNACCOMPANIED YOUTH UNDER 18,PIT,POINT IN TIME COUNT,HOMELESS UNACCOMPANIED YOUTH UNDER 18,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-HOMELESS UNACCOMPANIED YOUTH AGE 18 TO 24,PIT,POINT IN TIME COUNT,HOMELESS UNACCOMPANIED YOUTH AGE 18 TO 24,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-CHRONICALLY HOMELESS,PIT,POINT IN TIME COUNT,CHRONICALLY HOMELESS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-HOMELESS VETERANS,PIT,POINT IN TIME COUNT,HOMELESS VETERANS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TOTAL CHRONICALLY HOMELESS,PIT,POINT IN TIME COUNT,SHELTERED TOTAL CHRONICALLY HOMELESS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TOTAL HOMELESS INDIVIDUALS,PIT,POINT IN TIME COUNT,SHELTERED TOTAL HOMELESS INDIVIDUALS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TOTAL HOMELESS FAMILY HOUSEHOLDS,PIT,POINT IN TIME COUNT,SHELTERED TOTAL HOMELESS FAMILY HOUSEHOLDS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TOTAL HOMELESS PARENTING YOUTH (UNDER 25),PIT,POINT IN TIME COUNT,SHELTERED TOTAL HOMELESS PARENTING YOUTH (UNDER 25),https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TOTAL HOMELESS PARENTING YOUTH UNDER 18,PIT,POINT IN TIME COUNT,SHELTERED TOTAL HOMELESS PARENTING YOUTH UNDER 18,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TOTAL HOMELESS PARENTING YOUTH AGE 18 TO 24,PIT,POINT IN TIME COUNT,SHELTERED TOTAL HOMELESS PARENTING YOUTH AGE 18 TO 24,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TOTAL CHRONICALLY HOMELESS PEOPLE IN FAMILIES,PIT,POINT IN TIME COUNT,SHELTERED TOTAL CHRONICALLY HOMELESS PEOPLE IN FAMILIES,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TOTAL CHRONICALLY HOMELESS INDIVIDUALS,PIT,POINT IN TIME COUNT,SHELTERED TOTAL CHRONICALLY HOMELESS INDIVIDUALS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TOTAL HOMELESS CHILDREN OF PARENTING YOUTH,PIT,POINT IN TIME COUNT,SHELTERED TOTAL HOMELESS CHILDREN OF PARENTING YOUTH,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PIT-SHELTERED TOTAL HOMELESS,PIT,POINT IN TIME COUNT,SHELTERED TOTAL HOMELESS,https://www.hudexchange.info/resources/documents/2007-2018-PIT-Counts-by-CoC.xlsx
+PITR-UNSHELTERED-ASIAN/PACIFIC ISLANDER PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-BLACK PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-HISPANIC PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-NATIVE AMERICAN/ALASKAN PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-NATIVE AMERICAN/ALASKAN PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-HISPANIC PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-HISPANIC PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-NATIVE AMERICAN/ALASKAN PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-HISPANIC PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-HISPANIC PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-NATIVE AMERICAN/ALASKAN PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-ASIAN/PACIFIC ISLANDER PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-BLACK PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-NATIVE AMERICAN/ALASKAN PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-ASIAN/PACIFIC ISLANDER PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-BLACK PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-ASIAN/PACIFIC ISLANDER PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-BLACK PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-ASIAN/PACIFIC ISLANDER PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-BLACK PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-NON HISPANIC PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-NON HISPANIC PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-NON HISPANIC PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-NON HISPANIC PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-OTHER/MULTI RACIAL PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-OTHER/MULTI RACIAL PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-OTHER/MULTI RACIAL PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-OTHER/MULTI RACIAL PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-OTHER/MULTI RACIAL PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-NON HISPANIC PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-WHITE PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-WHITE PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-WHITE PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-WHITE PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-UNSHELTERED-WHITE PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,UNSHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-NON HISPANIC PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-NON HISPANIC PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-OTHER/MULTI RACIAL PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-NON HISPANIC PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-NATIVE AMERICAN/ALASKAN PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-NATIVE AMERICAN/ALASKAN PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-OTHER/MULTI RACIAL PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-OTHER/MULTI RACIAL PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-OTHER/MULTI RACIAL PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-OTHER/MULTI RACIAL PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-OTHER/MULTI RACIAL PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-HISPANIC PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-HISPANIC PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-HISPANIC PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-NON HISPANIC PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-NON HISPANIC PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-OTHER/MULTI RACIAL PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-OTHER/MULTI RACIAL PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-HISPANIC PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-BLACK PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-HISPANIC PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-HISPANIC PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-NATIVE AMERICAN/ALASKAN PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-NATIVE AMERICAN/ALASKAN PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-WHITE PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-WHITE PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-WHITE PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-HISPANIC PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-WHITE PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-WHITE PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-HISPANIC PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-BLACK PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-ASIAN/PACIFIC ISLANDER PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-BLACK PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-OTHER/MULTI RACIAL PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-NATIVE AMERICAN/ALASKAN PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-ASIAN/PACIFIC ISLANDER PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-ASIAN/PACIFIC ISLANDER PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-BLACK PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-BLACK PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-ASIAN/PACIFIC ISLANDER PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-OVERALL-ASIAN/PACIFIC ISLANDER PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,OVERALL,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-NON HISPANIC PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-BLACK PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-BLACK PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-ASIAN/PACIFIC ISLANDER PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-WHITE PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-ASIAN/PACIFIC ISLANDER PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-ASIAN/PACIFIC ISLANDER PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-NATIVE AMERICAN/ALASKAN PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-WHITE PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-WHITE PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-NON HISPANIC PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-NON HISPANIC PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-BLACK PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-OTHER/MULTI RACIAL PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-NATIVE AMERICAN/ALASKAN PERSONS IN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-NATIVE AMERICAN/ALASKAN PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-BLACK PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-NATIVE AMERICAN/ALASKAN PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-NON HISPANIC PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-HISPANIC PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-HISPANIC PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-ASIAN/PACIFIC ISLANDER PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-ASIAN/PACIFIC ISLANDER PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-NATIVE AMERICAN/ALASKAN PERSONS IN VETERAN HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-NON HISPANIC PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-WHITE PERSONS IN YOUTH HOUSEHOLDS,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-WHITE PERSONS IN FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+PITR-SHELTERED-BLACK PERSONS IN YOUTH FAMILIES,PITR,POINT IN TIME COUNT RACE & ETHNICITY ANALYSIS,SHELTERED,https://www.hudexchange.info/resource/5787/coc-analysis-tool-race-and-ethnicity/
+SPM2-TOTAL PERSONS RETURNS IN 12 MTHS (SHOULD INCLUDE THE 6 MONTH COHORT),SPM2,SYSTEM PERFORMANCE MEASURE 2,TOTAL PERSONS RETURNS IN 12 MTHS (SHOULD INCLUDE THE 6 MONTH COHORT),https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM2-TOTAL PERSONS RETURNS IN 6 MTHS,SPM2,SYSTEM PERFORMANCE MEASURE 2,TOTAL PERSONS RETURNS IN 6 MTHS,https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM2-TOTAL PERSONS RETURNS IN 24 MTHS (SHOULD INCLUDE BOTH THE 6 AND 12 MONTH CO,SPM2,SYSTEM PERFORMANCE MEASURE 2,TOTAL PERSONS RETURNS IN 24 MTHS (SHOULD INCLUDE BOTH THE 6 AND 12 MONTH CO,https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM2-TOTAL PERSONS EXITED (SO+ES+TH+SH+PH),SPM2,SYSTEM PERFORMANCE MEASURE 2,TOTAL PERSONS EXITED (SO+ES+TH+SH+PH),https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM3-TOTAL HMIS COUNT,SPM3,SYSTEM PERFORMANCE MEASURE 3,TOTAL HMIS COUNT,https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM4L-TOTAL LEAVERS INCREASED NON EMPLOYMENT CASH INCOME,SPM4L,SYSTEM PERFORMANCE MEASURE 4 LEAVERS,TOTAL LEAVERS INCREASED NON EMPLOYMENT CASH INCOME,https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM4L-TOTAL LEAVERS INCREASED TOTAL INCOME,SPM4L,SYSTEM PERFORMANCE MEASURE 4 LEAVERS,TOTAL LEAVERS INCREASED TOTAL INCOME,https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM4L-TOTAL LEAVERS (PERSONS),SPM4L,SYSTEM PERFORMANCE MEASURE 4 LEAVERS,TOTAL LEAVERS (PERSONS),https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM4L-TOTAL LEAVERS INCREASED EARNED INCOME,SPM4L,SYSTEM PERFORMANCE MEASURE 4 LEAVERS,TOTAL LEAVERS INCREASED EARNED INCOME,https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM4S-TOTAL STAYERS INCREASED EARNED INCOME,SPM4S,SYSTEM PERFORMANCE MEASURE 4 STAYERS,TOTAL STAYERS INCREASED EARNED INCOME,https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM4S-TOTAL STAYERS (PERSONS),SPM4S,SYSTEM PERFORMANCE MEASURE 4 STAYERS,TOTAL STAYERS (PERSONS),https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM4S-TOTAL STAYERS INCREASED TOTAL INCOME,SPM4S,SYSTEM PERFORMANCE MEASURE 4 STAYERS,TOTAL STAYERS INCREASED TOTAL INCOME,https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM4S-TOTAL STAYERS INCREASED NON EMPLOYMENT CASH INCOME,SPM4S,SYSTEM PERFORMANCE MEASURE 4 STAYERS,TOTAL STAYERS INCREASED NON EMPLOYMENT CASH INCOME,https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM7-TOTAL PERSONS EXITING PH OR REMAINING IN PH AT END OF REPORTING PERIOD (MEA,SPM7,SYSTEM PERFORMANCE MEASURE 7,TOTAL PERSONS EXITING PH OR REMAINING IN PH AT END OF REPORTING PERIOD (MEA,https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM7-TOTAL PERSONS EXITING STREET OUTREACH (SO),SPM7,SYSTEM PERFORMANCE MEASURE 7,TOTAL PERSONS EXITING STREET OUTREACH (SO),https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM7-TOTAL PERSONS EXITED SO TO TEMPORARY DESTINATIONS,SPM7,SYSTEM PERFORMANCE MEASURE 7,TOTAL PERSONS EXITED SO TO TEMPORARY DESTINATIONS,https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM7-TOTAL PERSONS EXITED SO TO PERMANENT DESTINATIONS,SPM7,SYSTEM PERFORMANCE MEASURE 7,TOTAL PERSONS EXITED SO TO PERMANENT DESTINATIONS,https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+"SPM7-TOTAL PERSONS EXITING ES, TH, SH, PH RRH",SPM7,SYSTEM PERFORMANCE MEASURE 7,"TOTAL PERSONS EXITING ES, TH, SH, PH RRH",https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+SPM7-TOTAL PERSONS EXITED PH TO PERMANENT DESTINATIONS OR REMAINED IN PH FOR 6+ ,SPM7,SYSTEM PERFORMANCE MEASURE 7,TOTAL PERSONS EXITED PH TO PERMANENT DESTINATIONS OR REMAINED IN PH FOR 6+ ,https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+"SPM7-TOTAL PERSONS EXITING ES, TH, SH, PH RRH TO PERMANENT HOUSING",SPM7,SYSTEM PERFORMANCE MEASURE 7,"TOTAL PERSONS EXITING ES, TH, SH, PH RRH TO PERMANENT HOUSING",https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+"SPM1-ES,SH MEDIAN (DAYS)",SPM1,SYSTEM PERFORMANCE MEASURE 1,"ES,SH MEDIAN (DAYS)",https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+"SPM1-ES,SH,TH AVG (DAYS)",SPM1,SYSTEM PERFORMANCE MEASURE 1,"ES,SH,TH AVG (DAYS)",https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+"SPM1-ES,SH,TH MEDIAN (DAYS)",SPM1,SYSTEM PERFORMANCE MEASURE 1,"ES,SH,TH MEDIAN (DAYS)",https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+"SPM1-ES,SH AVG (DAYS)",SPM1,SYSTEM PERFORMANCE MEASURE 1,"ES,SH AVG (DAYS)",https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+"SPM5-ES,SH,TH,PH 1ST TIME HOMELESS",SPM5,SYSTEM PERFORMANCE MEASURE 5,"ES,SH,TH,PH 1ST TIME HOMELESS",https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+"SPM5-ES,SH,TH 1ST TIME HOMELESS",SPM5,SYSTEM PERFORMANCE MEASURE 5,"ES,SH,TH 1ST TIME HOMELESS",https://www.hudexchange.info/resource/5691/system-performance-measures-data-since-fy-2015/
+VAHP-VETERAN HOUSING PLACEMENTS,VAHP,VETERAN HOUSING PLACEMENTS,VETERAN HOUSING PLACEMENTS,
