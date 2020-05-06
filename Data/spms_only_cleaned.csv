@@ -1,0 +1,1200 @@
+year,state,coc_name,coc_number,spm2_total_persons_exited_so_es_th_sh_ph,spm2_total_persons_returns_in_6_mths,spm2_total_persons_returns_in_12_mths_should_include_the_6_month_cohort,spm2_total_persons_returns_in_24_mths_should_include_both_the_6_and_12_month_cohort
+2017,AK,Anchorage CoC,AK-500,998,131,171,236
+2017,AK,Alaska Balance of State CoC,AK-501,272,13,24,34
+2017,AL,"Birmingham/Jefferson, St. Clair, Shelby Counties CoC",AL-500,736,205,303,392
+2017,AL,Mobile City & County/Baldwin County CoC,AL-501,220,25,44,50
+2017,AL,Florence/Northwest Alabama CoC,AL-502,0,0,0,0
+2017,AL,Huntsville/North Alabama CoC,AL-503,260,12,17,27
+2017,AL,Montgomery City & County CoC,AL-504,469,51,72,98
+2017,AL,Tuscaloosa City & County CoC,AL-506,213,7,15,23
+2017,AL,Alabama Balance of State CoC,AL-507,8,2,2,4
+2017,AR,Little Rock/Central Arkansas CoC,AR-500,766,47,74,130
+2017,AR,Fayetteville/Northwest Arkansas CoC,AR-501,124,10,10,16
+2017,AR,Arkansas  Balance of State  CoC,AR-503,317,28,35,55
+2017,AR,Southeast Arkansas CoC,AR-505,80,12,17,25
+2017,AR,Fort Smith CoC,AR-508,115,8,17,21
+2017,AZ,Arizona Balance of State CoC,AZ-500,1787,118,178,278
+2017,AZ,Tucson/Pima County CoC,AZ-501,2442,394,531,709
+2017,AZ,"Phoenix, Mesa/Maricopa County CoC",AZ-502,5657,618,989,1420
+2017,CA,San Jose/Santa Clara City & County CoC,CA-500,1598,126,197,261
+2017,CA,San Francisco CoC,CA-501,900,51,73,87
+2017,CA,"Oakland, Berkeley/Alameda County CoC",CA-502,2321,184,290,433
+2017,CA,Sacramento City & County CoC,CA-503,2982,312,456,721
+2017,CA,"Santa Rosa, Petaluma/Sonoma County CoC",CA-504,930,70,128,182
+2017,CA,Richmond/Contra Costa County CoC,CA-505,1120,78,115,178
+2017,CA,"Salinas/Monterey, San Benito Counties CoC",CA-506,695,46,72,88
+2017,CA,Marin County CoC,CA-507,341,42,65,79
+2017,CA,Watsonville/Santa Cruz City & County CoC,CA-508,339,10,32,48
+2017,CA,Mendocino County CoC,CA-509,107,9,10,16
+2017,CA,"Turlock, Modesto/Stanislaus County CoC",CA-510,743,63,93,135
+2017,CA,Stockton/San Joaquin County CoC,CA-511,910,92,141,194
+2017,CA,Daly/San Mateo County CoC,CA-512,1030,82,120,160
+2017,CA,"Visalia/Kings, Tulare Counties CoC",CA-513,524,49,79,116
+2017,CA,Fresno City & County/Madera County CoC,CA-514,994,71,93,135
+2017,CA,"Roseville, Rocklin/Placer, Nevada Counties CoC",CA-515,445,63,97,132
+2017,CA,"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",CA-516,1,0,0,0
+2017,CA,Napa City & County CoC,CA-517,290,38,71,96
+2017,CA,Vallejo/Solano County CoC,CA-518,221,17,28,33
+2017,CA,"Chico, Paradise/Butte County CoC",CA-519,301,48,71,104
+2017,CA,Merced City & County CoC,CA-520,48,4,7,14
+2017,CA,"Davis, Woodland/Yolo County CoC",CA-521,300,26,54,61
+2017,CA,Humboldt County CoC,CA-522,366,19,37,86
+2017,CA,"Colusa, Glenn, Trinity Counties CoC",CA-523,0,0,0,0
+2017,CA,Yuba City & County/Sutter County CoC,CA-524,82,3,3,3
+2017,CA,El Dorado County CoC,CA-525,40,8,11,13
+2017,CA,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",CA-526,380,12,18,34
+2017,CA,Tehama County CoC,CA-527,3,0,0,0
+2017,CA,"Alpine, Inyo, Mono Counties CoC",CA-530,31,3,3,3
+2017,CA,Los Angeles City & County CoC,CA-600,10120,652,1036,1576
+2017,CA,San Diego City and County CoC,CA-601,4962,678,964,1321
+2017,CA,"Santa Ana, Anaheim/Orange County CoC",CA-602,1976,87,122,202
+2017,CA,Santa Maria/Santa Barbara County CoC,CA-603,988,109,153,234
+2017,CA,Bakersfield/Kern County CoC,CA-604,1204,127,214,261
+2017,CA,Long Beach CoC,CA-606,722,36,47,75
+2017,CA,Pasadena CoC,CA-607,266,3,6,15
+2017,CA,Riverside City & County CoC,CA-608,2388,232,353,491
+2017,CA,San Bernardino City & County CoC,CA-609,2600,197,303,460
+2017,CA,"Oxnard, San Buenaventura/Ventura County CoC",CA-611,576,11,24,41
+2017,CA,Glendale CoC,CA-612,111,1,2,2
+2017,CA,Imperial County CoC,CA-613,321,34,78,95
+2017,CA,San Luis Obispo County CoC,CA-614,161,13,20,24
+2017,CO,Colorado Balance of State CoC,CO-500,900,68,104,154
+2017,CO,Metropolitan Denver CoC,CO-503,4105,660,885,1103
+2017,CO,Colorado Springs/El Paso County CoC,CO-504,1276,129,209,276
+2017,CT,"Bridgeport, Stamford, Norwalk/Fairfield County CoC",CT-503,1049,81,141,209
+2017,CT,Connecticut Balance of State CoC,CT-505,4265,426,667,921
+2017,DC,District of Columbia CoC,DC-500,5605,366,603,901
+2017,DE,Delaware Statewide CoC,DE-500,1278,131,196,277
+2017,FL,"Sarasota, Bradenton/Manatee, Sarasota Counties CoC",FL-500,1073,145,204,258
+2017,FL,Tampa/Hillsborough County CoC,FL-501,2139,162,234,364
+2017,FL,"St. Petersburg, Clearwater, Largo/Pinellas County CoC",FL-502,3068,717,901,1090
+2017,FL,"Lakeland, Winterhaven/Polk County CoC",FL-503,741,67,108,162
+2017,FL,"Daytona Beach, Daytona/Volusia, Flagler Counties CoC",FL-504,1089,96,114,154
+2017,FL,"Fort Walton Beach/Okaloosa, Walton Counties CoC",FL-505,370,18,21,37
+2017,FL,Tallahassee/Leon County CoC,FL-506,1012,158,231,302
+2017,FL,"Orlando/Orange, Osceola, Seminole Counties CoC",FL-507,2997,319,443,604
+2017,FL,"Gainesville/Alachua, Putnam Counties CoC",FL-508,951,107,161,206
+2017,FL,"Fort Pierce/St. Lucie, Indian River, Martin Counties CoC",FL-509,585,45,61,80
+2017,FL,"Jacksonville-Duval, Clay Counties CoC",FL-510,962,42,75,133
+2017,FL,"Pensacola/Escambia, Santa Rosa Counties CoC",FL-511,881,57,95,140
+2017,FL,St. Johns County CoC,FL-512,460,33,45,50
+2017,FL,"Palm Bay, Melbourne/Brevard County CoC",FL-513,741,43,76,111
+2017,FL,Ocala/Marion County CoC,FL-514,303,8,12,24
+2017,FL,"Panama City/Bay, Jackson Counties CoC",FL-515,428,30,48,77
+2017,FL,"Hendry, Hardee, Highlands Counties CoC",FL-517,0,0,0,0
+2017,FL,"Columbia, Hamilton, Lafayette, Suwannee Counties CoC",FL-518,413,178,184,187
+2017,FL,Pasco County CoC,FL-519,0,0,0,0
+2017,FL,"Citrus, Hernando, Lake, Sumter Counties CoC",FL-520,544,41,51,67
+2017,FL,Miami-Dade County CoC,FL-600,4192,626,862,1129
+2017,FL,Ft Lauderdale/Broward County CoC,FL-601,2123,323,459,627
+2017,FL,Punta Gorda/Charlotte County CoC,FL-602,733,44,64,89
+2017,FL,"Ft Myers, Cape Coral/Lee County CoC",FL-603,430,63,104,134
+2017,FL,Monroe County CoC,FL-604,405,55,88,99
+2017,FL,West Palm Beach/Palm Beach County CoC,FL-605,1972,159,241,356
+2017,FL,Naples/Collier County CoC,FL-606,84,7,8,9
+2017,GA,Atlanta CoC,GA-500,3652,344,546,757
+2017,GA,Georgia Balance of State CoC,GA-501,3651,186,314,450
+2017,GA,Fulton County CoC,GA-502,879,21,31,50
+2017,GA,Athens-Clarke County CoC,GA-503,290,23,39,53
+2017,GA,Augusta-Richmond County CoC,GA-504,344,33,44,53
+2017,GA,Columbus-Muscogee/Russell County CoC,GA-505,223,19,28,36
+2017,GA,Marietta/Cobb County CoC,GA-506,836,41,60,87
+2017,GA,Savannah/Chatham County CoC,GA-507,506,76,103,135
+2017,GA,DeKalb County CoC,GA-508,452,7,20,49
+2017,GU,Guam CoC,GU-500,262,11,23,38
+2017,HI,Hawaii Balance of State CoC,HI-500,1697,119,200,296
+2017,HI,Honolulu City and County CoC,HI-501,2946,308,474,626
+2017,IA,"Sioux City/Dakota, Woodbury Counties CoC",IA-500,169,1,8,8
+2017,IA,Iowa Balance of State CoC,IA-501,2693,186,326,493
+2017,IA,Des Moines/Polk County CoC,IA-502,1438,159,238,358
+2017,ID,Boise/Ada County CoC,ID-500,429,16,27,34
+2017,ID,Idaho Balance of State CoC,ID-501,1613,103,172,246
+2017,IL,McHenry County CoC,IL-500,140,7,9,15
+2017,IL,"Rockford/Winnebago, Boone Counties CoC",IL-501,268,6,15,33
+2017,IL,"Waukegan, North Chicago/Lake County CoC",IL-502,605,66,138,172
+2017,IL,"Champaign, Urbana, Rantoul/Champaign County CoC",IL-503,61,15,23,35
+2017,IL,Madison County CoC,IL-504,244,7,10,20
+2017,IL,"Joliet, Bolingbrook/Will County CoC",IL-506,256,16,35,53
+2017,IL,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties CoC",IL-507,364,2,17,41
+2017,IL,"East St. Louis, Belleville/St. Clair County CoC",IL-508,57,1,9,12
+2017,IL,Dekalb City & County CoC,IL-509,55,6,13,17
+2017,IL,Chicago CoC,IL-510,5852,661,985,1380
+2017,IL,Cook County CoC,IL-511,1054,105,139,172
+2017,IL,Bloomington/Central Illinois CoC,IL-512,309,20,37,46
+2017,IL,Springfield/Sangamon County CoC,IL-513,496,116,134,153
+2017,IL,DuPage County CoC,IL-514,444,55,65,77
+2017,IL,South Central Illinois CoC,IL-515,252,10,26,29
+2017,IL,Decatur/Macon County CoC,IL-516,197,4,7,9
+2017,IL,"Aurora, Elgin/Kane County CoC",IL-517,272,44,69,91
+2017,IL,"Rock Island, Moline/Northwestern Illinois CoC",IL-518,424,14,20,29
+2017,IL,West Central Illinois CoC,IL-519,372,22,44,59
+2017,IL,Southern Illinois CoC,IL-520,243,27,41,47
+2017,IN,Indiana Balance of State CoC,IN-502,4985,431,666,944
+2017,IN,Indianapolis CoC,IN-503,1591,110,184,306
+2017,KS,Wichita/Sedgwick County CoC,KS-502,985,100,156,210
+2017,KS,Topeka/Shawnee County CoC,KS-503,41,1,2,2
+2017,KS,"Overland Park, Shawnee/Johnson County CoC",KS-505,30,0,1,4
+2017,KS,Kansas Balance of State CoC,KS-507,1778,230,312,375
+2017,KY,Kentucky Balance of State CoC,KY-500,2454,193,269,366
+2017,KY,Louisville-Jefferson County CoC,KY-501,1467,246,332,413
+2017,KY,Lexington-Fayette County CoC,KY-502,820,86,156,208
+2017,LA,Lafayette/Acadiana CoC,LA-500,672,41,59,87
+2017,LA,"Shreveport, Bossier/Northwest Louisiana CoC",LA-502,644,80,124,152
+2017,LA,New Orleans/Jefferson Parish CoC,LA-503,2059,58,166,234
+2017,LA,Monroe/Northeast Louisiana CoC,LA-505,210,11,16,25
+2017,LA,Slidell/Southeast Louisiana CoC,LA-506,189,0,2,7
+2017,LA,Alexandria/Central Louisiana CoC,LA-507,310,9,10,16
+2017,LA,Louisiana Balance of State CoC,LA-509,272,46,65,91
+2017,MA,Boston CoC,MA-500,3220,307,449,571
+2017,MA,Lynn CoC,MA-502,463,10,16,19
+2017,MA,Cape Cod Islands CoC,MA-503,271,12,19,27
+2017,MA,Springfield/Hampden County CoC,MA-504,1355,19,31,90
+2017,MA,New Bedford CoC,MA-505,472,17,26,51
+2017,MA,Worcester City & County CoC,MA-506,1699,127,193,277
+2017,MA,"Pittsfield/Berkshire, Franklin, Hampshire Counties CoC",MA-507,633,20,51,85
+2017,MA,Lowell CoC,MA-508,270,15,18,29
+2017,MA,Cambridge CoC,MA-509,120,3,6,9
+2017,MA,"Gloucester, Haverhill, Salem/Essex County CoC",MA-510,528,10,21,51
+2017,MA,"Quincy, Brockton, Weymouth, Plymouth City and County CoC",MA-511,858,40,68,91
+2017,MA,Fall River CoC,MA-515,529,14,28,45
+2017,MA,Massachusetts Balance of State CoC,MA-516,824,15,31,50
+2017,MA,Somerville CoC,MA-517,102,1,1,3
+2017,MA,"Attleboro, Taunton/Bristol County CoC",MA-519,232,6,7,12
+2017,MD,Cumberland/Allegany County CoC,MD-500,99,0,2,6
+2017,MD,Baltimore CoC,MD-501,1994,102,183,282
+2017,MD,Harford County CoC,MD-502,112,14,15,21
+2017,MD,Annapolis/Anne Arundel County CoC,MD-503,397,27,45,71
+2017,MD,Howard County CoC,MD-504,252,14,19,41
+2017,MD,Baltimore County CoC,MD-505,1349,80,135,231
+2017,MD,Carroll County CoC,MD-506,175,10,22,35
+2017,MD,Cecil County CoC,MD-507,85,6,6,7
+2017,MD,"Charles, Calvert, St.Mary's Counties CoC",MD-508,373,6,14,34
+2017,MD,Frederick City & County CoC,MD-509,74,3,4,8
+2017,MD,Garrett County CoC,MD-510,66,4,9,12
+2017,MD,Mid-Shore Regional CoC,MD-511,145,14,19,24
+2017,MD,Hagerstown/Washington County CoC,MD-512,119,2,5,6
+2017,MD,"Wicomico, Somerset, Worcester Counties CoC",MD-513,512,57,103,130
+2017,MD,Prince George's County CoC,MD-600,529,14,22,45
+2017,MD,Montgomery County CoC,MD-601,1069,67,116,178
+2017,ME,Maine Statewide CoC,ME-500,3314,436,570,727
+2017,MI,Michigan Balance of State CoC,MI-500,4552,411,569,800
+2017,MI,Detroit CoC,MI-501,2762,665,830,1063
+2017,MI,"Dearborn, Dearborn Heights, Westland/Wayne County CoC",MI-502,616,28,42,49
+2017,MI,"St. Clair Shores, Warren/Macomb County CoC",MI-503,704,74,107,149
+2017,MI,"Pontiac, Royal Oak/Oakland County CoC",MI-504,882,80,105,130
+2017,MI,Flint/Genesee County CoC,MI-505,387,72,96,116
+2017,MI,"Grand Rapids, Wyoming/Kent County CoC",MI-506,1614,111,205,328
+2017,MI,"Portage, Kalamazoo City & County CoC",MI-507,1508,172,284,411
+2017,MI,"Lansing, East Lansing/Ingham County CoC",MI-508,1223,172,330,436
+2017,MI,Washtenaw County CoC,MI-509,780,69,106,144
+2017,MI,Saginaw City & County CoC,MI-510,827,112,172,217
+2017,MI,Lenawee County CoC,MI-511,126,11,18,25
+2017,MI,"Grand Traverse, Antrim, Leelanau Counties CoC",MI-512,377,56,81,96
+2017,MI,"Marquette, Alger Counties CoC",MI-513,174,10,14,15
+2017,MI,Battle Creek/Calhoun County CoC,MI-514,349,67,95,115
+2017,MI,Monroe City & County CoC,MI-515,239,17,32,47
+2017,MI,"Norton Shores, Muskegon City & County CoC",MI-516,445,193,237,279
+2017,MI,Jackson City & County CoC,MI-517,507,42,67,100
+2017,MI,Livingston County CoC,MI-518,211,20,35,51
+2017,MI,Holland/Ottawa County CoC,MI-519,736,99,150,231
+2017,MI,Eaton County CoC,MI-523,537,15,40,68
+2017,MN,Minneapolis/Hennepin County CoC,MN-500,3301,324,508,716
+2017,MN,Saint Paul/Ramsey County CoC,MN-501,1263,73,131,190
+2017,MN,Rochester/Southeast Minnesota CoC,MN-502,730,23,43,61
+2017,MN,"Dakota, Anoka, Washington, Scott, Carver Counties ",MN-503,1274,59,78,123
+2017,MN,Northeast Minnesota CoC,MN-504,237,10,18,22
+2017,MN,St. Cloud/Central Minnesota CoC,MN-505,743,32,59,110
+2017,MN,Northwest Minnesota CoC,MN-506,604,48,74,103
+2017,MN,Moorhead/West Central Minnesota CoC,MN-508,381,11,18,32
+2017,MN,Duluth/St.Louis County CoC,MN-509,1622,128,206,332
+2017,MN,Southwest Minnesota CoC,MN-511,379,14,25,34
+2017,MO,St. Louis County CoC,MO-500,380,23,37,45
+2017,MO,St.Louis City CoC,MO-501,1246,78,132,214
+2017,MO,"St. Charles City & County, Lincoln, Warren Counties CoC",MO-503,132,14,15,17
+2017,MO,"Springfield/Greene, Christian, Webster Counties CoC",MO-600,401,22,30,44
+2017,MO,"Joplin/Jasper, Newton Counties CoC",MO-602,380,19,27,52
+2017,MO,"St. Joseph/Andrew, Buchanan, DeKalb Counties CoC",MO-603,1052,315,492,584
+2017,MO,Kansas City/Independence/Lee's Summit/Jackson County CoC,MO-604M,436,45,75,122
+2017,MO,Missouri Balance of State CoC,MO-606,1320,76,107,152
+2017,MP,Northern Mariana Islands CoC,MP-500,0,0,0,0
+2017,MS,"Jackson/Rankin, Madison Counties CoC",MS-500,293,18,22,33
+2017,MS,Mississippi Balance of State CoC,MS-501,924,28,42,84
+2017,MS,Gulf Port/Gulf Coast Regional CoC,MS-503,716,7,12,22
+2017,MT,Montana Statewide CoC,MT-500,823,6,10,12
+2017,NC,Winston-Salem/Forsyth County CoC,NC-500,800,63,87,137
+2017,NC,Asheville/Buncombe County CoC,NC-501,819,83,121,230
+2017,NC,Durham City & County CoC,NC-502,714,56,72,109
+2017,NC,North Carolina Balance of State CoC,NC-503,2900,176,308,428
+2017,NC,"Greensboro, High Point CoC",NC-504,1598,135,230,317
+2017,NC,Charlotte/Mecklenberg CoC,NC-505,2343,234,343,473
+2017,NC,"Wilmington/Brunswick, New Hanover, Pender Counties CoC",NC-506,444,58,80,111
+2017,NC,Raleigh/Wake County CoC,NC-507,1611,172,266,348
+2017,NC,"Gastonia/Cleveland, Gaston, Lincoln Counties CoC",NC-509,341,18,22,41
+2017,NC,Fayetteville/Cumberland County CoC,NC-511,99,12,19,29
+2017,NC,Chapel Hill/Orange County CoC,NC-513,117,4,5,7
+2017,NC,Northwest North Carolina CoC,NC-516,115,15,22,26
+2017,ND,North Dakota Statewide CoC,ND-500,1324,125,180,242
+2017,NE,Nebraska Balance of State CoC,NE-500,1321,119,182,235
+2017,NE,"Omaha, Council Bluffs CoC",NE-501,1899,223,384,554
+2017,NE,Lincoln CoC,NE-502,630,66,101,145
+2017,NH,New Hampshire Balance of State CoC,NH-500,1809,219,287,355
+2017,NH,Manchester CoC,NH-501,896,55,70,119
+2017,NH,Nashua/Hillsborough County CoC,NH-502,645,29,45,67
+2017,NJ,Atlantic City & County CoC,NJ-500,487,24,41,63
+2017,NJ,Bergen County CoC,NJ-501,413,24,29,44
+2017,NJ,Burlington County CoC,NJ-502,365,7,20,40
+2017,NJ,"Camden City & County/Gloucester, Cape May, Cumberland Counties CoC",NJ-503,1759,153,189,243
+2017,NJ,Newark/Essex County CoC,NJ-504,2083,67,128,213
+2017,NJ,"Jersey City, Bayonne/Hudson County CoC",NJ-506,938,114,154,200
+2017,NJ,New Brunswick/Middlesex County CoC,NJ-507,435,6,16,27
+2017,NJ,Monmouth County CoC,NJ-508,200,12,17,20
+2017,NJ,Morris County CoC,NJ-509,232,19,25,39
+2017,NJ,Lakewood Township/Ocean County CoC,NJ-510,69,2,5,9
+2017,NJ,Paterson/Passaic County CoC,NJ-511,902,4,19,30
+2017,NJ,Salem County CoC,NJ-512,23,1,1,2
+2017,NJ,Somerset County CoC,NJ-513,122,0,1,11
+2017,NJ,Trenton/Mercer County CoC,NJ-514,1616,45,84,117
+2017,NJ,Elizabeth/Union County CoC,NJ-515,759,37,76,122
+2017,NJ,"Warren, Sussex, Hunterdon Counties CoC   ",NJ-516,440,29,44,62
+2017,NM,Albuquerque CoC,NM-500,1489,122,203,287
+2017,NM,New Mexico Balance of State CoC,NM-501,981,78,112,154
+2017,NV,Las Vegas/Clark County CoC,NV-500,3950,471,647,916
+2017,NV,"Reno, Sparks/Washoe County CoC",NV-501,1438,236,340,431
+2017,NV,Nevada Balance of State CoC,NV-502,401,20,24,31
+2017,NY,"Rochester, Irondequoit, Greece/Monroe County CoC",NY-500,2605,228,378,653
+2017,NY,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC ",NY-501,716,36,50,70
+2017,NY,Albany City & County CoC,NY-503,1084,74,131,183
+2017,NY,Cattaragus County CoC,NY-504,85,1,5,10
+2017,NY,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC",NY-505,2641,359,566,720
+2017,NY,Schenectady City & County CoC,NY-507,1059,47,78,119
+2017,NY,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC",NY-508,2101,158,285,431
+2017,NY,Ithaca/Tompkins County CoC,NY-510,240,8,28,49
+2017,NY,"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties CoC",NY-511,479,22,36,65
+2017,NY,Troy/Rensselaer County CoC,NY-512,631,46,62,110
+2017,NY,"Wayne, Ontario, Seneca, Yates Counties CoC",NY-513,12,0,1,8
+2017,NY,"Jamestown, Dunkirk/Chautauqua County CoC",NY-514,134,10,11,15
+2017,NY,Clinton County CoC,NY-516,349,16,32,43
+2017,NY,"Utica, Rome/Oneida, Madison Counties CoC",NY-518,421,6,24,42
+2017,NY,"Columbia, Greene Counties CoC",NY-519,39,0,0,0
+2017,NY,"Franklin, Essex Counties CoC",NY-520,92,1,7,12
+2017,NY,"Jefferson, Lewis, St. Lawrence Counties CoC",NY-522,635,24,51,90
+2017,NY,"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties CoC",NY-523,474,47,52,67
+2017,NY,New York City CoC,NY-600,39595,4650,6493,9010
+2017,NY,Poughkeepsie/Dutchess County CoC,NY-601,532,92,112,134
+2017,NY,"Newburgh, Middletown/Orange County CoC",NY-602,712,55,95,190
+2017,NY,"Nassau, Suffolk Counties CoC",NY-603,1915,104,174,278
+2017,NY,"Yonkers, Mount Vernon/Westchester County CoC",NY-604,1703,81,162,286
+2017,NY,Rockland County CoC,NY-606,41,1,5,6
+2017,NY,Sullivan County CoC,NY-607,723,44,76,89
+2017,NY,Kingston/Ulster County CoC,NY-608,646,72,111,160
+2017,OH,Cincinnati/Hamilton County CoC,OH-500,4495,413,680,1049
+2017,OH,Toledo/Lucas County CoC,OH-501,1375,76,122,236
+2017,OH,Cleveland/Cuyahoga County CoC,OH-502,2625,514,687,900
+2017,OH,Columbus/Franklin County CoC,OH-503,5961,550,1036,1655
+2017,OH,Youngstown/Mahoning County CoC,OH-504,519,58,83,130
+2017,OH,"Dayton, Kettering/Montgomery County CoC",OH-505,2051,205,333,494
+2017,OH,"Akron, Barberton/Summit County CoC",OH-506,1113,89,137,210
+2017,OH,Ohio Balance of State CoC,OH-507,10837,764,1252,1844
+2017,OH,"Canton, Massillon, Alliance/Stark County CoC",OH-508,239,11,18,29
+2017,OK,North Central Oklahoma CoC,OK-500,300,17,23,38
+2017,OK,Tulsa City & County CoC,OK-501,564,48,75,107
+2017,OK,Oklahoma City CoC,OK-502,398,28,40,62
+2017,OK,Oklahoma Balance of State CoC,OK-503,283,8,16,18
+2017,OK,Norman/Cleveland County CoC,OK-504,54,6,8,11
+2017,OK,Northeast Oklahoma CoC,OK-505,395,37,48,56
+2017,OK,Southwest Oklahoma Regional CoC,OK-506,108,16,18,22
+2017,OK,Southeastern Oklahoma Regional CoC,OK-507,688,36,48,83
+2017,OR,"Eugene, Springfield/Lane County CoC",OR-500,839,108,148,174
+2017,OR,"Portland, Gresham/Multnomah County CoC",OR-501,4518,362,715,1203
+2017,OR,"Medford, Ashland/Jackson County CoC",OR-502,523,26,43,56
+2017,OR,Central Oregon CoC,OR-503,563,58,90,116
+2017,OR,Oregon Balance of State CoC,OR-505,2434,84,141,213
+2017,OR,"Hillsboro, Beaverton/Washington County CoC",OR-506,513,20,32,58
+2017,OR,Clackamas County CoC,OR-507,211,1,1,7
+2017,PA,Philadelphia CoC,PA-500,2951,102,159,220
+2017,PA,Harrisburg/Dauphin County CoC,PA-501,420,9,21,51
+2017,PA,"Upper Darby, Chester, Haverford/Delaware County CoC",PA-502,566,21,34,59
+2017,PA,"Wilkes-Barre, Hazleton/Luzerne County CoC",PA-503,553,120,142,173
+2017,PA,"Lower Merion, Norristown, Abington/Montgomery County CoC",PA-504,775,57,94,160
+2017,PA,Chester County CoC,PA-505,1328,127,181,252
+2017,PA,Reading/Berks County CoC,PA-506,1354,93,159,227
+2017,PA,Scranton/Lackawanna County CoC,PA-508,245,18,28,43
+2017,PA,Eastern Pennsylvania CoC,PA-509,2042,130,181,243
+2017,PA,Lancaster City & County CoC,PA-510,556,23,37,66
+2017,PA,"Bristol, Bensalem/Bucks County CoC",PA-511,368,7,19,44
+2017,PA,York City & County CoC,PA-512,819,85,114,185
+2017,PA,"Pittsburgh, McKeesport, Penn Hills/Allegheny County CoC",PA-600,1739,67,93,111
+2017,PA,Western Pennsylvania CoC,PA-601,1663,84,141,237
+2017,PA,Beaver County CoC,PA-603,203,16,32,48
+2017,PA,Erie City & County CoC,PA-605,592,84,115,153
+2017,PR,Puerto Rico Balance of Commonwealth CoC,PR-502,744,64,104,127
+2017,PR,South-Southeast Puerto Rico CoC,PR-503,733,30,59,92
+2017,RI,Rhode Island Statewide CoC,RI-500,1399,137,200,290
+2017,SC,Charleston/Low Country CoC,SC-500,693,56,90,124
+2017,SC,"Greenville, Anderson, Spartanburg/Upstate CoC",SC-501,905,30,53,100
+2017,SC,Columbia/Midlands CoC,SC-502,1337,159,242,307
+2017,SC,"Myrtle Beach, Sumter City & County CoC",SC-503,1032,67,105,136
+2017,SD,South Dakota Statewide CoC,SD-500,463,40,60,89
+2017,TN,Chattanooga/Southeast Tennessee CoC,TN-500,548,22,42,78
+2017,TN,Memphis/Shelby County CoC,TN-501,1667,95,173,267
+2017,TN,Knoxville/Knox County CoC,TN-502,1119,169,211,258
+2017,TN,Central Tennessee CoC,TN-503,505,18,28,36
+2017,TN,Nashville-Davidson County CoC,TN-504,1526,59,95,121
+2017,TN,Upper Cumberland CoC,TN-506,301,4,14,19
+2017,TN,Jackson/West Tennessee CoC,TN-507,505,7,9,15
+2017,TN,Appalachian Regional CoC,TN-509,400,23,35,47
+2017,TN,Murfreesboro/Rutherford County CoC,TN-510,70,5,14,18
+2017,TN,"Morristown/Blount, Sevier, Campbell, Cocke Counties CoC",TN-512,269,2,8,17
+2017,TX,San Antonio/Bexar County CoC,TX-500,3148,375,553,774
+2017,TX,Austin/Travis County CoC,TX-503,1445,114,165,249
+2017,TX,"Dallas City & County, Irving CoC",TX-600,4066,306,456,682
+2017,TX,"Fort Worth, Arlington/Tarrant County CoC",TX-601,1678,129,209,324
+2017,TX,El Paso City & County CoC,TX-603,901,66,119,191
+2017,TX,Waco/McLennan County CoC,TX-604,159,11,15,21
+2017,TX,Texas Balance of State CoC,TX-607,2798,206,322,449
+2017,TX,Amarillo CoC,TX-611,0,0,0,0
+2017,TX,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties CoC",TX-624,33,0,2,4
+2017,TX,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties CoC",TX-700,3681,353,544,785
+2017,TX,"Bryan, College Station/Brazos Valley CoC",TX-701,212,12,15,31
+2017,UT,Salt Lake City & County CoC,UT-500,2567,524,792,1007
+2017,UT,Utah Balance of State CoC,UT-503,1744,212,308,421
+2017,UT,Provo/Mountainland CoC,UT-504,544,116,160,210
+2017,VA,"Richmond/Henrico, Chesterfield, Hanover Counties CoC",VA-500,1594,189,322,416
+2017,VA,"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties CoC",VA-501,930,28,43,85
+2017,VA,"Roanoke City & County, Salem CoC",VA-502,382,38,81,122
+2017,VA,Virginia Beach CoC,VA-503,549,25,50,77
+2017,VA,Charlottesville CoC,VA-504,159,22,40,46
+2017,VA,"Newport News, Hampton/Virginia Peninsula CoC",VA-505,679,37,57,73
+2017,VA,Portsmouth CoC,VA-507,0,0,0,0
+2017,VA,Lynchburg CoC,VA-508,350,18,41,65
+2017,VA,"Harrisburg, Winchester/Western Virginia CoC",VA-513,297,11,34,42
+2017,VA,"Fredericksburg/Spotsylvania, Stafford Counties CoC",VA-514,400,47,57,77
+2017,VA,Virginia Balance of State CoC,VA-521,1446,66,128,187
+2017,VA,Arlington County CoC,VA-600,307,19,27,48
+2017,VA,Fairfax County CoC,VA-601,1713,191,305,440
+2017,VA,Loudoun County CoC,VA-602,517,25,43,56
+2017,VA,Alexandria CoC,VA-603,353,29,41,54
+2017,VA,Prince William County CoC,VA-604,680,47,85,143
+2017,VI,Virgin Islands CoC,VI-500,43,4,6,9
+2017,VT,Vermont Balance of State CoC,VT-500,959,58,101,137
+2017,VT,Burlington/Chittenden County CoC,VT-501,170,9,18,35
+2017,WA,Seattle/King County CoC,WA-500,4891,285,443,667
+2017,WA,Washington Balance of State CoC,WA-501,6949,348,539,783
+2017,WA,Spokane City & County CoC,WA-502,2213,103,195,323
+2017,WA,"Tacoma, Lakewood/Pierce County CoC",WA-503,2228,124,204,301
+2017,WA,Everett/Snohomish County CoC,WA-504,1730,78,103,146
+2017,WA,Vancouver/Clark County CoC,WA-508,767,79,123,157
+2017,WI,Wisconsin Balance of State CoC,WI-500,6051,669,999,1420
+2017,WI,Milwaukee City & County CoC,WI-501,2012,328,455,600
+2017,WI,Racine City & County CoC,WI-502,368,27,39,57
+2017,WI,Madison/Dane County CoC,WI-503,945,112,147,209
+2017,WV,"Wheeling, Weirton Area CoC",WV-500,268,58,80,98
+2017,WV,"Huntington/Cabell, Wayne Counties CoC",WV-501,845,97,134,173
+2017,WV,"Charleston/Kanawha, Putnam, Boone, Clay Counties CoC",WV-503,814,144,200,252
+2017,WV,West Virginia Balance of State CoC,WV-508,1845,210,308,424
+2017,WY,Wyoming Statewide CoC,WY-500,585,112,169,219
+2016,AK,Anchorage CoC,AK-500,871,172,213,261
+2016,AK,Alaska Balance of State CoC,AK-501,168,3,7,13
+2016,AL,"Birmingham/Jefferson, St. Clair, Shelby Counties CoC",AL-500,604,108,138,173
+2016,AL,Mobile City & County/Baldwin County CoC,AL-501,560,52,78,125
+2016,AL,Florence/Northwest Alabama CoC,AL-502,0,0,0,0
+2016,AL,Huntsville/North Alabama CoC,AL-503,167,15,22,25
+2016,AL,Montgomery City & County CoC,AL-504,302,21,28,41
+2016,AL,Gadsden/Northeast Alabama CoC,AL-505,81,5,11,15
+2016,AL,Tuscaloosa City & County CoC,AL-506,114,8,13,18
+2016,AL,Alabama Balance of State CoC,AL-507,263,6,6,8
+2016,AR,Little Rock/Central Arkansas CoC,AR-500,771,66,103,139
+2016,AR,Fayetteville/Northwest Arkansas CoC,AR-501,328,32,50,60
+2016,AR,Arkansas  Balance of State  CoC,AR-503,343,29,37,49
+2016,AR,Southeast Arkansas CoC,AR-505,64,8,10,12
+2016,AR,Fort Smith CoC,AR-508,60,7,12,17
+2016,AR," Boone, Baxter, Marion, Newton Counties CoC",AR-512,57,0,0,0
+2016,AZ,Arizona Balance of State CoC,AZ-500,1186,118,159,219
+2016,AZ,Tucson/Pima County CoC,AZ-501,2805,307,467,651
+2016,AZ,"Phoenix, Mesa/Maricopa County CoC",AZ-502,5287,541,842,1258
+2016,CA,San Jose/Santa Clara City & County CoC,CA-500,1472,155,224,299
+2016,CA,San Francisco CoC,CA-501,5070,181,529,1104
+2016,CA,"Oakland, Berkeley/Alameda County CoC",CA-502,2412,204,287,433
+2016,CA,Sacramento City & County CoC,CA-503,2336,225,323,476
+2016,CA,"Santa Rosa, Petaluma/Sonoma County CoC",CA-504,793,91,147,212
+2016,CA,Richmond/Contra Costa County CoC,CA-505,859,74,113,139
+2016,CA,"Salinas/Monterey, San Benito Counties CoC",CA-506,628,18,32,84
+2016,CA,Marin County CoC,CA-507,418,40,70,89
+2016,CA,Watsonville/Santa Cruz City & County CoC,CA-508,333,19,29,49
+2016,CA,Mendocino County CoC,CA-509,131,9,16,25
+2016,CA,"Turlock, Modesto/Stanislaus County CoC",CA-510,386,16,26,38
+2016,CA,Stockton/San Joaquin County CoC,CA-511,439,42,67,109
+2016,CA,Daly/San Mateo County CoC,CA-512,1340,120,159,213
+2016,CA,"Visalia/Kings, Tulare Counties CoC",CA-513,398,32,48,85
+2016,CA,Fresno City & County/Madera County CoC,CA-514,880,40,62,85
+2016,CA,"Roseville, Rocklin/Placer, Nevada Counties CoC",CA-515,442,63,97,114
+2016,CA,"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",CA-516,2,0,0,0
+2016,CA,Napa City & County CoC,CA-517,63,11,17,20
+2016,CA,Vallejo/Solano County CoC,CA-518,371,42,55,68
+2016,CA,"Chico, Paradise/Butte County CoC",CA-519,38,0,1,1
+2016,CA,Merced City & County CoC,CA-520,13,0,1,2
+2016,CA,"Davis, Woodland/Yolo County CoC",CA-521,324,17,34,50
+2016,CA,Humboldt County CoC,CA-522,245,13,26,36
+2016,CA,"Colusa, Glenn, Trinity Counties CoC",CA-523,34,0,0,0
+2016,CA,Yuba City & County/Sutter County CoC,CA-524,54,0,0,0
+2016,CA,El Dorado County CoC,CA-525,20,0,0,0
+2016,CA,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",CA-526,380,7,17,38
+2016,CA,Tehama County CoC,CA-527,12,0,0,0
+2016,CA,Lake County CoC,CA-529,0,0,0,0
+2016,CA,"Alpine, Inyo, Mono Counties CoC",CA-530,38,0,0,2
+2016,CA,Los Angeles City & County CoC,CA-600,7698,513,860,1329
+2016,CA,San Diego City and County CoC,CA-601,4573,674,956,1275
+2016,CA,"Santa Ana, Anaheim/Orange County CoC",CA-602,1885,113,181,251
+2016,CA,Santa Maria/Santa Barbara County CoC,CA-603,902,110,158,236
+2016,CA,Bakersfield/Kern County CoC,CA-604,501,34,66,87
+2016,CA,Long Beach CoC,CA-606,806,27,45,75
+2016,CA,Pasadena CoC,CA-607,268,19,26,32
+2016,CA,Riverside City & County CoC,CA-608,1716,116,181,361
+2016,CA,San Bernardino City & County CoC,CA-609,965,64,103,143
+2016,CA,"Oxnard, San Buenaventura/Ventura County CoC",CA-611,551,26,46,55
+2016,CA,Glendale CoC,CA-612,152,13,13,14
+2016,CA,Imperial County CoC,CA-613,197,17,37,44
+2016,CA,San Luis Obispo County CoC,CA-614,168,5,10,18
+2016,CO,Colorado Balance of State CoC,CO-500,668,86,128,168
+2016,CO,Metropolitan Denver CoC,CO-503,2416,252,421,567
+2016,CO,Colorado Springs/El Paso County CoC,CO-504,1294,124,195,281
+2016,CT,"Bridgeport, Stamford, Norwalk/Fairfield County CoC",CT-503,848,67,102,169
+2016,CT,Connecticut Balance of State CoC,CT-505,4230,468,715,994
+2016,DC,District of Columbia CoC,DC-500,5273,352,597,799
+2016,DE,Delaware Statewide CoC,DE-500,1096,102,171,238
+2016,FL,"Sarasota, Bradenton/Manatee, Sarasota Counties CoC",FL-500,403,45,69,98
+2016,FL,Tampa/Hillsborough County CoC,FL-501,1446,141,222,296
+2016,FL,"St. Petersburg, Clearwater, Largo/Pinellas County CoC",FL-502,2884,641,830,1040
+2016,FL,"Lakeland, Winterhaven/Polk County CoC",FL-503,573,45,73,93
+2016,FL,"Daytona Beach, Daytona/Volusia, Flagler Counties CoC",FL-504,1017,68,99,148
+2016,FL,"Fort Walton Beach/Okaloosa, Walton Counties CoC",FL-505,227,9,17,32
+2016,FL,Tallahassee/Leon County CoC,FL-506,313,35,55,66
+2016,FL,"Orlando/Orange, Osceola, Seminole Counties CoC",FL-507,2279,229,352,481
+2016,FL,"Gainesville/Alachua, Putnam Counties CoC",FL-508,654,85,134,176
+2016,FL,"Fort Pierce/St. Lucie, Indian River, Martin Counties CoC",FL-509,648,42,62,73
+2016,FL,"Jacksonville-Duval, Clay Counties CoC",FL-510,801,33,59,119
+2016,FL,"Pensacola/Escambia, Santa Rosa Counties CoC",FL-511,394,25,35,53
+2016,FL,St. Johns County CoC,FL-512,297,24,32,44
+2016,FL,"Palm Bay, Melbourne/Brevard County CoC",FL-513,571,31,56,90
+2016,FL,Ocala/Marion County CoC,FL-514,289,26,30,30
+2016,FL,"Panama City/Bay, Jackson Counties CoC",FL-515,122,14,21,27
+2016,FL,"Hendry, Hardee, Highlands Counties CoC",FL-517,14,4,5,6
+2016,FL,"Columbia, Hamilton, Lafayette, Suwannee Counties CoC",FL-518,281,72,81,92
+2016,FL,Pasco County CoC,FL-519,0,0,0,0
+2016,FL,"Citrus, Hernando, Lake, Sumter Counties CoC",FL-520,249,14,23,37
+2016,FL,Miami-Dade County CoC,FL-600,3898,541,752,992
+2016,FL,Ft Lauderdale/Broward County CoC,FL-601,1790,305,430,547
+2016,FL,Punta Gorda/Charlotte County CoC,FL-602,371,28,42,55
+2016,FL,"Ft Myers, Cape Coral/Lee County CoC",FL-603,340,48,64,96
+2016,FL,Monroe County CoC,FL-604,269,49,72,98
+2016,FL,West Palm Beach/Palm Beach County CoC,FL-605,1624,39,94,188
+2016,FL,Naples/Collier County CoC,FL-606,84,7,8,8
+2016,GA,Atlanta CoC,GA-500,4260,358,562,833
+2016,GA,Georgia Balance of State CoC,GA-501,4195,335,507,702
+2016,GA,Fulton County CoC,GA-502,1135,44,57,76
+2016,GA,Athens-Clarke County CoC,GA-503,278,12,27,46
+2016,GA,Augusta-Richmond County CoC,GA-504,320,14,22,65
+2016,GA,Columbus-Muscogee/Russell County CoC,GA-505,211,19,33,50
+2016,GA,Marietta/Cobb County CoC,GA-506,1126,52,71,119
+2016,GA,Savannah/Chatham County CoC,GA-507,661,87,128,171
+2016,GA,DeKalb County CoC,GA-508,667,48,78,123
+2016,GU,Guam CoC,GU-500,270,20,31,51
+2016,HI,Hawaii Balance of State CoC,HI-500,1425,84,163,250
+2016,HI,Honolulu City and County CoC,HI-501,2625,189,332,502
+2016,IA,"Sioux City/Dakota, Woodbury Counties CoC",IA-500,178,0,1,3
+2016,IA,Iowa Balance of State CoC,IA-501,2574,193,326,502
+2016,IA,Des Moines/Polk County CoC,IA-502,1455,174,241,302
+2016,ID,Boise/Ada County CoC,ID-500,418,29,35,42
+2016,ID,Idaho Balance of State CoC,ID-501,1421,91,150,224
+2016,IL,McHenry County CoC,IL-500,112,14,19,22
+2016,IL,"Rockford/Winnebago, Boone Counties CoC",IL-501,227,6,15,25
+2016,IL,"Waukegan, North Chicago/Lake County CoC",IL-502,539,67,94,114
+2016,IL,"Champaign, Urbana, Rantoul/Champaign County CoC",IL-503,371,21,31,47
+2016,IL,Madison County CoC,IL-504,240,7,10,17
+2016,IL,"Joliet, Bolingbrook/Will County CoC",IL-506,343,88,105,119
+2016,IL,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties CoC",IL-507,309,30,56,65
+2016,IL,"East St. Louis, Belleville/St. Clair County CoC",IL-508,221,11,14,15
+2016,IL,Dekalb City & County CoC,IL-509,22,0,1,1
+2016,IL,Chicago CoC,IL-510,5446,574,864,1260
+2016,IL,Cook County CoC,IL-511,988,80,107,160
+2016,IL,Bloomington/Central Illinois CoC,IL-512,315,18,29,40
+2016,IL,Springfield/Sangamon County CoC,IL-513,1429,528,610,692
+2016,IL,DuPage County CoC,IL-514,493,44,69,92
+2016,IL,South Central Illinois CoC,IL-515,102,10,15,16
+2016,IL,Decatur/Macon County CoC,IL-516,82,0,0,1
+2016,IL,"Aurora, Elgin/Kane County CoC",IL-517,200,33,39,48
+2016,IL,"Rock Island, Moline/Northwestern Illinois CoC",IL-518,220,12,18,21
+2016,IL,West Central Illinois CoC,IL-519,251,16,36,53
+2016,IL,Southern Illinois CoC,IL-520,340,23,34,46
+2016,IN,South Bend/Mishawaka/St. Joseph County CoC,IN-500,507,47,77,117
+2016,IN,Indiana Balance of State CoC,IN-502,4634,372,629,872
+2016,IN,Indianapolis CoC,IN-503,1298,86,154,243
+2016,KS,Wichita/Sedgwick County CoC,KS-502,835,115,163,210
+2016,KS,Topeka/Shawnee County CoC,KS-503,2,0,0,0
+2016,KS,"Overland Park, Shawnee/Johnson County CoC",KS-505,219,25,31,33
+2016,KS,Kansas Balance of State CoC,KS-507,1550,178,256,346
+2016,KY,Kentucky Balance of State CoC,KY-500,2853,129,233,351
+2016,KY,Louisville-Jefferson County CoC,KY-501,1597,287,388,500
+2016,KY,Lexington-Fayette County CoC,KY-502,560,34,44,90
+2016,LA,Lafayette/Acadiana CoC,LA-500,774,64,103,133
+2016,LA,"Shreveport, Bossier/Northwest Louisiana CoC",LA-502,640,67,106,169
+2016,LA,New Orleans/Jefferson Parish CoC,LA-503,1812,90,194,292
+2016,LA,Monroe/Northeast Louisiana CoC,LA-505,253,11,15,24
+2016,LA,Slidell/Southeast Louisiana CoC,LA-506,233,2,11,25
+2016,LA,Alexandria/Central Louisiana CoC,LA-507,308,25,37,43
+2016,LA,Houma-Terrebonne/Thibodaux CoC,LA-508,1408,158,253,369
+2016,LA,Louisiana Balance of State CoC,LA-509,606,88,107,135
+2016,MA,Boston CoC,MA-500,1297,267,366,453
+2016,MA,Lynn CoC,MA-502,463,11,14,25
+2016,MA,Cape Cod Islands CoC,MA-503,255,11,20,33
+2016,MA,Springfield/Hampden County CoC,MA-504,1354,13,25,105
+2016,MA,New Bedford CoC,MA-505,360,9,19,33
+2016,MA,Worcester City & County CoC,MA-506,1085,157,201,253
+2016,MA,"Pittsfield/Berkshire, Franklin, Hampshire Counties CoC",MA-507,501,18,52,78
+2016,MA,Lowell CoC,MA-508,373,28,43,63
+2016,MA,Cambridge CoC,MA-509,81,5,6,10
+2016,MA,"Gloucester, Haverhill, Salem/Essex County CoC",MA-510,1228,58,100,148
+2016,MA,"Quincy, Brockton, Weymouth, Plymouth City and County CoC",MA-511,1260,86,120,159
+2016,MA,Fall River CoC,MA-515,443,19,31,55
+2016,MA,Massachusetts Balance of State CoC,MA-516,665,10,11,21
+2016,MA,Somerville CoC,MA-517,139,1,4,6
+2016,MA,"Attleboro, Taunton/Bristol County CoC",MA-519,306,7,11,17
+2016,MD,Cumberland/Allegany County CoC,MD-500,78,3,10,11
+2016,MD,Baltimore CoC,MD-501,1577,89,152,223
+2016,MD,Harford County CoC,MD-502,113,4,7,11
+2016,MD,Annapolis/Anne Arundel County CoC,MD-503,398,34,51,85
+2016,MD,Howard County CoC,MD-504,71,0,6,10
+2016,MD,Baltimore County CoC,MD-505,975,48,99,185
+2016,MD,Carroll County CoC,MD-506,125,8,15,25
+2016,MD,Cecil County CoC,MD-507,43,1,3,4
+2016,MD,"Charles, Calvert, St.Mary's Counties CoC",MD-508,368,4,8,10
+2016,MD,Frederick City & County CoC,MD-509,53,8,11,11
+2016,MD,Garrett County CoC,MD-510,168,5,11,13
+2016,MD,Mid-Shore Regional CoC,MD-511,146,13,18,21
+2016,MD,Hagerstown/Washington County CoC,MD-512,96,2,3,6
+2016,MD,"Wicomico, Somerset, Worcester Counties CoC",MD-513,335,35,60,90
+2016,MD,Prince George's County CoC,MD-600,410,21,26,42
+2016,MD,Montgomery County CoC,MD-601,890,102,148,205
+2016,ME,Maine Statewide CoC,ME-500,3303,443,613,777
+2016,MI,Michigan Balance of State CoC,MI-500,4848,450,666,976
+2016,MI,Detroit CoC,MI-501,4849,973,1287,1586
+2016,MI,"Dearborn, Dearborn Heights, Westland/Wayne County CoC",MI-502,635,25,34,54
+2016,MI,"St. Clair Shores, Warren/Macomb County CoC",MI-503,543,41,64,103
+2016,MI,"Pontiac, Royal Oak/Oakland County CoC",MI-504,363,36,50,63
+2016,MI,Flint/Genesee County CoC,MI-505,736,95,132,166
+2016,MI,"Grand Rapids, Wyoming/Kent County CoC",MI-506,1564,149,232,367
+2016,MI,"Portage, Kalamazoo City & County CoC",MI-507,1491,184,298,408
+2016,MI,"Lansing, East Lansing/Ingham County CoC",MI-508,1508,290,419,546
+2016,MI,Washtenaw County CoC,MI-509,653,158,200,241
+2016,MI,Saginaw City & County CoC,MI-510,913,123,183,250
+2016,MI,Lenawee County CoC,MI-511,200,19,25,31
+2016,MI,"Grand Traverse, Antrim, Leelanau Counties CoC",MI-512,399,54,75,95
+2016,MI,"Marquette, Alger Counties CoC",MI-513,104,8,16,22
+2016,MI,Battle Creek/Calhoun County CoC,MI-514,421,94,121,147
+2016,MI,Monroe City & County CoC,MI-515,319,29,47,70
+2016,MI,"Norton Shores, Muskegon City & County CoC",MI-516,759,121,171,231
+2016,MI,Jackson City & County CoC,MI-517,570,64,92,131
+2016,MI,Livingston County CoC,MI-518,209,21,33,41
+2016,MI,Holland/Ottawa County CoC,MI-519,640,133,169,223
+2016,MI,Eaton County CoC,MI-523,231,5,13,19
+2016,MN,Minneapolis/Hennepin County CoC,MN-500,3333,221,458,708
+2016,MN,Saint Paul/Ramsey County CoC,MN-501,1287,41,80,122
+2016,MN,Rochester/Southeast Minnesota CoC,MN-502,540,7,17,42
+2016,MN,"Dakota, Anoka, Washington, Scott, Carver Counties ",MN-503,1199,88,108,154
+2016,MN,Northeast Minnesota CoC,MN-504,189,3,4,13
+2016,MN,St. Cloud/Central Minnesota CoC,MN-505,535,27,35,52
+2016,MN,Northwest Minnesota CoC,MN-506,424,17,31,50
+2016,MN,Moorhead/West Central Minnesota CoC,MN-508,279,4,16,16
+2016,MN,Duluth/St.Louis County CoC,MN-509,1104,52,86,168
+2016,MN,Southwest Minnesota CoC,MN-511,330,8,17,36
+2016,MO,St. Louis County CoC,MO-500,333,10,19,24
+2016,MO,St.Louis City CoC,MO-501,1028,79,122,171
+2016,MO,"St. Charles City & County, Lincoln, Warren Counties CoC",MO-503,8,1,3,3
+2016,MO,"Springfield/Greene, Christian, Webster Counties CoC",MO-600,295,20,26,34
+2016,MO,"Joplin/Jasper, Newton Counties CoC",MO-602,108,1,2,4
+2016,MO,"St. Joseph/Andrew, Buchanan, DeKalb Counties CoC",MO-603,466,84,122,154
+2016,KS,Kansas City/Wyandotte County CoC,MO-604K,837,110,169,192
+2016,MO,Kansas City/Independence/Lee's Summit/Jackson County CoC,MO-604M,3004,832,1229,1463
+2016,MO,Missouri Balance of State CoC,MO-606,1179,47,84,123
+2016,MP,Northern Mariana Islands CoC,MP-500,0,0,0,0
+2016,MS,"Jackson/Rankin, Madison Counties CoC",MS-500,269,16,28,30
+2016,MS,Mississippi Balance of State CoC,MS-501,646,36,63,126
+2016,MS,Gulf Port/Gulf Coast Regional CoC,MS-503,280,3,7,14
+2016,MT,Montana Statewide CoC,MT-500,783,13,21,25
+2016,NC,Winston-Salem/Forsyth County CoC,NC-500,799,114,136,174
+2016,NC,Asheville/Buncombe County CoC,NC-501,727,46,74,125
+2016,NC,Durham City & County CoC,NC-502,695,53,79,106
+2016,NC,North Carolina Balance of State CoC,NC-503,2978,246,374,499
+2016,NC,"Greensboro, High Point CoC",NC-504,1160,125,224,310
+2016,NC,Charlotte/Mecklenberg CoC,NC-505,1675,132,215,296
+2016,NC,"Wilmington/Brunswick, New Hanover, Pender Counties CoC",NC-506,421,75,99,114
+2016,NC,Raleigh/Wake County CoC,NC-507,1377,158,216,305
+2016,NC,"Gastonia/Cleveland, Gaston, Lincoln Counties CoC",NC-509,201,20,26,37
+2016,NC,Fayetteville/Cumberland County CoC,NC-511,428,23,33,46
+2016,NC,Chapel Hill/Orange County CoC,NC-513,196,8,14,19
+2016,NC,Northwest North Carolina CoC,NC-516,115,15,22,23
+2016,ND,North Dakota Statewide CoC,ND-500,936,78,118,167
+2016,NE,Nebraska Balance of State CoC,NE-500,1116,94,134,183
+2016,NE,"Omaha, Council Bluffs CoC",NE-501,1762,239,362,776
+2016,NE,Lincoln CoC,NE-502,656,49,91,135
+2016,NH,New Hampshire Balance of State CoC,NH-500,1574,278,350,419
+2016,NH,Manchester CoC,NH-501,706,66,93,131
+2016,NH,Nashua/Hillsborough County CoC,NH-502,374,31,50,67
+2016,NJ,Atlantic City & County CoC,NJ-500,672,26,46,69
+2016,NJ,Bergen County CoC,NJ-501,388,9,18,36
+2016,NJ,Burlington County CoC,NJ-502,662,6,17,34
+2016,NJ,"Camden City & County/Gloucester, Cape May, Cumberland Counties CoC",NJ-503,1463,82,115,170
+2016,NJ,Newark/Essex County CoC,NJ-504,1792,37,71,149
+2016,NJ,"Jersey City, Bayonne/Hudson County CoC",NJ-506,616,68,83,118
+2016,NJ,New Brunswick/Middlesex County CoC,NJ-507,453,21,24,42
+2016,NJ,Monmouth County CoC,NJ-508,346,9,15,18
+2016,NJ,Morris County CoC,NJ-509,369,10,13,29
+2016,NJ,Lakewood Township/Ocean County CoC,NJ-510,196,1,3,3
+2016,NJ,Paterson/Passaic County CoC,NJ-511,651,2,6,35
+2016,NJ,Salem County CoC,NJ-512,31,0,0,0
+2016,NJ,Somerset County CoC,NJ-513,321,1,4,12
+2016,NJ,Trenton/Mercer County CoC,NJ-514,1448,46,93,155
+2016,NJ,Elizabeth/Union County CoC,NJ-515,741,24,36,67
+2016,NJ,"Warren, Sussex, Hunterdon Counties CoC   ",NJ-516,457,26,41,55
+2016,NM,Albuquerque CoC,NM-500,1682,138,219,294
+2016,NM,New Mexico Balance of State CoC,NM-501,1307,101,146,204
+2016,NV,Las Vegas/Clark County CoC,NV-500,3291,339,539,739
+2016,NV,"Reno, Sparks/Washoe County CoC",NV-501,1513,359,466,546
+2016,NV,Nevada Balance of State CoC,NV-502,281,26,36,45
+2016,NY,"Rochester, Irondequoit, Greece/Monroe County CoC",NY-500,2793,363,533,777
+2016,NY,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC ",NY-501,627,27,51,76
+2016,NY,Albany City & County CoC,NY-503,1085,60,108,201
+2016,NY,Cattaragus County CoC,NY-504,119,1,4,5
+2016,NY,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC",NY-505,2241,323,488,595
+2016,NY,Schenectady City & County CoC,NY-507,726,31,44,82
+2016,NY,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC",NY-508,1618,147,254,356
+2016,NY,Ithaca/Tompkins County CoC,NY-510,178,5,12,16
+2016,NY,"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties CoC",NY-511,159,4,7,15
+2016,NY,Troy/Rensselaer County CoC,NY-512,729,41,70,98
+2016,NY,"Wayne, Ontario, Seneca, Yates Counties CoC",NY-513,67,0,0,1
+2016,NY,"Jamestown, Dunkirk/Chautauqua County CoC",NY-514,64,5,6,7
+2016,NY,Clinton County CoC,NY-516,51,1,5,10
+2016,NY,"Utica, Rome/Oneida, Madison Counties CoC",NY-518,454,15,28,43
+2016,NY,"Columbia, Greene Counties CoC",NY-519,83,0,0,0
+2016,NY,"Franklin, Essex Counties CoC",NY-520,92,1,7,12
+2016,NY,"Jefferson, Lewis, St. Lawrence Counties CoC",NY-522,501,16,40,65
+2016,NY,"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties CoC",NY-523,406,40,56,66
+2016,NY,New York City CoC,NY-600,25879,4156,5665,7385
+2016,NY,Poughkeepsie/Dutchess County CoC,NY-601,339,30,44,70
+2016,NY,"Newburgh, Middletown/Orange County CoC",NY-602,584,46,73,119
+2016,NY,"Nassau, Suffolk Counties CoC",NY-603,1712,105,160,259
+2016,NY,"Yonkers, Mount Vernon/Westchester County CoC",NY-604,757,21,49,131
+2016,NY,Rockland County CoC,NY-606,38,0,0,0
+2016,NY,Sullivan County CoC,NY-607,664,28,83,85
+2016,NY,Kingston/Ulster County CoC,NY-608,783,61,96,177
+2016,OH,Cincinnati/Hamilton County CoC,OH-500,4350,372,626,983
+2016,OH,Toledo/Lucas County CoC,OH-501,1405,94,160,241
+2016,OH,Cleveland/Cuyahoga County CoC,OH-502,3210,608,870,1091
+2016,OH,Columbus/Franklin County CoC,OH-503,5980,577,1043,1734
+2016,OH,Youngstown/Mahoning County CoC,OH-504,546,60,86,120
+2016,OH,"Dayton, Kettering/Montgomery County CoC",OH-505,1950,211,313,465
+2016,OH,"Akron, Barberton/Summit County CoC",OH-506,1038,90,134,196
+2016,OH,Ohio Balance of State CoC,OH-507,10919,824,1285,1909
+2016,OH,"Canton, Massillon, Alliance/Stark County CoC",OH-508,436,24,41,57
+2016,OK,North Central Oklahoma CoC,OK-500,235,21,34,44
+2016,OK,Tulsa City & County CoC,OK-501,197,29,41,59
+2016,OK,Oklahoma City CoC,OK-502,281,9,18,32
+2016,OK,Oklahoma Balance of State CoC,OK-503,56,0,0,0
+2016,OK,Norman/Cleveland County CoC,OK-504,75,0,0,4
+2016,OK,Northeast Oklahoma CoC,OK-505,269,17,28,40
+2016,OK,Southwest Oklahoma Regional CoC,OK-506,179,16,19,23
+2016,OK,Southeastern Oklahoma Regional CoC,OK-507,851,55,72,110
+2016,OR,"Eugene, Springfield/Lane County CoC",OR-500,788,82,108,139
+2016,OR,"Portland, Gresham/Multnomah County CoC",OR-501,1600,137,264,462
+2016,OR,"Medford, Ashland/Jackson County CoC",OR-502,491,15,37,57
+2016,OR,Central Oregon CoC,OR-503,587,71,93,122
+2016,OR,Oregon Balance of State CoC,OR-505,1713,34,70,105
+2016,OR,"Hillsboro, Beaverton/Washington County CoC",OR-506,661,31,45,75
+2016,OR,Clackamas County CoC,OR-507,185,1,1,5
+2016,PA,Philadelphia CoC,PA-500,2089,112,165,238
+2016,PA,Harrisburg/Dauphin County CoC,PA-501,420,9,18,30
+2016,PA,"Upper Darby, Chester, Haverford/Delaware County CoC",PA-502,435,16,26,45
+2016,PA,"Wilkes-Barre, Hazleton/Luzerne County CoC",PA-503,657,73,105,129
+2016,PA,"Lower Merion, Norristown, Abington/Montgomery County CoC",PA-504,490,21,42,77
+2016,PA,Chester County CoC,PA-505,929,65,114,166
+2016,PA,Reading/Berks County CoC,PA-506,994,63,116,163
+2016,PA,Scranton/Lackawanna County CoC,PA-508,249,7,13,30
+2016,PA,Eastern Pennsylvania CoC,PA-509,1883,49,89,157
+2016,PA,Lancaster City & County CoC,PA-510,705,50,75,95
+2016,PA,"Bristol, Bensalem/Bucks County CoC",PA-511,359,14,56,100
+2016,PA,York City & County CoC,PA-512,623,71,100,157
+2016,PA,"Pittsburgh, McKeesport, Penn Hills/Allegheny County CoC",PA-600,943,75,113,155
+2016,PA,Western Pennsylvania CoC,PA-601,1812,93,183,283
+2016,PA,Beaver County CoC,PA-603,143,2,5,13
+2016,PA,Erie City & County CoC,PA-605,717,73,116,169
+2016,PR,Puerto Rico Balance of Commonwealth CoC,PR-502,682,98,135,184
+2016,PR,South-Southeast Puerto Rico CoC,PR-503,519,26,46,92
+2016,RI,Rhode Island Statewide CoC,RI-500,1714,204,283,336
+2016,SC,Charleston/Low Country CoC,SC-500,699,57,90,109
+2016,SC,"Greenville, Anderson, Spartanburg/Upstate CoC",SC-501,1018,58,85,114
+2016,SC,Columbia/Midlands CoC,SC-502,1146,103,191,271
+2016,SC,"Myrtle Beach, Sumter City & County CoC",SC-503,613,28,48,79
+2016,SD,South Dakota Statewide CoC,SD-500,471,35,50,70
+2016,TN,Chattanooga/Southeast Tennessee CoC,TN-500,452,24,44,65
+2016,TN,Memphis/Shelby County CoC,TN-501,1775,100,139,231
+2016,TN,Knoxville/Knox County CoC,TN-502,877,114,165,233
+2016,TN,Central Tennessee CoC,TN-503,237,5,15,16
+2016,TN,Nashville-Davidson County CoC,TN-504,741,49,68,100
+2016,TN,Upper Cumberland CoC,TN-506,361,7,22,33
+2016,TN,Jackson/West Tennessee CoC,TN-507,317,4,7,19
+2016,TN,Appalachian Regional CoC,TN-509,39,2,6,10
+2016,TN,Murfreesboro/Rutherford County CoC,TN-510,124,4,13,27
+2016,TN,"Morristown/Blount, Sevier, Campbell, Cocke Counties CoC",TN-512,231,8,11,16
+2016,TX,San Antonio/Bexar County CoC,TX-500,2969,184,394,659
+2016,TX,Austin/Travis County CoC,TX-503,1658,116,169,248
+2016,TX,"Dallas City & County, Irving CoC",TX-600,1431,64,103,157
+2016,TX,"Fort Worth, Arlington/Tarrant County CoC",TX-601,1308,183,236,300
+2016,TX,El Paso City & County CoC,TX-603,573,47,76,107
+2016,TX,Waco/McLennan County CoC,TX-604,204,39,45,50
+2016,TX,Texas Balance of State CoC,TX-607,3254,271,413,553
+2016,TX,Amarillo CoC,TX-611,305,40,61,77
+2016,TX,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties CoC",TX-624,33,0,3,3
+2016,TX,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties CoC",TX-700,3149,353,587,955
+2016,TX,"Bryan, College Station/Brazos Valley CoC",TX-701,212,5,6,6
+2016,UT,Salt Lake City & County CoC,UT-500,2150,233,410,906
+2016,UT,Utah Balance of State CoC,UT-503,886,44,60,160
+2016,UT,Provo/Mountainland CoC,UT-504,191,12,20,32
+2016,VA,"Richmond/Henrico, Chesterfield, Hanover Counties CoC",VA-500,1355,134,214,316
+2016,VA,"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties CoC",VA-501,769,13,30,56
+2016,VA,"Roanoke City & County, Salem CoC",VA-502,342,18,27,49
+2016,VA,Virginia Beach CoC,VA-503,469,22,42,54
+2016,VA,Charlottesville CoC,VA-504,85,3,12,18
+2016,VA,"Newport News, Hampton/Virginia Peninsula CoC",VA-505,496,18,30,51
+2016,VA,Portsmouth CoC,VA-507,325,14,27,27
+2016,VA,Lynchburg CoC,VA-508,218,10,19,32
+2016,VA,"Harrisburg, Winchester/Western Virginia CoC",VA-513,258,8,16,28
+2016,VA,"Fredericksburg/Spotsylvania, Stafford Counties CoC",VA-514,367,32,58,85
+2016,VA,Virginia Balance of State CoC,VA-521,1685,92,129,312
+2016,VA,Arlington County CoC,VA-600,250,24,29,50
+2016,VA,Fairfax County CoC,VA-601,1630,214,324,440
+2016,VA,Loudoun County CoC,VA-602,98,3,34,40
+2016,VA,Alexandria CoC,VA-603,255,37,67,75
+2016,VA,Prince William County CoC,VA-604,680,47,85,113
+2016,VI,Virgin Islands CoC,VI-500,51,3,3,4
+2016,VT,Vermont Balance of State CoC,VT-500,792,54,78,121
+2016,VT,Burlington/Chittenden County CoC,VT-501,74,4,7,15
+2016,WA,Seattle/King County CoC,WA-500,4281,223,327,516
+2016,WA,Washington Balance of State CoC,WA-501,7303,484,729,1011
+2016,WA,Spokane City & County CoC,WA-502,2733,179,317,466
+2016,WA,"Tacoma, Lakewood/Pierce County CoC",WA-503,2756,208,287,414
+2016,WA,Everett/Snohomish County CoC,WA-504,1721,50,93,177
+2016,WA,Yakima City & County CoC,WA-507,911,45,77,113
+2016,WA,Vancouver/Clark County CoC,WA-508,826,83,124,174
+2016,WI,Wisconsin Balance of State CoC,WI-500,4570,388,613,933
+2016,WI,Milwaukee City & County CoC,WI-501,1513,207,310,423
+2016,WI,Racine City & County CoC,WI-502,272,18,32,37
+2016,WI,Madison/Dane County CoC,WI-503,933,91,139,211
+2016,WV,"Wheeling, Weirton Area CoC",WV-500,257,31,42,57
+2016,WV,"Huntington/Cabell, Wayne Counties CoC",WV-501,730,110,142,173
+2016,WV,"Charleston/Kanawha, Putnam, Boone, Clay Counties CoC",WV-503,914,154,192,293
+2016,WV,West Virginia Balance of State CoC,WV-508,1751,175,255,356
+2016,WY,Wyoming Statewide CoC,WY-500,695,93,139,183
+2015,AK,Anchorage CoC,AK-500,680,119,150,193
+2015,AK,Alaska Balance of State CoC,AK-501,89,7,10,18
+2015,AL,"Birmingham/Jefferson, St. Clair, Shelby Counties CoC",AL-500,1100,165,227,307
+2015,AL,Mobile City & County/Baldwin County CoC,AL-501,556,64,87,117
+2015,AL,Huntsville/North Alabama CoC,AL-503,76,9,10,12
+2015,AL,Montgomery City & County CoC,AL-504,251,39,50,63
+2015,AL,Gadsden/Northeast Alabama CoC,AL-505,81,5,11,12
+2015,AL,Tuscaloosa City & County CoC,AL-506,21,0,2,4
+2015,AL,Alabama Balance of State CoC,AL-507,69,0,0,2
+2015,AR,Little Rock/Central Arkansas CoC,AR-500,491,44,62,90
+2015,AR,Fayetteville/Northwest Arkansas CoC,AR-501,200,25,41,47
+2015,AR,Arkansas  Balance of State  CoC,AR-503,195,21,30,37
+2015,AR,Southeast Arkansas,AR-505,45,6,7,9
+2015,AR,Old Fort Homeless Coalition,AR-508,44,7,12,17
+2015,AR,"Boone, Baxter, Marion, Newton Counties CoC",AR-512,24,1,1,1
+2015,AZ,Arizona Balance of State CoC,AZ-500,1083,133,178,238
+2015,AZ,Tucson/Pima County CoC,AZ-501,2315,312,479,564
+2015,AZ,Phoenix/Mesa/Maricopa County Regional CoC,AZ-502,3594,279,461,650
+2015,CA,San Jose/Santa Clara City & County CoC,CA-500,1510,160,238,316
+2015,CA,San Francisco CoC,CA-501,6930,276,605,976
+2015,CA,Oakland/Alameda County CoC,CA-502,1966,180,268,373
+2015,CA,Sacramento City & County CoC,CA-503,2280,178,223,277
+2015,CA,Santa Rosa/Petaluma/Sonoma County CoC,CA-504,751,90,153,218
+2015,CA,Richmond/Contra Costa County CoC,CA-505,1212,100,146,194
+2015,CA,"Salinas/Monterey, San Benito Counties CoC",CA-506,487,23,38,67
+2015,CA,Marin County CoC,CA-507,226,41,62,75
+2015,CA,Watsonville/Santa Cruz City & County CoC,CA-508,305,8,25,42
+2015,CA,Mendocino County CoC,CA-509,159,26,37,49
+2015,CA,Turlock/Modesto/Stanislaus County CoC,CA-510,409,23,35,52
+2015,CA,Stockton/San Joaquin County CoC,CA-511,193,12,19,31
+2015,CA,Daly/San Mateo County CoC,CA-512,1081,103,146,219
+2015,CA,"Visalia, Kings, Tulare Counties CoC",CA-513,305,9,20,49
+2015,CA,Fresno/Madera County CoC,CA-514,801,42,78,178
+2015,CA,"Roseville/Rocklin/Placer, Nevada Counties CoC",CA-515,492,76,117,148
+2015,CA,"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",CA-516,1,0,0,0
+2015,CA,Napa City & County CoC,CA-517,7,1,1,2
+2015,CA,Vallejo/Solano County CoC,CA-518,248,30,38,59
+2015,CA,Chico/Paradise/Butte County CoC,CA-519,0,0,0,0
+2015,CA,Merced City & County CoC,CA-520,11,2,4,5
+2015,CA,Davis/Woodland/Yolo County CoC,CA-521,132,6,15,38
+2015,CA,Humboldt County CoC,CA-522,268,25,43,60
+2015,CA,"Colusa, Glenn, Trinity Counties CoC",CA-523,23,0,0,0
+2015,CA,Yuba City & County/Sutter County CoC,CA-524,3,1,1,1
+2015,CA,El Dorado County CoC,CA-525,10,0,0,0
+2015,CA,"Amador, Calaveras, Tuolumne and Mariposa Counties CoC",CA-526,200,2,5,17
+2015,CA,Tehama County CoC,CA-527,0,0,0,0
+2015,CA,Lake County CoC,CA-529,0,0,0,0
+2015,CA,"Inyo, Mono, Alpine Counties CoC",CA-530,10,0,0,0
+2015,CA,Los Angeles City & County CoC,CA-600,6273,320,518,851
+2015,CA,San Diego City and County CoC,CA-601,4316,561,837,1121
+2015,CA,Santa Ana/Anaheim/Orange County CoC,CA-602,1295,41,71,148
+2015,CA,Santa Maria/Santa Barbara County CoC,CA-603,471,57,79,106
+2015,CA,Bakersfield/Kern County CoC,CA-604,154,12,23,31
+2015,CA,Long Beach CoC,CA-606,746,17,33,60
+2015,CA,Pasadena CoC,CA-607,293,8,10,24
+2015,CA,Riverside City & County CoC,CA-608,1077,111,157,221
+2015,CA,San Bernardino City & County CoC,CA-609,223,17,23,42
+2015,CA,Oxnard/San Buenaventura/Ventura County CoC,CA-611,434,9,20,41
+2015,CA,Glendale CoC,CA-612,172,4,7,10
+2015,CA,Imperial County CoC,CA-613,40,4,5,6
+2015,CA,San Luis Obispo County CoC,CA-614,80,5,7,12
+2015,CA,"Inyo, Mono, Alpine Counties CoC",CA-615,0,0,0,0
+2015,CO,Colorado Balance of State CoC,CO-500,537,28,63,82
+2015,CO,Metropolitan Denver Homeless Initiative,CO-503,2040,218,342,449
+2015,CO,Colorado Springs/El Paso County CoC,CO-504,964,78,138,198
+2015,CT,Hartford CoC,CT-502,0,0,0,0
+2015,CT,Bridgeport/Norwalk /Stamford/Fairfield County CoC,CT-503,772,92,134,169
+2015,CT,Connecticut Balance of State CoC,CT-505,3701,408,633,888
+2015,DC,District of Columbia CoC,DC-500,5291,354,592,807
+2015,DE,Delaware Statewide CoC,DE-500,1115,141,183,259
+2015,FL,"Sarasota/Bradenton/Manatee, Sarasota Counties CoC",FL-500,158,24,30,50
+2015,FL,Tampa/Hillsborough County CoC,FL-501,796,47,85,139
+2015,FL,St. Petersburg/Clearwater/Largo/Pinellas County CoC,FL-502,2864,626,839,1055
+2015,FL,Lakeland/Winter Haven/Polk County CoC,FL-503,486,60,83,119
+2015,FL,"Daytona Beach/Daytona/Volusia, Flagler Counties CoC",FL-504,821,83,116,148
+2015,FL,"Fort Walton Beach/Okaloosa, Walton Counties CoC",FL-505,226,9,17,25
+2015,FL,Tallahassee/Leon County CoC,FL-506,572,33,57,86
+2015,FL,"Orlando/Orange, Osceola, Seminole Counties CoC",FL-507,1973,202,285,419
+2015,FL,"Gainesville/Alachua, Putnam Counties CoC",FL-508,438,52,84,116
+2015,FL,"Fort Pierce/St. Lucie, Indian River, Martin Counties CoC",FL-509,573,17,29,48
+2015,FL,"Jacksonville-Duval, Clay Counties CoC",FL-510,346,16,27,36
+2015,FL,Pensacola/Escambia/Santa Rosa County CoC,FL-511,285,15,20,37
+2015,FL,Saint Johns County CoC,FL-512,225,22,36,57
+2015,FL,Palm Bay/Melbourne/Brevard County CoC,FL-513,309,16,22,30
+2015,FL,Ocala/Marion County CoC,FL-514,554,55,83,102
+2015,FL,"Panama City/Bay, Jackson Counties CoC",FL-515,113,6,11,15
+2015,FL,"Hendry, Hardee, Highlands Counties CoC",FL-517,84,6,6,6
+2015,FL,"Columbia, Hamilton, Lafayette, Suwannee Counties CoC",FL-518,307,135,143,150
+2015,FL,Pasco County CoC,FL-519,224,4,8,20
+2015,FL,"Citrus, Hernando, Lake, Sumter Counties CoC",FL-520,31,0,0,0
+2015,FL,Miami/Dade County CoC,FL-600,3808,563,770,890
+2015,FL,Ft Lauderdale/Broward County CoC,FL-601,1984,318,449,522
+2015,FL,Punta Gorda/Charlotte County CoC,FL-602,383,29,44,51
+2015,FL,Ft Myers/Cape Coral/Lee County CoC,FL-603,324,38,50,66
+2015,FL,Monroe County CoC,FL-604,376,97,109,131
+2015,FL,West Palm Beach/Palm Beach County CoC,FL-605,1676,61,118,233
+2015,FL,Naples/Collier County CoC,FL-606,19,1,1,2
+2015,GA,Atlanta Continuum of Care,GA-500,4240,528,777,1084
+2015,GA,Georgia Balance of State CoC,GA-501,4264,288,430,584
+2015,GA,Fulton County Continuum of Care,GA-502,0,0,0,0
+2015,GA,Athens/Clarke County CoC,GA-503,491,4,9,9
+2015,GA,Augusta CoC,GA-504,532,33,51,86
+2015,GA,Columbus-Muscogee/Russell County CoC,GA-505,154,8,11,17
+2015,GA,Marietta/Cobb County CoC,GA-506,618,38,77,115
+2015,GA,Savannah/Chatham County CoC,GA-507,685,114,154,154
+2015,GA,DeKalb County Continuum of Care,GA-508,461,27,46,70
+2015,GU,Guam CoC,GU-500,212,14,17,27
+2015,HI,Hawaii Balance of State CoC,HI-500,1212,80,157,233
+2015,HI,Honolulu CoC,HI-501,2842,214,372,596
+2015,IA,"Sioux City/Dakota, Woodbury Counties CoC",IA-500,178,7,14,16
+2015,IA,Iowa Balance of State CoC,IA-501,2346,205,330,494
+2015,IA,Des Moines/Polk County CoC,IA-502,1458,221,300,402
+2015,ID,Boise/Ada County CoC,ID-500,502,24,36,54
+2015,ID,Idaho Balance of State,ID-501,1056,71,110,150
+2015,IL,McHenry County CoC,IL-500,234,2,2,18
+2015,IL,"Rockford/Winnebago, Boone Counties CoC",IL-501,58,2,10,10
+2015,IL,Waukegan/North Chicago/Lake County CoC,IL-502,466,66,110,121
+2015,IL,Champaign/Urbana/Rantoul/Champaign County CoC,IL-503,309,26,38,51
+2015,IL,Madison County CoC,IL-504,61,2,2,5
+2015,IL,Joliet/Bolingbrook/Will County CoC,IL-506,523,72,106,145
+2015,IL,"Peoria/Perkin/Fulton, Peoria, Tazewell, Woodford CoC",IL-507,210,13,17,19
+2015,IL,East Saint Louis/Belleville/Saint Clair County CoC,IL-508,148,7,14,17
+2015,IL,Dekalb City & County CoC,IL-509,147,3,12,19
+2015,IL,Chicago CoC,IL-510,4591,413,629,932
+2015,IL,Cook County CoC,IL-511,817,89,110,137
+2015,IL,Bloomington/Central Illinois CoC,IL-512,298,12,16,43
+2015,IL,Springfield/Sangamon County CoC,IL-513,367,46,69,84
+2015,IL,DuPage County CoC,IL-514,513,64,84,109
+2015,IL,South Central Illinois CoC,IL-515,23,2,3,3
+2015,IL,Decatur/Macon County CoC,IL-516,55,4,5,5
+2015,IL,Aurora/Elgin/Kane County CoC,IL-517,163,55,63,67
+2015,IL,Rock Island/Moline/Northwestern Illinois CoC,IL-518,0,0,0,0
+2015,IL,West Central Illinois CoC,IL-519,174,6,11,28
+2015,IL,Southern Illinois CoC,IL-520,426,6,10,14
+2015,IN,South Bend/Mishawaka/St. Joseph County CoC,IN-500,369,37,54,88
+2015,IN,Indiana Balance of State CoC,IN-502,3683,358,505,698
+2015,IN,Indianapolis CoC,IN-503,1078,88,137,229
+2015,KS,Wichita/Sedgwick County CoC,KS-502,826,83,128,165
+2015,KS,Topeka/Shawnee County CoC,KS-503,92,13,22,29
+2015,KS,Overland Park/Shawnee/Johnson County CoC,KS-505,161,8,8,12
+2015,KS,Kansas Balance of State CoC,KS-507,1621,189,279,356
+2015,KY,Kentucky Balance of State CoC,KY-500,3272,201,296,411
+2015,KY,Louisville/Jefferson County CoC,KY-501,1651,329,408,502
+2015,KY,Lexington/Fayette County CoC,KY-502,694,60,84,112
+2015,LA,Lafayette/Acadiana CoC,LA-500,570,46,72,120
+2015,LA,Shreveport/Bossier/Northwest CoC,LA-502,581,38,81,135
+2015,LA,New Orleans/Jefferson Parish CoC,LA-503,1903,192,272,354
+2015,LA,Monroe/Northeast Louisiana CoC,LA-505,456,28,39,54
+2015,LA,Slidell/Southeast Louisiana CoC,LA-506,123,6,9,15
+2015,LA,Alexandria/Central Louisiana CoC,LA-507,219,10,18,34
+2015,LA,Houma-Terrebonne/Thibodaux CoC,LA-508,179,11,11,21
+2015,LA,Louisiana Balance of State (BoS),LA-509,109,25,38,45
+2015,MA,Boston CoC,MA-500,721,74,94,125
+2015,MA,Lynn CoC,MA-502,283,10,19,23
+2015,MA,Cape Cod/Islands CoC,MA-503,366,27,38,56
+2015,MA,Springfield CoC,MA-504,1182,20,48,94
+2015,MA,New Bedford CoC,MA-505,380,14,28,40
+2015,MA,Worcester City & County CoC,MA-506,1427,207,290,342
+2015,MA,Pittsfield/Berkshire County CoC,MA-507,398,4,22,49
+2015,MA,Lowell CoC,MA-508,0,0,0,0
+2015,MA,Cambridge CoC,MA-509,121,5,14,17
+2015,MA,Gloucester/Haverhill/Salem/Essex County CoC,MA-510,599,27,44,63
+2015,MA,Quincy/Brockton/Weymouth/Plymouth City and County CoC,MA-511,989,134,183,225
+2015,MA,Fall River CoC,MA-515,352,30,35,46
+2015,MA,Massachusetts Balance of State,MA-516,649,17,27,35
+2015,MA,Somerville CoC,MA-517,77,2,3,4
+2015,MA,Attleboro/Taunton/Bristol County CoC,MA-519,246,9,13,17
+2015,MD,Cumberland/Allegany County CoC,MD-500,113,9,13,19
+2015,MD,Baltimore City CoC,MD-501,1269,71,116,173
+2015,MD,Harford County CoC,MD-502,139,4,11,16
+2015,MD,Annapolis/Anne Arundel County CoC,MD-503,360,38,50,61
+2015,MD,Howard County CoC,MD-504,105,4,4,4
+2015,MD,Baltimore County CoC,MD-505,721,51,84,130
+2015,MD,Carroll County CoC,MD-506,135,2,10,19
+2015,MD,Cecil County CoC,MD-507,0,0,0,0
+2015,MD,"Charles, Calvert, St.Mary's Counties CoC",MD-508,308,14,28,41
+2015,MD,Frederick City & County CoC,MD-509,72,1,4,5
+2015,MD,Garrett County CoC,MD-510,147,7,15,22
+2015,MD,Mid-Shore Regional CoC,MD-511,85,4,10,13
+2015,MD,Hagerstown/Washington County CoC,MD-512,0,0,0,0
+2015,MD,Wicomico/Somerset/Worcester County CoC,MD-513,336,35,60,83
+2015,MD,Prince George`s County/Maryland CoC,MD-600,523,12,23,50
+2015,MD,Montgomery County CoC,MD-601,1058,53,91,146
+2015,ME,Maine Balance of State CoC,ME-500,3337,437,616,798
+2015,MI,Michigan Balance of State CoC,MI-500,5244,449,720,955
+2015,MI,Detroit CoC,MI-501,5432,1257,1590,1961
+2015,MI,Dearborn/Dearborn Heights/Westland/Wayne County CoC,MI-502,1105,59,79,102
+2015,MI,St. Clair Shores/Warren/Macomb County CoC,MI-503,648,63,85,126
+2015,MI,Pontiac/Royal Oak/Oakland County CoC,MI-504,109,7,9,10
+2015,MI,Flint/Genesee County CoC,MI-505,310,47,58,77
+2015,MI,Grand Rapids/Wyoming/Kent County CoC,MI-506,703,67,118,157
+2015,MI,Portage/Kalamazoo City & County CoC,MI-507,369,38,71,103
+2015,MI,Lansing/East Lansing/Ingham County CoC,MI-508,1131,209,314,423
+2015,MI,Ann Arbor/Washtenaw County CoC,MI-509,698,193,219,263
+2015,MI,Saginaw City & County CoC,MI-510,808,115,182,253
+2015,MI,Lenawee County CoC,MI-511,121,12,27,28
+2015,MI,"Grand Traverse, Antrim, Leelanau Counties CoC",MI-512,422,71,108,141
+2015,MI,"Marquette, Alger Counties CoC",MI-513,77,0,4,12
+2015,MI,Battle Creek/Calhoun County CoC,MI-514,1148,226,300,364
+2015,MI,Monroe City & County CoC,MI-515,210,30,45,55
+2015,MI,Norton Shores/Muskegon City & County CoC,MI-516,722,116,175,228
+2015,MI,Jackson City & County CoC,MI-517,591,57,91,121
+2015,MI,Livingston County CoC,MI-518,202,20,29,36
+2015,MI,Holland/Ottawa County CoC,MI-519,294,51,79,106
+2015,MI,Eaton County CoC,MI-523,135,9,16,26
+2015,MN,Minneapolis/Hennepin County CoC,MN-500,3407,147,316,688
+2015,MN,Saint Paul/Ramsey County CoC,MN-501,927,35,54,87
+2015,MN,Rochester/Southeast Minnesota CoC,MN-502,509,8,21,28
+2015,MN,"Dakota, Anoka, Washington, Scott, Carver Counties ",MN-503,738,24,39,87
+2015,MN,Northeast Minnesota CoC,MN-504,135,0,1,2
+2015,MN,St. Cloud/Central Minnesota CoC,MN-505,496,27,49,70
+2015,MN,Northwest Minnesota CoC,MN-506,431,15,26,62
+2015,MN,Moorhead/West Central Minnesota CoC,MN-508,189,6,8,12
+2015,MN,Duluth/St.Louis County CoC,MN-509,423,11,14,34
+2015,MN,Southwest Minnesota CoC,MN-511,204,6,7,16
+2015,MO,St. Louis County CoC,MO-500,324,24,33,38
+2015,MO,St.Louis City CoC,MO-501,934,68,119,188
+2015,MO,"St. Charles, Lincoln, Warren Counties CoC",MO-503,240,7,9,17
+2015,MO,"Springfield/Greene, Christian, Webster Counties CoC",MO-600,85,4,8,14
+2015,MO,"Joplin/Jasper, Newton Counties CoC",MO-602,124,2,4,7
+2015,MO,"St. Joseph/Andrew, Buchanan, DeKalb Counties CoC",MO-603,383,73,91,111
+2015,KS,Kansas City/Wyandotte County CoC,MO-604K,421,35,54,62
+2015,MO,Kansas City/Independence/Lee's Summit/Jackson County CoC,MO-604M,1844,350,503,589
+2015,MO,Missouri Balance of State CoC,MO-606,681,16,29,69
+2015,MS,"Jackson/Rankin, Madison Counties CoC",MS-500,362,22,38,47
+2015,MS,Mississippi Balance of State CoC,MS-501,450,61,88,176
+2015,MS,Gulf Port/Gulf Coast Regional CoC,MS-503,52,0,1,1
+2015,MT,Montana Statewide CoC,MT-500,1020,10,24,33
+2015,NC,Winston Salem/Forsyth County CoC,NC-500,1268,200,253,311
+2015,NC,Asheville/Buncombe County CoC,NC-501,723,70,110,145
+2015,NC,Durham City & County CoC,NC-502,515,50,74,96
+2015,NC,North Carolina Balance of State CoC,NC-503,2950,244,375,444
+2015,NC,Greensboro/High Point CoC,NC-504,1341,139,217,311
+2015,NC,Charlotte/Mecklenberg CoC,NC-505,1216,80,130,202
+2015,NC,"Wilmington/Brunswick, New Hanover, Pender Counties CoC",NC-506,338,35,55,61
+2015,NC,Raleigh/Wake County CoC,NC-507,1114,91,151,230
+2015,NC,"Gastonia/Cleveland, Gaston, Lincoln Counties CoC",NC-509,265,23,34,42
+2015,NC,Fayetteville/Cumberland County CoC,NC-511,133,2,2,13
+2015,NC,Chapel Hill/Orange County CoC,NC-513,147,9,21,30
+2015,NC,Northwest North Carolina CoC,NC-516,162,22,26,33
+2015,ND,North Dakota Statewide CoC,ND-500,854,23,48,157
+2015,NE,Nebraska Balance of State CoC,NE-500,835,89,130,163
+2015,NE,Omaha/Council Bluffs CoC,NE-501,1574,179,273,383
+2015,NE,Lincoln CoC,NE-502,547,65,88,123
+2015,NH,New Hampshire Balance of State CoC,NH-500,1067,152,222,266
+2015,NH,Manchester CoC,NH-501,566,69,91,110
+2015,NH,Nashua/Hillsborough County CoC,NH-502,420,57,76,94
+2015,NJ,Atlantic City & County CoC,NJ-500,165,9,13,17
+2015,NJ,Bergen County CoC,NJ-501,470,15,41,55
+2015,NJ,Burlington County CoC,NJ-502,330,11,20,40
+2015,NJ,"Camden City/Camden, Cumberland, Gloucester, Cape May Counties CoC",NJ-503,1148,41,86,144
+2015,NJ,Newark/Essex County CoC,NJ-504,1674,40,75,134
+2015,NJ,Jersey City/Bayonne/Hudson County CoC,NJ-506,612,67,111,138
+2015,NJ,New Brunswick/Middlesex County CoC,NJ-507,326,22,32,40
+2015,NJ,Monmouth County CoC,NJ-508,188,11,18,36
+2015,NJ,Morris County CoC,NJ-509,270,12,22,44
+2015,NJ,Lakewood Township/Ocean County CoC,NJ-510,49,0,1,2
+2015,NJ,Paterson/Passaic County CoC,NJ-511,467,5,11,29
+2015,NJ,Salem County CoC,NJ-512,56,0,0,0
+2015,NJ,Somerset County CoC,NJ-513,159,0,6,11
+2015,NJ,Trenton/Mercer County CoC,NJ-514,1249,52,82,160
+2015,NJ,Elizabeth/Union County CoC,NJ-515,517,21,44,88
+2015,NJ,"Warren, Sussex, Hunterdon Counties CoC   ",NJ-516,424,11,19,31
+2015,NM,Albuquerque CoC,NM-500,1566,124,234,346
+2015,NM,New Mexico Balance of State CoC,NM-501,1200,67,98,148
+2015,NV,Las Vegas/Clark County CoC,NV-500,2806,426,525,619
+2015,NV,Reno/Sparks/Washoe County CoC,NV-501,653,86,150,192
+2015,NV,Nevada Balance of State CoC,NV-502,223,8,10,14
+2015,NY,Rochester/Irondequoit/Greece/Monroe County CoC,NY-500,2683,235,405,625
+2015,NY,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC ",NY-501,537,17,39,57
+2015,NY,Auburn/Cayuga County,NY-502,0,0,0,0
+2015,NY,Albany City & County CoC,NY-503,1253,63,125,199
+2015,NY,Cattaragus County CoC,NY-504,187,1,2,3
+2015,NY,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC",NY-505,1943,243,391,497
+2015,NY,Schenectady City & County CoC,NY-507,349,1,5,11
+2015,NY,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC",NY-508,1652,189,296,359
+2015,NY,Ithaca/Tompkins County CoC,NY-510,238,9,25,30
+2015,NY,"Binghamton, Union/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties CoC",NY-511,0,0,0,0
+2015,NY,Troy/Rensselaer County CoC,NY-512,556,31,66,89
+2015,NY,"Wayne, Ontario, Seneca, Yates Counties CoC",NY-513,0,0,0,0
+2015,NY,Jamestown/Dunkirk/Chautauqua County CoC,NY-514,26,3,5,5
+2015,NY,Clinton County CoC,NY-516,67,2,6,12
+2015,NY,"Utica/Rome/Oneida, Madison Counties CoC",NY-518,448,15,28,37
+2015,NY,Columbia/Greene County CoC,NY-519,11,0,0,0
+2015,NY,Franklin County CoC,NY-520,21,0,0,0
+2015,NY,Jefferson/Lewis/St. Lawrence Counties CoC,NY-522,547,11,28,56
+2015,NY,"Glens Falls/Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties CoC",NY-523,378,21,30,42
+2015,NY,New York City CoC,NY-600,25748,4154,5802,7982
+2015,NY,Poughkeepsie/Dutchess County CoC,NY-601,305,20,39,47
+2015,NY,Newburgh/Middletown/Orange County CoC,NY-602,105,8,9,16
+2015,NY,"Nassau, Suffolk Counties/Babylon/Islip/ Huntington CoC",NY-603,1312,114,165,241
+2015,NY,Yonkers/Mount Vernon/New Rochelle/Westchester CoC,NY-604,1110,8,36,114
+2015,NY,Rockland County CoC,NY-606,72,0,2,4
+2015,NY,Sullivan County CoC,NY-607,456,21,37,37
+2015,NY,Kingston/Ulster County CoC,NY-608,655,56,112,164
+2015,OH,Cincinnati/Hamilton County CoC,OH-500,3923,373,615,1000
+2015,OH,Toledo/Lucas County CoC,OH-501,1203,86,138,220
+2015,OH,Cleveland/Cuyahoga County CoC,OH-502,2883,470,698,941
+2015,OH,Columbus/Franklin County CoC,OH-503,6161,791,1287,1969
+2015,OH,Youngstown/Mahoning County CoC,OH-504,524,52,88,100
+2015,OH,Dayton/Kettering/Montgomery County CoC,OH-505,1945,209,311,464
+2015,OH,Akron/Barberton/Summit County CoC,OH-506,812,83,116,167
+2015,OH,Ohio Balance of State CoC,OH-507,8663,725,1092,1616
+2015,OH,Canton/Massillon/Alliance/Stark County CoC,OH-508,391,15,22,40
+2015,OK,North Central Oklahoma CoC,OK-500,205,8,23,32
+2015,OK,Tulsa City & County/Broken Arrow CoC,OK-501,133,14,22,36
+2015,OK,Oklahoma City CoC,OK-502,214,4,7,10
+2015,OK,Oklahoma Balance of State CoC,OK-503,33,0,0,1
+2015,OK,Norman/Cleveland County CoC,OK-504,51,0,0,0
+2015,OK,Northeast Oklahoma CoC,OK-505,232,30,47,50
+2015,OK,Southwest Oklahoma Regional CoC,OK-506,179,17,21,24
+2015,OK,Southeastern Oklahoma Regional CoC,OK-507,810,49,90,132
+2015,OR,Eugene/Springfield/Lane County CoC,OR-500,630,48,81,120
+2015,OR,Portland-Gresham-Multnomah County CoC,OR-501,3178,308,502,786
+2015,OR, Medford/Ashland/Jackson County CoC,OR-502,662,13,17,36
+2015,OR,Central Oregon CoC,OR-503,585,68,90,111
+2015,OR,Oregon Balance of State CoC,OR-505,1593,96,136,183
+2015,OR,Hillsboro/Beaverton/Washington County CoC,OR-506,466,18,29,52
+2015,OR,Clackamas County CoC,OR-507,130,0,0,0
+2015,PA,Philadelphia CoC,PA-500,2944,193,313,434
+2015,PA,Harrisburg/Dauphin County CoC,PA-501,317,7,12,34
+2015,PA,Upper Darby/Chester/Haverford/Delaware County CoC,PA-502,429,28,50,67
+2015,PA,Wilkes-Barre/Hazleton/Luzerne County CoC,PA-503,210,11,17,27
+2015,PA,Lower Marion/Norristown/Abington/Montgomery County CoC,PA-504,319,20,28,38
+2015,PA,Chester County CoC,PA-505,475,44,77,98
+2015,PA,Reading/Berks County CoC,PA-506,962,44,82,149
+2015,PA,Scranton/Lackawanna County CoC,PA-508,232,12,19,33
+2015,PA,Eastern Pennsylvania CoC,PA-509,1629,26,74,121
+2015,PA,Lancaster City & County CoC,PA-510,693,40,74,108
+2015,PA,Bristol/Bensalem/Bucks County CoC,PA-511,326,10,31,70
+2015,PA,York City & County CoC,PA-512,580,50,88,162
+2015,PA,Pittsburgh/McKeesport/Penn Hills/Allegheny County CoC,PA-600,751,45,75,104
+2015,PA,Western Pennsylvania CoC,PA-601,1248,76,129,213
+2015,PA,Beaver County CoC,PA-603,394,17,42,57
+2015,PA,Erie City & County CoC,PA-605,664,69,120,170
+2015,PR,Puerto Rico Balance of Commonwealth CoC,PR-502,629,91,142,180
+2015,PR,South/Southeast Puerto Rico CoC,PR-503,540,20,33,72
+2015,RI,Rhode Island Statewide CoC,RI-500,1756,200,293,343
+2015,SC,Charleston/Low Country CoC,SC-500,500,18,41,59
+2015,SC,Greenville/Anderson/Spartanburg Upstate CoC,SC-501,920,49,87,132
+2015,SC,Columbia/Midlands CoC,SC-502,1007,77,130,184
+2015,SC,Myrtle Beach/Sumter City & County CoC,SC-503,316,29,44,58
+2015,SD,South Dakota Statewide CoC,SD-500,236,18,29,32
+2015,TN,Chattanooga/Southeast Tennessee CoC,TN-500,359,44,73,95
+2015,TN,Memphis/Shelby County CoC,TN-501,1075,43,91,151
+2015,TN,Knoxville/Knox County CoC,TN-502,555,63,77,99
+2015,TN,Central Tennessee CoC,TN-503,258,2,5,7
+2015,TN,Nashville/Davidson County CoC,TN-504,1313,44,57,114
+2015,TN,Oak Ridge/Upper Cumberland CoC,TN-506,150,4,4,9
+2015,TN,Jackson/West Tennessee CoC,TN-507,298,5,7,20
+2015,TN,Appalachian Regional CoC,TN-509,236,24,35,44
+2015,TN,Murfreesboro/Rutherford County CoC,TN-510,124,4,13,27
+2015,TN,"Morristown/Blount, Sevier, Campbell, Cocke Counties CoC",TN-512,282,15,22,28
+2015,TX,San Antonio/Bexar County CoC,TX-500,2251,154,333,495
+2015,TX,Austin/Travis County CoC,TX-503,1117,83,125,185
+2015,TX,Dallas City & County/Irving CoC,TX-600,1515,43,99,140
+2015,TX,Fort Worth/Arlington/Tarrant County CoC,TX-601,1321,63,72,102
+2015,TX,El Paso City & County CoC,TX-603,866,45,70,95
+2015,TX,Waco/McLennan County CoC,TX-604,208,68,69,72
+2015,TX,Texas Balance of State (BoS) CoC,TX-607,3821,361,545,728
+2015,TX,Amarillo CoC,TX-611,305,40,61,73
+2015,TX,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties CoC",TX-624,0,0,0,0
+2015,TX,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties CoC",TX-700,2532,338,487,726
+2015,TX,Bryan/College Station/Brazos Valley CoC,TX-701,232,23,29,44
+2015,UT,Salt Lake City & County CoC,UT-500,1989,439,643,821
+2015,UT,Utah Balance of State CoC,UT-503,813,52,82,119
+2015,UT,Provo/Mountainland CoC,UT-504,287,14,24,39
+2015,VA,"Richmond/Henrico, Chesterfield, Hanover Counties CoC",VA-500,1348,134,213,280
+2015,VA,"Norfolk/Chesapeake/Suffolk/Isle of Wright, Southampton Counties CoC ",VA-501,558,20,31,40
+2015,VA,Roanoke City & County/Salem CoC,VA-502,563,19,20,20
+2015,VA,Virginia Beach CoC,VA-503,389,37,48,62
+2015,VA,Charlottesville CoC,VA-504,49,0,0,0
+2015,VA,Newport News/Hampton/Virginia Peninsula CoC,VA-505,547,132,141,161
+2015,VA,Portsmouth CoC,VA-507,195,4,8,9
+2015,VA,Lynchburg CoC,VA-508,225,11,22,28
+2015,VA,"Harrisburg, Winchester/Western Virginia CoC",VA-513,288,8,17,21
+2015,VA,"Fredericksburg/Spotsylvania, Stafford Counties CoC",VA-514,313,26,58,85
+2015,VA,Virginia Balance of State (BoS) CoC,VA-521,1323,94,147,190
+2015,VA,Arlington County CoC,VA-600,299,55,67,74
+2015,VA,Fairfax County CoC,VA-601,1297,155,240,329
+2015,VA,Loudoun County CoC,VA-602,132,12,16,18
+2015,VA,City of Alexandria CoC,VA-603,238,20,35,55
+2015,VA,Prince William County CoC,VA-604,565,79,100,142
+2015,VI,Virgin Islands CoC,VI-500,0,0,0,0
+2015,VT,Vermont Balance of State CoC,VT-500,375,15,24,39
+2015,VT,Burlington/Chittenden County CoC,VT-501,33,1,3,3
+2015,WA,Seattle/King County CoC,WA-500,2441,117,196,286
+2015,WA,Washington Balance of State CoC,WA-501,5886,144,206,301
+2015,WA,Spokane City & County CoC,WA-502,2078,135,213,343
+2015,WA,Tacoma/Lakewood/Pierce County CoC,WA-503,2723,140,204,298
+2015,WA,Everett/Snohomish County CoC,WA-504,1437,87,109,139
+2015,WA,Yakima City & County CoC,WA-507,1060,48,94,119
+2015,WA,Vancouver/Clark County CoC,WA-508,1166,144,198,272
+2015,WI,Wisconsin Balance of State CoC,WI-500,3703,310,542,779
+2015,WI,Milwaukee City & County CoC,WI-501,1572,253,359,483
+2015,WI,Racine City & County CoC,WI-502,192,17,25,33
+2015,WI,Madison/Dane County CoC,WI-503,943,64,137,198
+2015,WV,Wheeling/Weirton Area CoC,WV-500,156,22,29,35
+2015,WV,"Huntington/Cabell, Wayne Counties CoC",WV-501,815,151,203,255
+2015,WV,"Charleston/Kanawha, Putnam, Boone, Clay Counties CoC",WV-503,913,156,193,232
+2015,WV,West Virginia Balance of State CoC,WV-508,1103,138,168,225
+2015,WY,Wyoming Statewide CoC,WY-500,427,65,86,158
+2018,NC,Durham City & County CoC,NC-502,561,39,29,35
+2018,CO,Metropolitan Denver CoC,CO-503,2993,207,98,85
