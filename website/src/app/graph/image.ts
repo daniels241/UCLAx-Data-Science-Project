@@ -6,13 +6,13 @@ export interface Item {
 
 export const graphs: Item[] = [
     {
-        source: "../../assets/SPM5_x_year.png",
-        title: "First Time Homeless vs Year",
+        source: "../../assets/Year_x_doe_total_CoC_category_2.png",
+        title: "Total Homeless per Year",
         desc: `Bullet points go here!`
     },
     {
-        title: "First Time Homeless vs Year",
         source: "../../assets/SPM5_x_year.png",
+        title: "First Time Homeless vs Year",
         desc: `Bullet points go here!`
     },
 ]

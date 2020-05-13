@@ -1,29 +1,19 @@
 <div class="container">
     <div class="row">
         <div class="twelve columns u-centered">
-            <h3>{{param1.display | titlecase}} graphed against {{param2.display | titlecase}}</h3>
+            <h3>{{ graph.title | titlecase }}</h3>
         </div>
     </div>
     <div class="row">
-        <div class="twelve columns"><img class="u-centered" [src]='image.source'/></div>
+        <div class="twelve columns"><img class="u-centered" [src]='graph.source' [alt]='graph.title'/></div>
     </div>
     <div class="row">
-        <div class="four columns offset-by-two"><label>Y Axis:</label><br>
-            <select [(ngModel)]="param1.name" (change)="newGraph(param1, param2)">
-                <option *ngFor="let option of options"
-                        [value]="option.name"
-                        [selected]="option.name == param1.name ? true : null">
-                {{option.display}}
-                </option>
-            </select>
-        </div>
-        <div class="four columns">
-            <label>X Axis:</label><br>
-            <select [(ngModel)]="param2.name" (change)="newGraph(param1, param2)">
-                <option *ngFor="let option of options"
-                        [value]="option.name"
-                        [selected]="option.name == param2.name ? true : null">
-                {{option.display}}
+        <div class="eight columns offset-by-two"><label>Choose a Graph</label><br>
+            <select [(ngModel)]="graph">
+                <option *ngFor="let graphChosen of graphList"
+                        [ngValue]="graphChosen"
+                        [selected]="graphChosen.title == graph.title ? true : null">
+                {{graphChosen.title}}
                 </option>
             </select>
         </div>
