@@ -9,7 +9,7 @@
 
   /***/
   function node_modulesAngularDevkitBuildAngularSrcAngularCliFilesPluginsRawCssLoaderJsNode_modulesPostcssLoaderSrcIndexJsNode_modulesSassLoaderDistCjsJsSrcStylesScss(module, exports) {
-    module.exports = [[module.i, "/* You can add global styles to this file, and also import other style files */\nbody {\n  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('background.jpg');\n  color: white;\n  margin: 0px;\n  padding: 0px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9EOlxcQ29kaW5nXFxob21lbGVzc25lc3MtcHJvamVjdFxcVUNMQXgtRGF0YS1TY2llbmNlLVByb2plY3RcXHdlYnNpdGUvc3JjXFxzdHlsZXMuc2NzcyIsInNyYy9zdHlsZXMuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSw4RUFBQTtBQUNBO0VBQ0ksMEZBQ0E7RUFLQSxZQUFBO0VBRUEsV0FBQTtFQUNBLFlBQUE7QUNMSiIsImZpbGUiOiJzcmMvc3R5bGVzLnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIvKiBZb3UgY2FuIGFkZCBnbG9iYWwgc3R5bGVzIHRvIHRoaXMgZmlsZSwgYW5kIGFsc28gaW1wb3J0IG90aGVyIHN0eWxlIGZpbGVzICovXG5ib2R5IHtcbiAgICBiYWNrZ3JvdW5kOiBcbiAgICBsaW5lYXItZ3JhZGllbnQoXG4gICAgICAgICAgcmdiYSgwLCAwLCAwLCAwLjgpLCBcbiAgICAgICAgICByZ2JhKDAsIDAsIDAsIDAuOClcbiAgICAgICAgKSxcbiAgICB1cmwoXCJhc3NldHMvYmFja2dyb3VuZC5qcGdcIik7XG4gICAgY29sb3I6IHdoaXRlO1xuXG4gICAgbWFyZ2luOiAwcHg7XG4gICAgcGFkZGluZzogMHB4O1xuICB9IiwiLyogWW91IGNhbiBhZGQgZ2xvYmFsIHN0eWxlcyB0byB0aGlzIGZpbGUsIGFuZCBhbHNvIGltcG9ydCBvdGhlciBzdHlsZSBmaWxlcyAqL1xuYm9keSB7XG4gIGJhY2tncm91bmQ6IGxpbmVhci1ncmFkaWVudChyZ2JhKDAsIDAsIDAsIDAuOCksIHJnYmEoMCwgMCwgMCwgMC44KSksIHVybChcImFzc2V0cy9iYWNrZ3JvdW5kLmpwZ1wiKTtcbiAgY29sb3I6IHdoaXRlO1xuICBtYXJnaW46IDBweDtcbiAgcGFkZGluZzogMHB4O1xufSJdfQ== */", '', '']];
+    module.exports = [[module.i, "/* You can add global styles to this file, and also import other style files */\nbody {\n  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('background.jpg');\n  color: white;\n  margin: 0px;\n  padding: 0px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9EOlxcQ29kaW5nXFxVQ0xBeC1EYXRhLVNjaWVuY2UtUHJvamVjdFxcd2Vic2l0ZS9zcmNcXHN0eWxlcy5zY3NzIiwic3JjL3N0eWxlcy5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLDhFQUFBO0FBQ0E7RUFDSSwwRkFDQTtFQUtBLFlBQUE7RUFFQSxXQUFBO0VBQ0EsWUFBQTtBQ0xKIiwiZmlsZSI6InNyYy9zdHlsZXMuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qIFlvdSBjYW4gYWRkIGdsb2JhbCBzdHlsZXMgdG8gdGhpcyBmaWxlLCBhbmQgYWxzbyBpbXBvcnQgb3RoZXIgc3R5bGUgZmlsZXMgKi9cclxuYm9keSB7XHJcbiAgICBiYWNrZ3JvdW5kOiBcclxuICAgIGxpbmVhci1ncmFkaWVudChcclxuICAgICAgICAgIHJnYmEoMCwgMCwgMCwgMC44KSwgXHJcbiAgICAgICAgICByZ2JhKDAsIDAsIDAsIDAuOClcclxuICAgICAgICApLFxyXG4gICAgdXJsKFwiYXNzZXRzL2JhY2tncm91bmQuanBnXCIpO1xyXG4gICAgY29sb3I6IHdoaXRlO1xyXG5cclxuICAgIG1hcmdpbjogMHB4O1xyXG4gICAgcGFkZGluZzogMHB4O1xyXG4gIH0iLCIvKiBZb3UgY2FuIGFkZCBnbG9iYWwgc3R5bGVzIHRvIHRoaXMgZmlsZSwgYW5kIGFsc28gaW1wb3J0IG90aGVyIHN0eWxlIGZpbGVzICovXG5ib2R5IHtcbiAgYmFja2dyb3VuZDogbGluZWFyLWdyYWRpZW50KHJnYmEoMCwgMCwgMCwgMC44KSwgcmdiYSgwLCAwLCAwLCAwLjgpKSwgdXJsKFwiYXNzZXRzL2JhY2tncm91bmQuanBnXCIpO1xuICBjb2xvcjogd2hpdGU7XG4gIG1hcmdpbjogMHB4O1xuICBwYWRkaW5nOiAwcHg7XG59Il19 */", '', '']];
     /***/
   },
 
@@ -353,7 +353,7 @@
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! D:\Coding\homelessness-project\UCLAx-Data-Science-Project\website\src\styles.scss */
+    /*! D:\Coding\UCLAx-Data-Science-Project\website\src\styles.scss */
     "./src/styles.scss");
     /***/
   }
