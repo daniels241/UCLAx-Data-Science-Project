@@ -1,4 +1,4 @@
-<div class="container">
+<div class="">
     <div class="row">
         <div class="twelve columns u-centered">
             <h3>{{ graph.title | titlecase }}</h3>
@@ -9,13 +9,18 @@
     </div>
     <div class="row">
         <div class="eight columns offset-by-two"><label>Choose a Graph</label><br>
-            <select [(ngModel)]="graph">
+            <select [(ngModel)]="graph" (ngModelChange)="newGraph(graph)">
                 <option *ngFor="let graphChosen of graphList"
                         [ngValue]="graphChosen"
                         [selected]="graphChosen.title == graph.title ? true : null">
                 {{graphChosen.title}}
                 </option>
             </select>
+        </div>
+    </div>
+    <div class="row">
+        <div class="twelve columns">
+            <p class="data">{{ graph.desc }}</p>
         </div>
     </div>
 </div>

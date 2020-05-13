@@ -16,17 +16,11 @@ export class GraphComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-    this.graph = {
-      source: "../../assets/Year_x_doe_total_CoC_category_2.png",
-      title: "Total Homeless per Year",
-      desc: `Bullet points go here!`
-  }
+    this.graph = graphs[0];
     this.graphList = graphs;
   }
 
   newGraph(graph: Item): void {
-    console.log(`changing graph to ${graph.title}`)
-    this.graph = graph;
   }
 
 }
