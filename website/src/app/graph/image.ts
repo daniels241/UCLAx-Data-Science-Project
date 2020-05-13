@@ -1,47 +1,31 @@
-export interface Image {
+export interface Item { 
     source: string,
-    param1?: Option,
-    param2?: Option,
-}
-
-export interface Graph { 
     title?: string, 
-    img?: Image,
     desc?: string,
 }
 
-export interface Table {
-    title?: string, 
-    source: string,
-    desc?: string,
-}
-
-export const graphs: Graph[] = [
+export const graphs: Item[] = [
     {
+        source: "../../assets/SPM5_x_year.png",
         title: "First Time Homeless vs Year",
-        img: {
-            source: "../../assets/SPM5_x_year.png"
-        },
         desc: `Bullet points go here!`
     },
     {
         title: "First Time Homeless vs Year",
-        img: {
-            source: "../../assets/SPM5_x_year.png"
-        },
+        source: "../../assets/SPM5_x_year.png",
         desc: `Bullet points go here!`
     },
 ]
 
-export const tables: Table[] = [
+export const tables: Item[] = [
     {
-        title: "First Time Homeless vs Year",
         source: "",
+        title: "First Time Homeless vs Year",
         desc: `Bullet points go here!`
     },
     {
-        title: "First Time Homeless vs Year",
         source: "",
+        title: "First Time Homeless vs Year",
         desc: `Bullet points go here!`
     },
 ]
