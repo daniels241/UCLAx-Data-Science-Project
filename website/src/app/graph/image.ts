@@ -54,15 +54,25 @@ export const graphs: Item[] = [
 
 export const tables: Item[] = [
     {
-        source: "",
-        title: "First Time Homeless vs Year",
-        desc: `Bullet points go here!`
+        source: "../../assets/coc_category_by_coc_type.png",
+        title: "CoC Category vs. Coc Type",
+        desc: `There are far more non urban CoCs than urban CoCs.`
     },
     {
-        source: "",
-        title: "First Time Homeless vs Year",
-        desc: `Bullet points go here!`
+        source: "../../assets/monetary_counts_by_coc_type.png",
+        title: "Monetary Rewards vs. CoC Type",
+        desc: `The monetary rewards going into each CoC type are comparable with slightly more money going towards planning for non urban CoCs.`
     },
+    {
+        source: "../../assets/recidivism_counts_by_coc_type.png",
+        title: "Recidivism Counts vs. Coc Type",
+        desc: `By all counts recidivism is worse in non urban CoCs.`
+    },
+    {
+        source: "../../assets/student_counts_by_coc_type.png",
+        title: "Student Counts vs. Coc Type",
+        desc: `Overall student homelessness is worse in non urban CoCs with the exception of unsheltered students.`
+    }
 ]
 
 export interface Option {
