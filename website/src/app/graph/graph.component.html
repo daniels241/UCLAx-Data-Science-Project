@@ -1,15 +1,7 @@
 <div class="">
     <div class="row">
-        <div class="twelve columns u-centered">
-            <h3>{{ graph.title | titlecase }}</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="twelve columns"><img class="u-centered" [src]='graph.source' [alt]='graph.title'/></div>
-    </div>
-    <div class="row">
-        <div class="eight columns offset-by-two"><label>Choose a Graph</label><br>
-            <select [(ngModel)]="graph" (ngModelChange)="newGraph(graph)">
+        <div class="twelve columns"><label>Choose a Graph</label><br>
+            <select id="dropdown" [(ngModel)]="graph" (ngModelChange)="newGraph(graph)">
                 <option *ngFor="let graphChosen of graphList"
                         [ngValue]="graphChosen"
                         [selected]="graphChosen.title == graph.title ? true : null">
@@ -19,8 +11,24 @@
         </div>
     </div>
     <div class="row">
-        <div class="twelve columns">
-            <p class="data">{{ graph.desc }}</p>
+        <div class="twelve columns u-centered">
+            <h3>{{ graph.title | titlecase }}</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="six columns">
+            <img class="u-centered" [src]='graph.source' [alt]='graph.title'/>
+        </div>
+        <div class="six columns">
+            <p class="desc">{{ graph.desc }}</p>
+        </div>
+    </div>
+    <div *ngFor="let table of tables" class="row">
+        <div class="six columns">
+            <img class="u-centered" [src]='table.source' [alt]='table.title'/>
+        </div>
+        <div class="six columns">
+            <p class="desc">{{ table.desc }}</p>
         </div>
     </div>
 </div>

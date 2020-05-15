@@ -321,8 +321,11 @@
     display: block;
     padding: 1rem 1.5rem;
     white-space: pre; }
-  data {
+  .desc {
     white-space: pre !important;
+    margin-top: 2.5rem;
+    max-width: 25vw;
+    word-wrap: normal;
   }
   
   /* Tables
@@ -360,7 +363,11 @@
   ol,
   form {
     margin-bottom: 2.5rem; 
-    white-space: pre;}
+    white-space: pre;
+    font-size: 1.8rem; 
+    line-height: 1.5;  
+    letter-spacing: -.05rem;
+  }
   img {
       margin-bottom: 2.5rem;  }
   
@@ -392,6 +399,12 @@
     border-width: 0;
     border-top: 1px solid #E1E1E1; }
   
+  #dropdown {
+    display: block;
+    margin: auto;
+    margin-bottom: 2rem;
+    width: 25vw;
+  }
   
   /* Clearing
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
