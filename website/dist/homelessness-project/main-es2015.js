@@ -349,22 +349,22 @@ const tables = [
     {
         source: "../../assets/coc_category_by_coc_type.png",
         title: "CoC Category vs. Coc Type",
-        desc: `There are far more non urban CoCs than urban CoCs.`
+        desc: `• There are far more non urban CoCs than urban CoCs.`
     },
     {
         source: "../../assets/monetary_counts_by_coc_type.png",
         title: "Monetary Rewards vs. CoC Type",
-        desc: `The monetary rewards going into each CoC type are\ncomparable with slightly more money going towards\nplanning for non urban CoCs.`
+        desc: `• The monetary rewards going into each CoC type are\ncomparable with slightly more money going towards\nplanning for non urban CoCs.`
     },
     {
         source: "../../assets/recidivism_counts_by_coc_type.png",
         title: "Recidivism Counts vs. Coc Type",
-        desc: `By all counts recidivism is worse in non urban CoCs.`
+        desc: `• By all counts recidivism is worse in non urban CoCs.`
     },
     {
         source: "../../assets/student_counts_by_coc_type.png",
         title: "Student Counts vs. Coc Type",
-        desc: `Overall student homelessness is worse in non urban CoCs\nwith the exception of unsheltered students.`
+        desc: `• Overall student homelessness is worse in non urban CoCs\nwith the exception of unsheltered students.`
     }
 ];
 
