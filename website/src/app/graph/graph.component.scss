@@ -322,10 +322,10 @@
     padding: 1rem 1.5rem;
     white-space: pre; }
   .desc {
-    white-space: pre !important;
-    margin-top: 2.5rem;
-    max-width: 25vw;
-    word-wrap: normal;
+    white-space: pre;
+    overflow: auto;
+    overflow-wrap: break-word;
+    height: 100%;
   }
   
   /* Tables
@@ -362,10 +362,8 @@
   ul,
   ol,
   form {
-    margin-bottom: 2.5rem; 
     white-space: pre;
     font-size: 1.8rem; 
-    line-height: 1.5;  
     letter-spacing: -.05rem;
   }
   img {
@@ -418,6 +416,10 @@
     clear: both; }
   
   
+  .description-container {
+    display: block;
+    height: 100% !important;
+  }
   /* Media Queries
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   /*
