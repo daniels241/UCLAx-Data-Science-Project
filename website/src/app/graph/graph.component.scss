@@ -65,13 +65,13 @@
     .three.columns                  { width: 22%;            }
     .four.columns                   { width: 30.6666666667%; }
     .five.columns                   { width: 39.3333333333%; }
-    .six.columns                    { width: 48%;            }
+    .six.columns                    { width: 48%; margin: 2rem 1rem; }
     .seven.columns                  { width: 56.6666666667%; }
     .eight.columns                  { width: 65.3333333333%; }
     .nine.columns                   { width: 74.0%;          }
     .ten.columns                    { width: 82.6666666667%; }
     .eleven.columns                 { width: 91.3333333333%; }
-    .twelve.columns                 { width: 100%; margin-left: 0; }
+    .twelve.columns                 { width: 100%; margin-left: 0; margin-top: 1rem; }
   
     .one-third.column               { width: 30.6666666667%; }
     .two-thirds.column              { width: 65.3333333333%; }
@@ -404,6 +404,11 @@
     width: 25vw;
   }
   
+  .row {
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 12px;
+    margin: 1rem 0;
+  }
   /* Clearing
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   
