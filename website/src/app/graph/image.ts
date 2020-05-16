@@ -6,6 +6,22 @@ export interface Item {
 
 export const graphs: Item[] = [
     {
+        source: "../../assets/coc_category_x_award_amount_1.png",
+        title: "Award Dispersion by CoC Category - Detailed",
+        desc: `
+        - This graph shows the distribution of monetery awards distributed by HUD to each CoC Category.
+        - The funds are comparatively distributed with slightly higher amounts going to Major Cites.
+        `
+    },
+    {
+        source: "../../assets/coc_category_x_award_amount_2.png",
+        title: "Award Dispersion by CoC Category - General",
+        desc: `
+        - This graph shows the distribution of monetery awards distributed by HUD to each CoC Category. 
+        - The funds are comparatively distributed with slightly higher amounts going to Urban CoCs.
+        `
+    },
+    {
         source: "../../assets/coc_category_x_homelessness_return_rate_dist.png",
         title: "Distribution of Homelessness Return Rate by CoC Category",
         desc: `
@@ -30,22 +46,6 @@ export const graphs: Item[] = [
         - This graph shows the average Return Rates to Homelessness from 2015-2017 for each CoC Category.
         - We can see a general upward trend per year for each category.
         - Rual CoCs have an overall higher Homelessness Return Rate and a shaper incline relatice to the other CoC categories.
-        `
-    },
-    {
-        source: "../../assets/coc_category_x_award_amount_1.png",
-        title: "Award Dispersion by CoC Category - Detailed",
-        desc: `
-        - This graph shows the distribution of monetery awards distributed by HUD to each CoC Category.
-        - The funds are comparatively distributed with slightly higher amounts going to Major Cites.
-        `
-    },
-    {
-        source: "../../assets/coc_category_x_award_amount_2.png",
-        title: "Award Dispersion by CoC Category - General",
-        desc: `
-        - This graph shows the distribution of monetery awards distributed by HUD to each CoC Category. 
-        - The funds are comparatively distributed with slightly higher amounts going to Urban CoCs.
         `
     },
 ]
