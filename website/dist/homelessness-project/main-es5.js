@@ -604,23 +604,23 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var graphs = [{
       source: "../../assets/coc_category_x_award_amount_1.png",
       title: "Award Dispersion by CoC Category - Detailed",
-      desc: "\n        \u2022 This graph shows the distribution of monetery awards\n\t\tdistributed by HUD to each CoC Category.\n\n        \u2022 The funds are comparatively distributed with slightly\n\t\thigher amounts going to Major Cites.\n        "
+      desc: "\n\u2022 This graph shows the distribution of monetery awards\n\t\tdistributed by HUD to each CoC Category.\n\n\u2022 The funds are comparatively distributed with slightly\n\t\thigher amounts going to Major Cites.\n        "
     }, {
       source: "../../assets/coc_category_x_award_amount_2.png",
       title: "Award Dispersion by CoC Category - General",
-      desc: "\n        \u2022 This graph shows the distribution of monetery awards\n\t\tdistributed by HUD to each CoC Category.\n \n        \u2022 The funds are comparatively distributed with slightly\n\t\thigher amounts going to Urban CoCs.\n        "
+      desc: "\n\u2022 This graph shows the distribution of monetery awards\n\t\tdistributed by HUD to each CoC Category.\n \n\u2022 The funds are comparatively distributed with slightly\n\t\thigher amounts going to Urban CoCs.\n        "
     }, {
       source: "../../assets/coc_category_x_homelessness_return_rate_dist.png",
       title: "Distribution of Homelessness Return Rate by CoC Category",
-      desc: "\n        \u2022 This graph shows the relative distribution of the\n\t\tReturn Rate to Homelessness by CoC.\n\n        \u2022 We can see that Major Cities and other Urban CoCs\n\t\thave Return Rates densely distributed in\n\t\tthe (0.2-0.6) range and sparsely distributed\n\t\tin the 0.6+ range.\n\n        \u2022 We can also observe that Rural CoCs have\n\t\tReturn Rates more densely distributed\n\t\tin the higher ranges (0.6+).\n        "
+      desc: "\n\u2022 This graph shows the relative distribution of the\n\t\tReturn Rate to Homelessness by CoC.\n\n\u2022 We can see that Major Cities and other Urban CoCs\n\t\thave Return Rates densely distributed in\n\t\tthe (0.2-0.6) range and sparsely distributed\n\t\tin the 0.6+ range.\n\n\u2022 We can also observe that Rural CoCs have\n\t\tReturn Rates more densely distributed\n\t\tin the higher ranges (0.6+).\n        "
     }, {
       source: "../../assets/Total_Homeless_x_CoC_category.png",
       title: "Homeless Count by CoC Category",
-      desc: "\n        \u2022 This chart shows the Total Homeslessness Count with\n\t\tthe proportion of First Time Homeless count hued\n\t\tin light grey.\n\n        \u2022 We can see that First Time Homeless Counts are a\n\t\tsignificant portion of the overall Homeless\n\t\tpopulation as a whole.\n\n        \u2022 This is especially true in Rual CoCs and\n\t\tsmaller Urban CoCs. \n        "
+      desc: "\n\u2022 This chart shows the Total Homeslessness Count with\n\t\tthe proportion of First Time Homeless count hued\n\t\tin light grey.\n\n\u2022 We can see that First Time Homeless Counts are a\n\t\tsignificant portion of the overall Homeless\n\t\tpopulation as a whole.\n\n\u2022 This is especially true in Rual CoCs and\n\t\tsmaller Urban CoCs. \n        "
     }, {
       source: "../../assets/Year_x_Homelessness_Return_Rate_CoC_category_2.png",
       title: "Homlessness Return Rate by Year by CoC Category",
-      desc: "\n        \u2022 This graph shows the average Return Rates to\n\t\tHomelessness from 2015-2017 for each CoC Category.\n\n        \u2022 We can see a general upward trend per year\n\t\tfor each category.\n\n        \u2022 Rual CoCs have an overall higher Homelessness\n\t\tReturn Rate and a shaper incline relatice to the\n\t\tother CoC categories.\n        "
+      desc: "\n\u2022 This graph shows the average Return Rates to\n\t\tHomelessness from 2015-2017 for each CoC Category.\n\n\u2022 We can see a general upward trend per year\n\t\tfor each category.\n\n\u2022 Rual CoCs have an overall higher Homelessness\n\t\tReturn Rate and a shaper incline relatice to the\n\t\tother CoC categories.\n        "
     }];
     var tables = [{
       source: "../../assets/coc_category_by_coc_type.png",
