@@ -65,7 +65,7 @@
     .three.columns                  { width: 22%;            }
     .four.columns                   { width: 30.6666666667%; }
     .five.columns                   { width: 39.3333333333%; }
-    .six.columns                    { width: 48%; margin: 2rem 1rem; }
+    .six.columns                    { width: 48%; margin: 2rem 1rem 0 1rem; }
     .seven.columns                  { width: 56.6666666667%; }
     .eight.columns                  { width: 65.3333333333%; }
     .nine.columns                   { width: 74.0%;          }
@@ -242,7 +242,10 @@
     border: 1px solid #D1D1D1;
     border-radius: 4px;
     box-shadow: none;
-    box-sizing: border-box; }
+    box-sizing: border-box; 
+    border: 3px solid #1976d2;
+    border-radius: 5px;
+  }
   /* Removes awkward default styles on some inputs for iOS */
   input[type="email"],
   input[type="number"],
@@ -268,7 +271,8 @@
   input[type="password"]:focus,
   textarea:focus,
   select:focus {
-    border: 1px solid #33C3F0;
+    border: 3px solid #1976d2;
+    border-radius: 5px;
     outline: 0; }
   label,
   legend {
@@ -352,7 +356,7 @@
   textarea,
   select,
   fieldset {
-    margin-bottom: 1.5rem; }
+    margin-bottom: 0.5rem; }
   pre,
   blockquote,
   dl,
@@ -367,7 +371,10 @@
     letter-spacing: -.05rem;
   }
   img {
-      margin-bottom: 2.5rem;  }
+      margin-bottom: 2.5rem;  
+      border: 10px solid #1976d2;
+      border-radius: 5px;
+    }
   
   /* Utilities
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -407,7 +414,7 @@
   .row {
     background-color: rgba(0, 0, 0, 0.7);
     border-radius: 12px;
-    margin: 1rem 0;
+    margin: 1rem 0 0 0;
   }
   /* Clearing
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
