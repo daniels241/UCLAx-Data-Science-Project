@@ -305,7 +305,7 @@ const graphs = [
         source: "../../assets/coc_category_x_award_amount_1.png",
         title: "Award Dispersion by CoC Category - Detailed",
         desc: `
-• This graph shows the distribution of monetery awards\n\t\tdistributed by HUD to each CoC Category.\n
+• This graph shows the distribution of monetary awards\n\t\tdistributed by HUD to each CoC Category.\n
 • The funds are comparatively distributed with slightly\n\t\thigher amounts going to Major Cites.
         `
     },
@@ -313,7 +313,7 @@ const graphs = [
         source: "../../assets/coc_category_x_award_amount_2.png",
         title: "Award Dispersion by CoC Category - General",
         desc: `
-• This graph shows the distribution of monetery awards\n\t\tdistributed by HUD to each CoC Category.\n 
+• This graph shows the distribution of monetary awards\n\t\tdistributed by HUD to each CoC Category.\n 
 • The funds are comparatively distributed with slightly\n\t\thigher amounts going to Urban CoCs.
         `
     },
@@ -332,7 +332,7 @@ const graphs = [
         desc: `
 • This chart shows the Total Homeslessness Count with\n\t\tthe proportion of First Time Homeless count hued\n\t\tin light grey.\n
 • We can see that First Time Homeless Counts are a\n\t\tsignificant portion of the overall Homeless\n\t\tpopulation as a whole.\n
-• This is especially true in Rual CoCs and\n\t\tsmaller Urban CoCs. 
+• This is especially true in Rural CoCs and\n\t\tsmaller Urban CoCs. 
         `
     },
     {
@@ -341,7 +341,7 @@ const graphs = [
         desc: `
 • This graph shows the average Return Rates to\n\t\tHomelessness from 2015-2017 for each CoC Category.\n
 • We can see a general upward trend per year\n\t\tfor each category.\n
-• Rual CoCs have an overall higher Homelessness\n\t\tReturn Rate and a shaper incline relatice to the\n\t\tother CoC categories.
+• Rural CoCs have an overall higher Homelessness\n\t\tReturn Rate and a shaper incline relative to the\n\t\tother CoC categories.
         `
     },
 ];
